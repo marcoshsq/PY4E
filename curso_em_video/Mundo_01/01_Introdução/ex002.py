@@ -1,4 +1,4 @@
-# Exercise Python 002: Answer to the user
+# Python Exercise 002: Answer to the user
 '''Make a program that reads a person's name and displays a welcome message.'''
 
 nome = input('Insert your name: ')
