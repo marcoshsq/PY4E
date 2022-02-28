@@ -8,7 +8,7 @@ This repository contains the list of proposed exercises plus other extra exercis
 
 ## Important Notes
 
-The exercises available here only cover the basics of the Python language and some minor projects that apply such knowledge.
+The exercises available here only cover the basics of the Python language and some minor projects that apply such knowledge. That are: The exercises available here only cover the basics of the Python language and some minor projects that apply such knowledge. That are: Basic Syntax, Variables and Data Types, Conditionals, Type Casting, Exceptions, Functions and Builtin Functions, Lists, Tuples, Sets, Dictionaries and some Packages
 
-## Subjects
+
 
