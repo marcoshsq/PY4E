@@ -1,4 +1,4 @@
-# Exercise Python 007: Average 
+# Python Exercise 007: Average 
 '''Develop a program that reads a student's two grades, calculates and displays their average.'''
 
 score_a = float(input('Insira a primeira nota do aluno: '))
