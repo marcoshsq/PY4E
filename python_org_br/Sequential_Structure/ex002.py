@@ -1,4 +1,4 @@
-# Extra Exercise
+# Extra Exercise 002
 '''Write a program that prompts the user for the hours and fee amount
 per hours to calculate the amount to be paid for hours of service.'''
 
