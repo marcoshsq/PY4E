@@ -1,5 +1,5 @@
 from typing import Type
-# Exercise Python 004: Dissecting a variable.
+# Python Exercise 004: Dissecting a variable.
 '''Make a program that reads something from the keyboard and displays it on the screen
 its primitive type and all possible information about it.'''
 
