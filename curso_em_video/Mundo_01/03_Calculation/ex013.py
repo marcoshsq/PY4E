@@ -1,5 +1,5 @@
-# Exercício Python 013: Reajuste salarial
-'''Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.'''
+# Python Exercise 013: Salary Readjustment
+'''Make an algorithm that reads an employee's salary and displays their new salary, with a 15% increase.'''
 
 wage = float(input('Qual o valor do sálario: '))
 aumento = wage * 1.15
