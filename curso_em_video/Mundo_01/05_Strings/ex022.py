@@ -1,8 +1,8 @@
-# Exercício Python 022 - Analisador de Textos
-'''Crie um programa que leia o nome completo de uma pessoa e mostre: 
-- O nome com todas as letras maiúsculas e minúsculas.
-- Quantas letras ao todo (sem considerar espaços).
-- Quantas letras tem o primeiro nome.'''
+# Python Exercise 022 - Text Parser
+'''Create a program that reads a person's full name and displays:
+- The name in all uppercase and lowercase letters.
+- How many letters in total (without considering spaces).
+- How many letters are in the first name.'''
 
 name = str(input('Digite seu nome: ')).strip()
 name_up = name.upper()          # O nome com todas as letras maiúsculas
