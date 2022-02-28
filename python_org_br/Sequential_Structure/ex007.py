@@ -1,9 +1,9 @@
-# Exercício Extra:
-'''Faça um Programa que peça 2 números inteiros e um número real.
-Calcule e mostre:
-a) o produto do dobro do primeiro com metade do segundo .
-b) a soma do triplo do primeiro com o terceiro.
-c) o terceiro elevado ao cubo.'''
+# Extra Exercise 007
+'''Make a program that asks for 2 integers and a real number.
+Calculate and show:
+a) the product of the double of the first and half of the second.
+b) the sum of the triple of the first and the third.
+c) the third cubed.'''
 
 x , y , z = input('Insert three numbers: ').split()
 first_int = int(x)
