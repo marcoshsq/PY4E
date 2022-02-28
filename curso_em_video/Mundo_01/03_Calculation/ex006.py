@@ -1,4 +1,4 @@
-# Exercise Python 006: Double, Triple, Square Root
+# Python Exercise 006: Double, Triple, Square Root
 '''Create an algorithm that reads a number and displays its double, triple and square root.'''
 
 num = float(input('Insira um número: '))
