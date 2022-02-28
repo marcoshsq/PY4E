@@ -1,7 +1,7 @@
 from typing import Type
-# Exercício Python 004: Dissecando uma variável.
-'''Faça um programa que leia algo pelo teclado e mostre na tela
-o seu tipo primitivo e todas as informações possíveis sobre ele.'''
+# Python Exercise 004: Dissecting a variable.
+'''Make a program that reads something from the keyboard and displays it on the screen
+its primitive type and all possible information about it.'''
 
 variable = input('Insira um valor')
 print('O tipo primitivo desse valor é:', type(variable))
@@ -13,5 +13,5 @@ print('Está em minuscula: ', variable.islower())
 print('Está capitalizado:', variable.istitle())
 
 
-'''essa função .is____() permite descobrir algumas informações interessantes 
-sobre o meu input, então é legal deixar salvo isso, para algum momento'''
+'''this .is____() function lets you discover some interesting information
+about my input, so it's nice to save that, for some time'''

@@ -1,5 +1,8 @@
-# Exercício Python 001: Deixando tudo pronto.
+# Python Exercise 001: Getting started.
 
-'''Crie um programa que escreva "Hello, World" na tela'''
+'''Create a program that prints "Hello, World" on the screen'''
 
-print('Hello, World!')
+print('Hello, World!') 
+
+
+# print is the function that prints stuff u.u

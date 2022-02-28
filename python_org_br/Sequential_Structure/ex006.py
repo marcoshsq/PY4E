@@ -1,7 +1,7 @@
-# Exercício Extra: 
-'''Faça um Programa que pergunte quanto você ganha por hora 
-e o número de horas trabalhadas no mês. 
-Calcule e mostre o total do seu salário no referido mês.'''
+# Extra Exercise 006
+'''Make a program that asks how much you earn per hour
+and the number of hours worked in the month.
+Calculate and display your total salary for that month.'''
 
 hour_pay = float(input('Earning per hour: '))
 worked_hour = float(input('Hours of work: '))

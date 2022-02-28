@@ -1,5 +1,5 @@
-# Exercício Python 014: Conversor de temperaturas
-'''Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.'''
+# Python Exercise 014: Temperature Converter
+'''Write a program that converts a temperature by typing in degrees Celsius and converts it to degrees Fahrenheit.'''
 
 # Conversor de Celcius
 

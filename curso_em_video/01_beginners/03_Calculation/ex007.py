@@ -1,5 +1,5 @@
-# Exercício Python 007: Média Aritmética 
-'''Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.'''
+# Python Exercise 007: Average 
+'''Develop a program that reads a student's two grades, calculates and displays their average.'''
 
 score_a = float(input('Insira a primeira nota do aluno: '))
 score_b = float(input('Insira a segunda nota do aluno: '))

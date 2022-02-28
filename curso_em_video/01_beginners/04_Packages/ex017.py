@@ -1,8 +1,7 @@
-# Exercício Python 017: Catetos e hipotenusa 
-'''Faça um programa que leia o comprimento do cateto oposto 
-e do cateto adjacente de um triângulo retângulo. 
-Calcule e mostre o comprimento da hipotenusa.'''
-
+# Python Exercise 017: Legs and Hypotenuse
+'''Make a program that reads the length of the opposite side
+and the adjacent side of a right triangle.
+Calculate and display the length of the hypotenuse.'''
 import math
 
 # Método 01, sem o módulo:

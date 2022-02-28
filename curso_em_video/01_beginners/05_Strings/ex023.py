@@ -1,6 +1,6 @@
-# Exercício Python 023 - Separando dígitos de um número
-'''Faça um programa que leia um número de 0 a 9999 e 
-mostre na tela cada um dos dígitos separados.'''
+# Python Exercise 023 - Separating digits from a number
+'''Make a program that reads a number from 0 to 9999 and
+display each of the separate digits on the screen.'''
 
 number = int(input('Insira um número: '))
 unity = (number // 1) % 10
