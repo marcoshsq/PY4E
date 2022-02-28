@@ -1,5 +1,5 @@
-# Exercício Python 010: Conversor de moedas
-'''Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.'''
+# Python Exercise 010: Currency Converter
+'''Create a program that reads how much money in reais a person has in their wallet and shows how many dollars they can buy.'''
 
 money_real = float(input('Qual quantia você possui: '))
 dolar = money_real / 5.10
