@@ -1,4 +1,4 @@
-# Exercise Python 003: The sum of two values.
+# Python Exercise 003: The sum of two values.
 '''Create a program that reads two numbers and displays the sum between them.'''
 
 num_1 = int(input('Insert the first value: '))
