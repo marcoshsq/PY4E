@@ -1,5 +1,5 @@
-# Exercício Python 006: Dobro, Triplo, Raiz Quadrada
-'''Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.'''
+# Exercise Python 006: Double, Triple, Square Root
+'''Create an algorithm that reads a number and displays its double, triple and square root.'''
 
 num = float(input('Insira um número: '))
 double_num = num * 2
