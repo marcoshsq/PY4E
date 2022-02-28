@@ -1,4 +1,4 @@
-# Exercise Python 001: Getting started.
+# Python Exercise 001: Getting started.
 
 '''Create a program that prints "Hello, World" on the screen'''
 
