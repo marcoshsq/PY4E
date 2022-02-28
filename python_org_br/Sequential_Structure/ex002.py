@@ -1,6 +1,6 @@
-# Exercício Extra
-'''Escreva um programa que solicite ao usuário as horas e o valor da taxa 
-por horas para calcular o valor a ser pago por horas de serviço.'''
+# Extra Exercise
+'''Write a program that prompts the user for the hours and fee amount
+per hours to calculate the amount to be paid for hours of service.'''
 
 horas = float(input('Digite a quantidade de horas: '))
 taxa = float(input('Digite o valor da taxa: '))
