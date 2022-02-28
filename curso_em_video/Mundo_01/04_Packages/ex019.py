@@ -1,6 +1,6 @@
-# Exercício Python 019 - Sorteando um item na lista
-''' Um professor quer sortear um dos seus quatro alunos para apagar o quadro. 
-Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.'''
+# Python Exercise 019 - Sorting an item in the list
+''' A teacher wants to draw one of his four students to erase the board.
+Make a program that helps him, reading the name of the students and writing on the screen the name of the chosen one.'''
 
 import random
 
