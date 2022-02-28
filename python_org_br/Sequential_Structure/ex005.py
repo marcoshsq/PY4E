@@ -1,6 +1,6 @@
-# Exercício Extra: 
-'''Faça um Programa que calcule a área de um quadrado, 
-em seguida mostre o dobro desta área para o usuário.'''
+# Extra Exercise 005
+'''Make a program that calculates the area of a square,
+then show double this area to the user.'''
 
 square_base = float(input('Insert the base value: '))
 square_height = float(input('Insert the height value: '))
