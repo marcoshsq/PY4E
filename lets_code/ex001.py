@@ -1,4 +1,4 @@
-# Extra Exercise: let's Code
+# Extra Exercise 001: let's Code
 '''Make a program that asks for a monetary value and decrease it by 15%. Your
 program should print the message “New value is [value]”.'''
 
