@@ -1,3 +1,5 @@
+# Extra Exercise 002: let's Code
+
 '''Make a program that reads the validity of the information:
 The. Age: between 0 and 150;
 B. Salary: greater than 0;
