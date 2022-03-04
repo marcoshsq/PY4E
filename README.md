@@ -6,9 +6,49 @@ This repository contains the list of proposed exercises plus other extra exercis
 
 ---
 
-## Important Notes
+## Main List of exercises:
+### Beginners:
+Intro -
+- Ex001 - [Create a program that prints "Hello, World" on the screen](https://github.com/marcoshsq/python_practical_exercises/blob/main/curso_em_video/01_beginners/01_Intro/ex001.py)
+- Ex002 - [Make a program that reads a person's name and displays a welcome message](https://github.com/marcoshsq/python_practical_exercises/blob/main/curso_em_video/01_beginners/01_Intro/ex002.py)
 
-The exercises available here only cover the basics of the Python language and some minor projects that apply such knowledge. That are: The exercises available here only cover the basics of the Python language and some minor projects that apply such knowledge. That are: Basic Syntax, Variables and Data Types, Conditionals, Type Casting, Exceptions, Functions and Builtin Functions, Lists, Tuples, Sets, Dictionaries and some Packages
+#### Primeiros passos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Important Note - The exercises available here only cover the basics of the Python language and some minor projects that apply such knowledge. That are: The exercises available here only cover the basics of the Python language and some minor projects that apply such knowledge. That are: Basic Syntax, Variables and Data Types, Conditionals, Type Casting, Exceptions, Functions and Builtin Functions, Lists, Tuples, Sets, Dictionaries and some Packages
 
 
 
