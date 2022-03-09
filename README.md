@@ -74,13 +74,13 @@ This repository contains a list of dozens of exercises exploring the basics of t
 - Ex036 - Write a database approval program for the purchase of a home'. Ask the value of the home, the buyer's salary and how many years he will pay. The monthly installment cannot exceed 3% of salary or else the plan will be denied.
 - Ex037 - Write a Python program that reads any integer and asks it to the user to choose what the conversion base will be: 1 for binary, 2 for octal and 3 for hexadecimal.
 - Ex038 - Write a program that reads two integers and compares them. displaying a message on the screen: - The first value is larger.
-- Ex039 - 
-- Ex040 -
-- Ex041 -
-- Ex042 -
-- Ex043 -
-- Ex044 -
-- Ex045 -
+- Ex039 - Make a program that reads a young person's year of birth and reports, according to their age, if he's still going to enlist in the military, if it's the right time to enlist or if it's past the time to enlist. Your program should also show the time left or overdue.
+- Ex040 - Create a program that reads two grades from a student and calculates their average, showing a message at the end, according to the average achieved: - Average below 5.0: FAIL
+- Ex041 - The National Swimming Confederation needs a program that reads the year of birth of an athlete and show their category, according to age: - Up to 9 years: MIRIM; - Up to 14 years: CHILDREN; - Up to 19 years old: JUNIOR; - Up to 25 years old: SENIOR; - Over 25 years: MASTER.
+- Ex042 - Redo the DESAFIO 035 of the triangles, adding the feature to show what type of triangle will be formed: - EQUILATERAL: all sides equal; - ISOSCELES: two equal sides, one different; - SCALENO: all different sides.
+- Ex043 - Develop logic that reads a person's weight and height, calculates their Body Mass Index (BMI) and show your status according to the table below: - BMI below 18.5: Underweight; - Between 18.5 and 25: Ideal Weight; - 25 to 30: Overweight; - 30 to 40: Obesity; - Above 40: Morbid Obesity.
+- Ex044 - Create a program that calculates the amount to be paid for a product, Considering your normal price and payment term: - cash/check: 10% discount; - cash on card: 5% discount; - up to 2x on the card: formal price; - 3x or more on the card: 20% interest.
+- Ex045 - Create a program that makes the computer play paper, scissors, rock with you.
 
 ...loading
 
