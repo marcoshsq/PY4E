@@ -5,33 +5,47 @@ Exercícios Basicos da linguagem Python, desde Basic Syntax, Variables e Data Ty
 
 ---
 
-## Main List: [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+## Main List: [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) - 115 Exercícios no total.
 
 
-#### Basic Commands: [Mundo 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+#### Comandos Básicos: [Mundo 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
 
-- 01-Intro: Exercícios 01 e 02;
+- 01 - Intro: Exercícios 01 e 02;
   
-- 02-First steps: Exercícios 03 e 04;
+- 02 - First steps: Exercícios 03 e 04;
 
-- 03-Calculation: Do exercício 05 ao 15;
+- 03 - Calculation: Do exercício 05 ao 15;
 
-- 04-Some Packages: Do exercício 16 ao 21;
+- 04 - Some Packages: Do exercício 16 ao 21;
 
-- 05-Strings: Do exercício 22 ao 27;
+- 05 - Strings: Do exercício 22 ao 27;
 
-- 06-Conditionals: Do exercício 28 ao 35
+- 06 - Conditionals: Do exercício 28 ao 35
 
-#### Intermediate Commands: [Mundo 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+#### Comandos Intermediários: [Mundo 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
-- 07-Conditionals partII (If, Elif, Else): Do exercício 36 ao 45; 
+- 07 - Conditionals partII (If, Elif, Else): Do exercício 36 ao 45; 
 
-- 08-Repetições em Python (for): Do exercício 46 ao 56;
+- 08 - Repetições em Python (for): Do exercício 46 ao 56;
 
+- 09 - Repetições em Python (while): Do exercício 57 ao 71;
 
+#### Comandos Avançados: [Mundo 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 
-...loading
+- 10 - Tuplas: Do exercício 72 ao 77;
+
+- 11 - Listas (parte I): Do exercício 78 ao 83;
+
+- 12 - Listas (parte II): Do exercício 84 ao 89;
+
+- 13 - Dicionários: Do exercício 90 ao 95;
+
+- 13 - Funções: Do exercício 96 ao 106;
+
+- 13 - Modularização em Python: Do exercício 107 ao 112;
+
+- 14 - Tratamento de erros em Python: Do exercício 113 ao 115;
 
 
 ##
@@ -52,12 +66,8 @@ Exercícios Basicos da linguagem Python, desde Basic Syntax, Variables e Data Ty
 
 
 
-...loading
-
-
-
 ---
-
+# Alguns exercícios do Python Brasil são idênticos aos do Curso em vídeo, logo achei redundante coloca-los aqui.
 
 
 
