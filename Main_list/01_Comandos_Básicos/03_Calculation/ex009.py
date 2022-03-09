@@ -1,5 +1,5 @@
-# Python Exercise 009: Times tables
-'''Make a program that reads any integer and displays its multiplication table on the screen. '''
+# Exercício Python 009: Tabuada
+'''Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada. '''
 
 num = int(input('Digite um número: '))
 print('=' * 13)

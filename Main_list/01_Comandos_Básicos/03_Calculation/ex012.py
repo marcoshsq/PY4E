@@ -1,5 +1,5 @@
-# Python Exercise 012: Calculating Discounts
-''' Make an algorithm that reads the price of a product and displays its new price, with a 5% discount.'''
+# Exercício Python 012: Calculando descontos
+''' Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.'''
 
 preço = float(input('Qual o valor do produto: '))
 desc = preço * 0.95
