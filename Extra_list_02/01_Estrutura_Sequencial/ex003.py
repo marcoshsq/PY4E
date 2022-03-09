@@ -1,12 +1,5 @@
-# Extra Exercise 003
-'''Write a program that prompts the user for the hours and fee amount
-per hours to calculate the amount to be paid for hours of service.'''
+# Exercício Extra 003
 
-horas = float(input('Digite a quantidade de horas: '))
-taxa = float(input('Digite o valor da taxa: '))
-print('O valor a ser pago é: US$', horas * taxa)
-
-# Exercício Extra 
 '''Escreva um programa que solicite ao usuário uma temperatura Celsius, 
 converta para Fahrenheit, e mostre a temperatura convertida.'''
 

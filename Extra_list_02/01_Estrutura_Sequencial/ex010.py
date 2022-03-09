@@ -1,21 +1,22 @@
-# Extra Exercise 010
-'''Make a program that asks how much you earn per hour and the number of hours worked in the month.
-Calculate and show the total of your salary in that month, knowing that 11% is deducted for Income Tax,
-8% for the INSS and 5% for the union, make a program that gives us:
+# Exercício Extra 010
 
-a) gross salary.
-b) how much you paid to the INSS.
-c) how much he paid to the union.
-d) the net salary.
-e) calculate the discounts and the net salary, according to the table below:
+'''Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. 
+Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 
+8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
 
-+ Gross Salary: R$
-- Income Tax (11%): BRL
-- INSS (8%): BRL
-- Union (5%): BRL
-= Net Salary: R$
+a) salário bruto.
+b) quanto pagou ao INSS.
+c) quanto pagou ao sindicato.
+d) o salário líquido.
+e) calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
-Obs.: Gross Salary - Discounts = Net Salary.'''
++ Salário Bruto : R$
+- IR (11%) : R$
+- INSS (8%) : R$
+- Sindicato ( 5%) : R$
+= Salário Liquido : R$
+
+Obs.: Salário Bruto - Descontos = Salário Líquido.'''
 
 
 

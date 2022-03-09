@@ -1,16 +1,20 @@
-# Extra Exercise 003: let's Code
+# Exercício Extra 003: let's Code
 
-'''Let's make a program to verify who is the murderer of a crime.
-To find the killer, the police make a short quiz with 5
-questions where the answer can only be yes or no:
+'''
 
-A. Do they live near the victim?
-B. Have they ever worked with the victim?
-C. Did they called the victim?
-D. Were they at the crime scene? 
-E. Did they owe the victim?
+Vamos fazer um programa para verificar quem é o assassino de um crime.
+Para descobrir o assassino, a polícia faz um pequeno questionário com 5
+perguntas onde a resposta só pode ser sim ou não:
 
-Each yes answer gives one point to the suspect. The police consider that
-suspects with 5 points are murderers, with 4 to 3 points are accomplices and
-2 points are only suspect, needing further investigation. Values
-equal to or below 1 are released.'''
+a. Mora perto da vítima?
+b. Já trabalhou com a vítima?
+c. Telefonou para a vítima?
+d. Esteve no local do crime?
+e. Devia para a vítima?
+
+Cada resposta sim dá um ponto para o suspeito. A polícia considera que os
+suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e
+2 pontos são apenas suspeitos, necessitando outras investigações. Valores
+iguais ou abaixo de 1 são liberados.
+
+'''

@@ -1,4 +1,3 @@
-# Extra Exercise 004: let's Code
+# Exercício Extra 004: let's Code
 
-'''Write a program that prints the 9 times table (from 9*1 to 9*10) using loops.'''
-
+'''Escreva um programa que imprima a tabuada dos 9 (de 9*1 a 9*10) usando loops.'''

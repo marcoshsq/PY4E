@@ -1,11 +1,11 @@
-# Extra Exercise 002: let's Code
+# Exercicio extra 002: let's Code
 
-'''Make a program that reads the validity of the information:
-The. Age: between 0 and 150;
-B. Salary: greater than 0;
-ç. Gender: M, F or Other;
-The program should print an error message for each information
-invalid.'''
+'''Faça um programa que leia a validade das informações:
+a. Idade: entre 0 e 150;
+b. Salário: maior que 0;
+c. Sexo: M, F ou Outro;
+O programa deve imprimir uma mensagem de erro para cada informação
+inválida.'''
 
 while True :
     age = int(input('Insert your age: ').strip())

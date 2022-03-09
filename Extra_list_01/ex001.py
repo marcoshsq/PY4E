@@ -1,6 +1,7 @@
-# Extra Exercise 001: let's Code
-'''Make a program that asks for a monetary value and decrease it by 15%. Your
-program should print the message “New value is [value]”.'''
+# Exercício Extra 001: let's Code
+
+'''Faça um programa que peça um valor monetário e diminua-o em 15%. Seu
+programa deve imprimir a mensagem “O novo valor é [valor]”.'''
 
 value = float(input('Insira o valor total: '))
 descount = value * 0.85

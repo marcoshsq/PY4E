@@ -1,6 +1,8 @@
 import math
-# Extra Exercise 004
-'''Make a program that asks for the radius of a circle, calculates and displays its area.'''
+
+# Exercício Extra 004 
+
+'''Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.'''
 
 radius = float(input('Insira o valor de um círculo'))
 area = math.pi * radius ** 2
