@@ -1,5 +1,5 @@
-# Python Exercise 003: The sum of two values.
-'''Create a program that reads two numbers and displays the sum between them.'''
+# Exercício Python 003: Somando dois números.
+'''Crie um programa que leia dois números e mostre a soma entre eles.'''
 
 num_1 = int(input('Insert the first value: '))
 num_2 = int(input('Insert the second value: '))
@@ -7,6 +7,7 @@ sum = num_1 + num_2
 print(f'The sum between {num_1} and {num_2} is {sum}')
 
 
-''' This f along with the {} masks is very useful, good to let you train this syntax
-to improve the code u.u'''
+''' Esse f junto com as mascaras {} é bem útil, bom deixar treinar essa sintaxe
+para melhorar meu código u.u'''
+
 
