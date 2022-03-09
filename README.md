@@ -67,7 +67,7 @@ Exercícios Basicos da linguagem Python, desde Basic Syntax, Variables e Data Ty
 
 
 ---
-# Alguns exercícios do Python Brasil são idênticos aos do Curso em vídeo, logo achei redundante coloca-los aqui.
+#Nota - Alguns exercícios do Python Brasil são idênticos aos do Curso em vídeo, logo achei redundante coloca-los aqui.
 
 
 
