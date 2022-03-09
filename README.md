@@ -1,4 +1,4 @@
-# Repositório com as soluções dos exercícios de Python.
+# Repositório com exercícios de Python e suas respectivas soluções.
 
 
 Exercícios Basicos da linguagem Python, desde Basic Syntax, Variables e Data Types, Conditionals, Type Casting, Exceptions, Built-in Functions e Functions, Lists, Tuples, Sets, Dictionaries e some Packages.
