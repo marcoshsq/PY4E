@@ -1,8 +1,8 @@
-# Python Exercise 002: Answer to the user
-'''Make a program that reads a person's name and displays a welcome message.'''
+# Exercício Python 002: Respondendo ao usuário
+'''Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.'''
 
-nome = input('Insert your name: ')
-print(f'Hi {nome}, nice to meet you!')
+nome = input('Insira seu nome: ')          # input é outra função interna do Python
+print(f'Olá {nome}, prazer em conhece-lo!')      # Ela serve para pedir comandos para o user
 
 
-# input is the function that asks stuff u.u
+
