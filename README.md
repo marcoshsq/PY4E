@@ -46,9 +46,9 @@ Exercícios Basicos da linguagem Python, desde Basic Syntax, Variables e Data Ty
 
 ## Extra List 02: Exercícios da [Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
 
-- [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial) 012 Exercícios; 
-- [Estrutura de Decisão](https://wiki.python.org.br/EstruturaDeDecisao)
-- [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao)
+- [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial) - 12 Exercícios no total; 
+- [Estrutura de Decisão](https://wiki.python.org.br/EstruturaDeDecisao) - 
+- [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao) - 
 
 
 
