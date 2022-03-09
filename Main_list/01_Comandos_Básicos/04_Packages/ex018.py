@@ -1,6 +1,6 @@
-# Python Exercise 018 - Sine, Cosine and Tangent
-''' Write a program that reads any angle and displays the sine value on the screen,
-cosine and tangent of this angle.'''
+# Exercício Python 018 - Seno, Cosseno e Tangente
+''' Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, 
+cosseno e tangente desse ângulo.'''
 
 import math
 

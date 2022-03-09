@@ -1,10 +1,10 @@
-# Python Exercise 035 - Analyzing Triangle v1.0
-'''Develop a program that reads the length of three lines and
-tell the user whether or not they can form a triangle.'''
+# Exercício Python 035 - Analisando Triângulo v1.0
+'''Desenvolva um programa que leia o comprimento de três retas e 
+diga ao usuário se elas podem ou não formar um triângulo.'''
 
-'''Given three distinct line segments, if the sum of the 
-measures of two of them is always greater than the measure of the third, 
-then they can form a triangle. '''
+'''Dados três segmentos de reta distintos, 
+se a soma das medidas de dois deles é sempre maior que a medida do terceiro, 
+então, eles podem formar um triângulo'''
 
 a, b, c = [float(x) for x in input("Please enter the size of three distincts segments: ").split()]
 

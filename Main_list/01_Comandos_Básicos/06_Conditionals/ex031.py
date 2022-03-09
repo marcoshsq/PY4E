@@ -1,7 +1,7 @@
-# Exercise Python 031 - Cost of Travel
-'''Develop a program that asks the distance of a trip in Km.
-Calculate the ticket price, charging R$0.50 per km for travel
-of up to 200Km and R$0.45 for longer trips.'''
+# Exercício Python 031 - Custo da Viagem
+'''Desenvolva um programa que pergunte a distância de uma viagem em Km. 
+Calcule o preço da passagem, cobrando R$0,50 por Km para viagens 
+de até 200Km e R$0,45 para viagens mais longas.'''
 
 distance = float(input('Qual a distância a ser percorrida: '))
 print(f'Você vai realizar uma viagem de {distance:.2f}Km')

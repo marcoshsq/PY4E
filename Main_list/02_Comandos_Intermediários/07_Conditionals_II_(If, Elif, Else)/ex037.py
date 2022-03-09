@@ -1,8 +1,8 @@
-# Python Exercise 037 - Numerical Base Converter
+# Exercício Python 037 - Conversor de Bases Numéricas
 
-'''Write a Python program that reads any integer and asks it to
-the user to choose what the conversion base will be:
-1 for binary, 2 for octal and 3 for hexadecimal.'''
+'''Escreva um programa em Python que leia um número inteiro qualquer e peça para 
+o usuário escolher qual será a base de conversão: 
+1 para binário, 2 para octal e 3 para hexadecimal.'''
 
 print('-=' * 25)
 print('Escolha um número inteiro para conversão, as bases são:')

@@ -1,7 +1,7 @@
-# Python Exercise 034 - Multiple Increases
-''' Write a program that asks for an employee's salary and calculates the amount of his raise.
-For salaries greater than R$1250.00, calculate a 10% increase.
-For those below or equal, the increase is 15%.'''
+# Exercício Python 034 - Aumentos múltiplos
+''' Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. 
+Para salários superiores a R$1250,00, calcule um aumento de 10%. 
+Para os inferiores ou iguais, o aumento é de 15%.'''
 
 wage = float(input('Insert a value: '))
 if wage >= 1250 :

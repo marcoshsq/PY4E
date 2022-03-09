@@ -1,5 +1,5 @@
-# Python Exercise 033 - Largest and Smallest Values
-'''Make a program that reads three numbers and shows which is the biggest and which is the smallest.'''
+# Python Exercise 033 - Maior e menor.
+'''Crie um programa que leia três valores e diga qual o maior e qual o menor.'''
 
 a, b, c = [int(x) for x in input("Please enter the numbers: ").split()]
 

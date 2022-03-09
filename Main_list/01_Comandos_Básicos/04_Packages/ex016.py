@@ -1,5 +1,5 @@
-# Python Exercise 016: Cracking a number
-'''Create a program that reads any Real number from the keyboard and displays its entire portion on the screen.'''
+#Exercício Python 016: Quebrando um número
+'''Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.'''
 
 import math
 

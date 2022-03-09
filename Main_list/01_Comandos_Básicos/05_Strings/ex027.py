@@ -1,6 +1,6 @@
-# Python Exercise 027 - A person's first and last name
-'''Make a program that reads a person's full name,
-then showing the first and last name separately.'''
+# Exercício Python 027 - Primeiro e último nome de uma pessoa
+'''Faça um programa que leia o nome completo de uma pessoa, 
+mostrando em seguida o primeiro e o último nome separadamente.'''
 
 name = input('Insert name: ')
 first_name = name.split()[0]

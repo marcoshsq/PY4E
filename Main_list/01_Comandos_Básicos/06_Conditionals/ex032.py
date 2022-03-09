@@ -1,5 +1,5 @@
-# Python Exercise 032 - Leap Year
-'''Make a program that reads any year and shows if it is a leap year.'''
+# Exercício Python 032 - Ano Bissexto
+'''Faça um programa que leia um ano qualquer e mostre se ele é bissexto.'''
 
 from datetime import date
 

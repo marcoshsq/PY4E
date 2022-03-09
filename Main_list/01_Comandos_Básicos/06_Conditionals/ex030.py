@@ -1,5 +1,5 @@
-# Python Exercise 030 - Odd or Even?
-'''Create a program that reads an integer and shows on the screen whether it is ODD or EVEN.'''
+# Exercício Python 030 - Par ou Ímpar?
+'''Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.'''
 
 number = int(input('Insert a value: '))
 even_or_odd = number % 2
