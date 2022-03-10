@@ -58,7 +58,7 @@ else :
 if suspeito >= 5 :
     print(colored('Você é o ASSASSINO/A!!!', 'red'))
 elif suspeito == 4 or suspeito == 3 :
-    print(colored('Você é cúmplice, seu dadinho. u.u', 'yellow'))
+    print(colored('Você é cúmplice, seu danadinho. u.u', 'yellow'))
 elif suspeito == 2 :
     print(colored('Você é suspeito, por enquanto. Iremos investiar mais...', 'blue'))
 else :
