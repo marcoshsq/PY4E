@@ -1,18 +1,32 @@
 from typing import Type
 
-# Exercício Python 004: Dissecando uma variável.
-'''Faça um programa que leia algo pelo teclado e mostre na tela
-o seu tipo primitivo e todas as informações possíveis sobre ele.'''
+# Exercise 004: knowing your variable.
 
-variable = input('Insira um valor')
-print('O tipo primitivo desse valor é:', type(variable))
-print('Contêm apenas letras:', variable.isalpha())
-print('Contêm números e letras:', variable.isalnum())
-print('Contêm apenas números:', variable.isnumeric())
-print('Está em maiuscula:', variable.isupper())
-print('Está em minuscula: ', variable.islower())
-print('Está capitalizado:', variable.istitle())
+''' Make a program that reads an input from the user and display it on the screen its type and all informations about it. '''
 
 
-'''essa função .is____() permite descobrir algumas informações interessantes 
-sobre o meu input, então é legal deixar salvo isso, para algum momento'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Solution:
+variable = input('Insert a value: ')
+print('The type of this variable is:', type(variable))
+print('Contain only letters:', variable.isalpha())
+print('Contain numbers and letters:', variable.isalnum())
+print('Contain only numbers:', variable.isnumeric())
+print('It\'s in capital:', variable.isupper())
+print('It\'s in lowercase: ', variable.islower())
+print('Is capitalized:', variable.istitle())
