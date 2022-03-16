@@ -29,7 +29,7 @@ Exercícios Basicos da linguagem Python, desde Basic Syntax, Variables e Data Ty
 
 - 08 - [Repetições em Python (for)](https://github.com/marcoshsq/List-of-python-exercises/tree/main/Main_list/02_Comandos_Intermedi%C3%A1rios/08_Repetitions_(for)): Do exercício 46 ao 56;
 
-- 09 - Repetições em Python (while): Do exercício 57 ao 71.
+- 09 - [Repetições em Python (while)](https://github.com/marcoshsq/List-of-python-exercises/tree/main/Main_list/02_Comandos_Intermedi%C3%A1rios/09_Repetitions_(While)): Do exercício 57 ao 71.
 
 #### Comandos Avançados: [Mundo 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 
