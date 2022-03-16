@@ -1,23 +1,6 @@
 # Exercise 003: Adding two numbers.
 '''Create a program that reads two numbers and displays the sum between them.'''
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Solution:
 num_1 = int(input('Insert the first value: '))
 num_2 = int(input('Insert the second value: '))
 sum = num_1 + num_2
