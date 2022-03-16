@@ -10,6 +10,33 @@ Btw I'm using the Python 3 version.
 
 ---
 
+## Part 01 - Fundamentals
+
+### Introduction:
+
+- Exercise 01 - [Let's get started](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/01_Intro/ex001.py)
+- Exercise 02 - [Answering the User](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/01_Intro/ex002.py)
+
+### First Steps:
+
+- Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex003.py)
+- Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex004.py)
+
+### Basic calculations and operations:
+
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 - 
+- Exercise 09 - 
+- Exercise 10 -
+- Exercise 11 - 
+- Exercise 12 -
+- Exercise 13 -
+- Exercise 14 -
+- Exercise 15 -
+
+
 Work in progress
 
 
