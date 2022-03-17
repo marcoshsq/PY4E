@@ -29,9 +29,23 @@ Once again, welcome to this intensive python course, the purpose of this course 
 
 ### Course content:
 1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
+    - Intro
+    - First Steps
+    - Calculation
+    - Packages
+    - Strings
+    - Conditionals (If)
 2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
-3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
+    - Conditionals (If, elif, else)
+    - Loops (for)
+    - Loops (while)
 
+3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
+    - Tuples
+    - Lists
+    - Dictionaries
+    - Functions
+    - Extras
 ---
 
 ## Part 01 - Fundamentals
