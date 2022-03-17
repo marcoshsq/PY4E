@@ -1,5 +1,4 @@
-# Exercício Python 001: Deixando tudo pronto.
-'''Crie um programa que escreva "Hello, World" na tela'''
+# Exercise 001: Let's get started.
+'''Create your first program and help your computer greet the World.'''
 
-print('Hello, World!')      # print é uma função interna do Python
-                            # Ela serve para imprimir coisas na tela
+print('Hello, World!')      
