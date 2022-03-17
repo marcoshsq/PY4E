@@ -1,4 +1,4 @@
-# Welcome to Python Crash Course (ﾉ◕ヮ◕)ﾉ ヽ(o＾▽＾o)ノ (◕‿◕✿)		.
+# Welcome to Python Crash Course (ﾉ◕ヮ◕)ﾉ ヽ(o＾▽＾o) (◕‿◕✿)		.
 
 If you found this "Crash Course", first of all thank you very much, I am very happy that you decided to use some of the materials I present here, knowledge only exists when it is shared and if this repository helps someone I'll feel super fulfilled.
 
@@ -25,6 +25,12 @@ Beyond that, why python? There are two types of people who want to learn to code
 I think that's enough right.
 
 ## Course Syllabus:
+Once again, welcome to this intensive python course, the purpose of this course is to teach you the basics of the language and offer you dozens of exercises to practice, because practice makes permanent. In addition I will list dozens of extra materials for further research and studies. That's it, and good luck u.u
+
+### Course content:
+1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
+2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
+3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
 
 ---
 
