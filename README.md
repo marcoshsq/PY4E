@@ -29,23 +29,23 @@ Once again, welcome to this intensive python course, the purpose of this course 
 
 ### Course content:
 1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
-    - Intro
-    - First Steps
-    - Calculation
-    - Packages
-    - Strings
-    - Conditionals (If)
+    - [Intro](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/01_Intro)
+    - [First Steps](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/02_First_steps)
+    - [Calculation](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/03_Calculation)
+    - [Packages](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/04_Packages)
+    - [Strings](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/05_Strings)
+    - [Conditionals (If)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/06_Conditionals)
 2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
-    - Conditionals (If, elif, else)
-    - Loops (for)
-    - Loops (while)
+    - [Conditionals (If, elif, else)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else))
+    - [Loops (for)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures/08_Repetitions_(for))
+    - [Loops (while)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures/09_Repetitions_(While))
 
 3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
-    - Tuples
-    - Lists
-    - Dictionaries
-    - Functions
-    - Extras
+    - [Tuples](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/01_Tuples)
+    - [Lists](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/02_Lists)
+    - [Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/03_Dictionaries)
+    - [Functions](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/04_Functions)
+    - [Extras]()
 ---
 
 ## Part 01 - Fundamentals
