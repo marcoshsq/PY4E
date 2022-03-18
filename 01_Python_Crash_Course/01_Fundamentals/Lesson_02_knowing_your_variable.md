@@ -32,6 +32,8 @@ And about their names. It's important that you give them a nice name as well ok.
 - Variable names are case-sensitive (age, Age and AGE are three different variables)
 - And don't use python [reserved words](https://www.programiz.com/python-programming/keyword-list), he's very sensitive about them, ok.
 
+##
+
 ### String (str):
 
 We can assign text to a variable, known as string(str) in python, which is basicaly a series of characters:
@@ -49,6 +51,7 @@ We can assign text to a variable, known as string(str) in python, which is basic
     #output: <class 'str'>      # it gives us the data type of a variable.
     
 
+##
 
 ### Integer (int):
 
@@ -66,7 +69,7 @@ We can assign whole numbers to a variable, since we can't do math with string, w
     print("Your age is: "+str(age))   # To do that, we need to do a type cast, 
     # output: Your age is: 21         # transforming our int into a str.
    
-
+##
 
 ### Floating point (float):
 
@@ -83,6 +86,8 @@ A float is a numeric value that can store a decimal portion.
     #output: <class 'float'>
     #output: <class 'float'>
     #output: <class 'float'>
+  
+##  
   
 ### Boolean:
 
@@ -104,7 +109,7 @@ It is a variable that can only store true or false (0 or 1).
     print(type(t))
     #output: <class 'bool'>
 
-
+##
 
 ### Python multiple assignment:
 
@@ -146,6 +151,7 @@ Multiple assignment allows us to assign multiple variables at the same time in o
     #output: 30
     #output: 30
 
+##
 
 ### Type Conversion:
 
@@ -187,13 +193,11 @@ In Explicit Type Conversion, users convert the data type of an object to require
     z = str(z)
     
 
-##
-
 Wow, we cover a lot till now, what about a challenge?
 
 3. Exercise 003 - Create a program that reads two numbers and displays the sum between them. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex003.py)
 
----
+##
 
 ### String Methods:
 
