@@ -75,15 +75,96 @@ Once again, welcome to this intensive python course, the purpose of this course 
 - Exercise 15 -
 
 ### Level 04 - [Leveling up with upgrades](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
+
+- Exercise 16 -
+- Exercise 17 -
+- Exercise 18 -
+- Exercise 19 -
+- Exercise 20 -
+- Exercise 21 -
+
 ### Level 05 - [There are no Strings on me](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
+
+- Exercise 22 -
+- Exercise 23 -
+- Exercise 24 -
+- Exercise 25 -
+- Exercise 26 -
+- Exercise 27 -
+
 ### Level 06 - [What if?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_06_What_if.md)
+
+- Exercise 28 -
+- Exercise 29 -
+- Exercise 30 -
+- Exercise 31 -
+- Exercise 32 -
+- Exercise 33 -
+- Exercise 34 -
+- Exercise 35 -
+
+### Part 01 - Extra exercises:
+
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
 
 
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
 
 ### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_07_What_ifs.md)
+
+- Exercise 36 -
+- Exercise 37 -
+- Exercise 38 -
+- Exercise 39 -
+- Exercise 40 -
+- Exercise 41 -
+- Exercise 42 -
+- Exercise 43 -
+- Exercise 44 -
+- Exercise 45 -
+
 ### Level 08 - [Making Python sweat with for loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md)
+
+- Exercise 46 -
+- Exercise 47 -
+- Exercise 48 -
+- Exercise 49 -
+- Exercise 50 -
+- Exercise 51 -
+- Exercise 52 -
+- Exercise 53 -
+- Exercise 54 -
+- Exercise 55 -
+- Exercise 56 -
+
 ### Level 09 - [Making Python sweat with while loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_09_While_(making%20Python_sweat_with_more_Loops).md)
+
+- Exercise 57 -
+- Exercise 58 -
+- Exercise 59 -
+- Exercise 60 -
+- Exercise 61 -
+- Exercise 62 -
+- Exercise 63 -
+- Exercise 64 -
+- Exercise 65 -
+- Exercise 66 -
+- Exercise 67 -
+- Exercise 68 -
+- Exercise 69 -
+- Exercise 70 -
+- Exercise 71 -
 
 ## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
 
