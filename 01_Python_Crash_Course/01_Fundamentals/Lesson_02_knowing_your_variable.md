@@ -5,10 +5,17 @@
 </div>
 
 ## Lesson 02 Content:
-1. 0
-2. 0
-3. 3
-4. 4
+1. [What is a variable?
+](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#what-is-a-variable)
+2. [String](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#string-str)
+3. [Integer](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#integer-int)
+4. [Floating point](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#floating-point-float)
+5. [Boolean](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#boolean)
+6. [Python multiple assignment](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#python-multiple-assignment)
+7. [Type Conversion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#type-conversion)
+8. [String Methods](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#string-methods)
+9. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#conclusion)
+10. [More content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#more-content)
 
 ---
 
@@ -231,11 +238,15 @@ But speaking of playing, how about another exercise?
  
  4. Exercise 004 - Make a program that reads an input from the user and display it on the screen its type and all informations about it. [Solution, if you need](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
 
+---
+
 ### Conclusion:
 
 In this class we talked about variables and data types, type conversion and string methods. So far we are just warming up, from the next lesson things will really start, we will have dozens of exercises to do and you will learn how to turn python into your favorite calculator. See you space cowboy.
 
-### More content:
+---
+
+## More content:
 
 - [Python Type Conversion and Type Casting](https://www.programiz.com/python-programming/type-conversion-and-casting)
 - [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
