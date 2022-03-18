@@ -15,30 +15,30 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
 
 ### Course content:
 
-0. [Why should you learn this stuff?](https://github.com/marcoshsq/Python_Crash_Course#why-should-you-learn-this-stuff)
-1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
-    - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
-    - 02.[First Steps](https://github.com/marcoshsq/Python_Crash_Course#level-02---knowing-your-variable)
-    - 03.[Calculation](https://github.com/marcoshsq/Python_Crash_Course#level-03---python-can-be-your-calculator)
-    - 04.[Packages](https://github.com/marcoshsq/Python_Crash_Course#level-04---leveling-up-with-upgrades)
-    - 05.[Strings](https://github.com/marcoshsq/Python_Crash_Course#level-05---there-are-no-strings-on-me)
-    - 06.[Conditionals (If)](https://github.com/marcoshsq/Python_Crash_Course#level-06---what-if)
-2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course#part-02---control-structures)
-    - 07.[Conditionals (If, elif, else)](https://github.com/marcoshsq/Python_Crash_Course#level-07--)
-    - 08.[Loops (for)](https://github.com/marcoshsq/Python_Crash_Course#level-08--)
-    - 09.[Loops (while)](https://github.com/marcoshsq/Python_Crash_Course#level-09--)
+0. [Why should you learn this stuff?]()
+1. [Fundamentals]()
+    - 01.[Intro]()
+    - 02.[First Steps]()
+    - 03.[Calculation]()
+    - 04.[Packages]()
+    - 05.[Strings]()
+    - 06.[Conditionals (If)]()
+2. [Control Structures]()
+    - 07.[Conditionals (If, elif, else)]()
+    - 08.[Loops (for)]()
+    - 09.[Loops (while)]()
 
-3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
-    - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10--)
-    - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11--)
-    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12--)
-    - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13--)
-    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14--)
-    - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---files)
-    - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---classes)
-    - 17.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
- 4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
- 5. [Bibliographic references](https://github.com/marcoshsq/Python_Crash_Course#bibliographic-references-to-give-credit-to-the-right-people-and-also-in-case-you-want-more-content-and-information-%E2%80%BF)
+3. [Compound Structures]()
+    - 10.[Tuples]()
+    - 11.[Lists]()
+    - 12.[Dictionaries]()
+    - 13.[Functions]()
+    - 14.[Modularization]()
+    - 15.[Files]()
+    - 16.[Classes]()
+    - 17.[Projects]()
+ 4. [Extra Exercises]()  
+ 5. [Bibliographic references]()
 
 ---
 
@@ -61,19 +61,19 @@ I think that's enough, right? So let's get started (づ｡◕‿‿◕｡)づ
 
 ---
 
-## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
+## Part 01 - [Fundamentals]()
 
 In the first part, we'll talk about Python basics, variable types, getting user data, and then we'll make python your favorite calculator. After that I'll show you why python is one of the best languages (spoiler, packages). Then we'll talk about strings and close the part one with if statement.
 
-### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_01_Hello_Python.md):
+### Level 01 - [Hello Python]():
 
-- Exercise 01 - [Let's get started](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/01_Intro/ex001.py)
-- Exercise 02 - [Answering the User](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/01_Intro/ex002.py)
+- Exercise 01 - [Let's get started]()
+- Exercise 02 - [Answering the User]()
 
-### Level 02 - [Knowing Your Variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_02_knowing_your_variable.md):
+### Level 02 - [Knowing Your Variable]():
 
-- Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex003.py)
-- Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex004.py)
+- Exercise 03 - [Adding two numbers]()
+- Exercise 04 - [knowing a variable]()
 
 ### Level 03 - [Python can be your calculator]():
 
