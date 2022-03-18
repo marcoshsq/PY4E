@@ -23,7 +23,7 @@
 
 Like I've said in the previous lesson, a variable is like a container to a value, once you've assigned some value to a variable it will behaves as the value that it contains. Like high school algebra classes where you needed to find the value of X in an equation, once you found it, you could use X elsewhere and X had the value you had found. But unlike x in algebra classes, in python we can assign different ''types'' values within a variable.
 
-And about their names. It's important tha you give them a nice name as well ok. A variable can have a short name (like x or y) or a more descriptive name (age, name, sum_numbers). But there are some rules:
+And about their names. It's important that you give them a nice name as well ok. A variable can have a short name (like x or y) or a more descriptive name (age, name, sum_numbers). But there are some rules:
 
 - A variable name must start with a letter or the underscore character
 - A variable name cannot start with a number
