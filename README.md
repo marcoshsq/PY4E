@@ -81,17 +81,17 @@ Once again, welcome to this intensive python course, the purpose of this course 
 
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
 
-### Level 07 -
-### Level 08 - 
-### Level 09 - 
+### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_07_What_ifs.md)
+### Level 08 - [Making Python sweat with for loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md)
+### Level 09 - [Making Python sweat with while loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_09_While_(making%20Python_sweat_with_more_Loops).md)
 
 ## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
 
-### Level 10 - 
-### Level 11 - 
-### Level 12 - 
-### Level 13 - 
-### Level 14 - 
+### Level 10 - []()
+### Level 11 - []()
+### Level 12 - []()
+### Level 13 - []()
+### Level 14 - []()
 
 
 
