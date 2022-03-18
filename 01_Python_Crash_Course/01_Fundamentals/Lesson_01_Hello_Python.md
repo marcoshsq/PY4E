@@ -12,10 +12,11 @@ But I don't wanna make you install anything, at least for now, so I'll recommend
 
 ## Lesson 01 Content:
 1. [The Golden Rule](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-golden-rule)
-2. [The Print Function](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-print-function)
-3. [Getting Data from the user](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#getting-data-from-the-user)
-4. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#conclusion)
-5. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#more-content)
+2. [The Zen of Python](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-zen-of-python)
+3. [The Print Function](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-print-function)
+4. [Getting Data from the user](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#getting-data-from-the-user)
+5. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#conclusion)
+6. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#more-content)
 
 ---
 
@@ -24,6 +25,32 @@ But I don't wanna make you install anything, at least for now, so I'll recommend
 Once you have your Jupyter notebook open, you must be wanting to do something right? Why don't you write something. The problem is, computers are dumb, they don't understand what you want them to do unless you "give the orders" in a very specific way. And that's the golden rule of programming, and it's the rule you're going to have the most trouble with. The rule is simple, once you've found a problem that you want/need to solve using code, you need to do two things:
 1. Solving the problem in a structured way that the computer can follow, we call it an algorithm. (hardest part);
 2. Write your algorithm in a way that the computer understands. That's the syntax. (Not that hard after some practice).
+
+### The zen of Python: 
+
+    import this
+
+    The Zen of Python, by Tim Peters
+
+    Beautiful is better than ugly.
+    Explicit is better than implicit.
+    Simple is better than complex.
+    Complex is better than complicated.
+    Flat is better than nested.
+    Sparse is better than dense.
+    Readability counts.
+    Special cases aren't special enough to break the rules.
+    Although practicality beats purity.
+    Errors should never pass silently.
+    Unless explicitly silenced.
+    In the face of ambiguity, refuse the temptation to guess.
+    There should be one-- and preferably only one --obvious way to do it.
+    Although that way may not be obvious at first unless you're Dutch.
+    Now is better than never.
+    Although never is often better than *right* now.
+    If the implementation is hard to explain, it's a bad idea.
+    If the implementation is easy to explain, it may be a good idea.
+    Namespaces are one honking great idea -- let's do more of those!
 
 But don't worry, this is the kind of thing that take a while to get it, so don't rush it. But with that said, let's try to write our first program, shall we?
 
@@ -49,6 +76,13 @@ To use a function you must call the function by its name, and end it with parent
         
         print('Splinter Cell is better than Metal Gear')
         #output: ERROR Traceback (This is a joke u.u)
+        
+        # Btw, this is a comment, Start the comment with a hash '#'.
+        # Comments are ignored by the compiler.
+        # There are no multiline comments in Python.
+        # For that we use a DocString
+        '''This is a DocString. They are defined as a text between a set of 3 double or normal quotes.
+        Place after the class or function definition. '''
 
     
 Cool, now that we've talked about the print function, why don't you try it? Start printing. Not only that, here's your first exercise:
@@ -61,7 +95,7 @@ Cool, now that we've talked about the print function, why don't you try it? Star
 
 In the same way as the print function, we have the input function, which allows us to obtain data from the user. But it's important to note that just using the input function is not going to be very useful if we can't use the user input. So we need to assign this input to a variable. The assignment symbol in Python is the equal sign '='. And work from the right to the left.
 
-        # if i write, for example:
+        # if I write, for example:
         a = 1 # That means 'a' receives '1'
         b = 2 # This means 'b' receives '2'
          
@@ -100,3 +134,4 @@ Wow, and we get to the end of our first lesson, if anyone is reading this, thank
 
 - [Built-in Functions](https://docs.python.org/3/library/functions.html) - The Python interpreter has a number of functions and types built into it that are always available. They are all listed in this link.
 - [The Best Python IDEs and Code Editors](https://www.stxnext.com/blog/best-python-ides-code-editors/) - If you want more content about IDE's.
+- [Python Speedsheet](https://speedsheet.io/s/python?select=dkqF)
