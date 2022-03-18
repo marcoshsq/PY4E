@@ -8,7 +8,7 @@ This is an introductory course and the concepts covered here are: Basic Syntax, 
 
 Btw I'm using the Python 3 version.
 
-##
+---
 
 ## Course Syllabus:
 Once again, welcome to this intensive python course, the purpose of this course is to teach you the basics of the language and offer you dozens of exercises to practice, because practice makes permanent. In addition I will list dozens of extra materials for further research and studies. That's it, and good luck u.u
@@ -39,7 +39,7 @@ Once again, welcome to this intensive python course, the purpose of this course 
 
 ## Why should you learn this stuff?
 
-Well, because it [pays](https://money.usnews.com/careers/best-jobs/computer-programmer/salary) very well, a good programmer can earn about $100,000 a year or even more, and I want that (づ｡◕‿‿◕｡)づ. Yeah... This is the first important lesson you should learn: slow down, take it easy, take a deep breath and learn how to walk before you start running. I'm saying this because, its easy to see all the news about how tecnology is the future, and how everyone should learn to code, you see the big wages and sometimes kids half your age making three times what you make, then the anxiety starts, and I'm not gonna lie, this shit is hard. Learn to code is easy, making good, useful and profitable code is not. But don't get me wrong, I'm not saying "give up, you won't make it". I'm on the same journey as you, my point is, don't just focus on the big paychecks because it's a very long journey to get there, and if your focus is all on the money... you're probably going to get frustrated. So stop thinking about the product, and let's focus on the process all right? Good. And remember: "For those who prove worthy, paradise awaits."
+Well, because it [pays](https://money.usnews.com/careers/best-jobs/computer-programmer/salary) very well, a good programmer can earn about $100,000 a year or even more, and I want that. Yeah... This is the first important lesson you should learn: slow down, take it easy, take a deep breath and learn how to walk before you start running. I'm saying this because, its easy to see all the news about how tecnology is the future, and how everyone should learn to code, you see the big wages and sometimes kids half your age making three times what you make, then the anxiety starts, and I'm not gonna lie, this shit is hard. Learn to code is easy, making good, useful and profitable code is not. But don't get me wrong, I'm not saying "give up, you won't make it". I'm on the same journey as you, my point is, don't just focus on the big paychecks because it's a very long journey to get there, and if your focus is all on the money... you're probably going to get frustrated. So stop thinking about the product, and let's focus on the process all right? Good. And remember: "For those who prove worthy, paradise awaits."
 
 ### But why should you learn to code, for real?
 
@@ -51,12 +51,14 @@ Beyond that, why python? There are two types of people who want to learn to code
 2. [One of the most popular](https://statisticstimes.com/tech/top-computer-languages.php)
 3. [US$60k per year for good new devs](https://www.simplilearn.com/python-developer-salary-article#:~:text=The%20average%20entry%2Dlevel%20Python,year%20to%20111%2C605%20USD%2Fyear.)
 
-I think that's enough right.
+I think that's enough, right? So let's get started (づ｡◕‿‿◕｡)づ
 
 
 ---
 
 ## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
+
+In the first part, we'll talk about Python basics, variable types, getting user data, and then we'll make python your favorite calculator. After that I'll show you why python is one of the best languages (spoiler, packages). Then we'll talk about strings and close the part one with if statement.
 
 ### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_01_Hello_Python.md):
 
@@ -128,6 +130,8 @@ I think that's enough right.
 
 
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
+
+So far we've been doing several challenges, some easier, some more difficult, but overall nothing too complex, and you might be asking yourself: "Okay, but when do I start doing something useful". Calm down young man, because we're going to start doing this now uhuuu. Computers are good when they do repetitive tasks that we don't like, and we're going to learn how to do that now, in part two, first we're going to talk a little more about the if statement, using nested conditions (if, elif and else). Then we'll talk about loops of repetition (for and while) and how not to crash your pc by falling into an infinite loop.
 
 ### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_07_What_ifs.md)
 
