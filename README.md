@@ -60,7 +60,7 @@ Once again, welcome to this intensive python course, the purpose of this course 
 - Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex003.py)
 - Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex004.py)
 
-### Level 03 - [Python can be your calculator](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_03.md):
+### Level 03 - [Python can be your calculator](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md):
 
 - Exercise 05 -
 - Exercise 06 -
@@ -74,7 +74,9 @@ Once again, welcome to this intensive python course, the purpose of this course 
 - Exercise 14 -
 - Exercise 15 -
 
-
+### Level 04 - [Leveling up with upgrades](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
+### Level 05 - [There are no Strings on me](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
+### Level 06 - [What if](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_06_What_if.md)
 Work in progress
 
 
