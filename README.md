@@ -80,7 +80,19 @@ Once again, welcome to this intensive python course, the purpose of this course 
 
 
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
+
+### Level 07 -
+### Level 08 - 
+### Level 09 - 
+
 ## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
+
+### Level 10 - 
+### Level 11 - 
+### Level 12 - 
+### Level 13 - 
+### Level 14 - 
+
 Work in progress
 
 
