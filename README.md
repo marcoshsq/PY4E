@@ -34,6 +34,11 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
     - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12--)
     - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13--)
     - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14--)
+    - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---files)
+    - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---classes)
+    - 17.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
+ 4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
+ 5. [Bibliographic references](https://github.com/marcoshsq/Python_Crash_Course#bibliographic-references-to-give-credit-to-the-right-people-and-also-in-case-you-want-more-content-and-information-%E2%80%BF)
 
 ---
 
@@ -353,7 +358,9 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ---
 
-### Bibliographic references, to give credit to the right people, and also, in case you want more content and information. (◕‿◕✿)	
+### Bibliographic references:
+
+To give credit to the right people, and also, in case you want more content and information. (◕‿◕✿)	
 
 - [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) - The main list of exercises was acquired on the youtube channel "[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo/videos)", one of the best channels on the Brazilian Youtube;
 - [Python Brasil](https://wiki.python.org.br/ListaDeExercicios) - The second extra list was acquired with the Python Brazil community;
