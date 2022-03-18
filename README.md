@@ -28,24 +28,24 @@ I think that's enough right.
 Once again, welcome to this intensive python course, the purpose of this course is to teach you the basics of the language and offer you dozens of exercises to practice, because practice makes permanent. In addition I will list dozens of extra materials for further research and studies. That's it, and good luck u.u
 
 ### Course content:
-1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
-    - [Intro](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/01_Intro)
-    - [First Steps](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/02_First_steps)
-    - [Calculation](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/03_Calculation)
-    - [Packages](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/04_Packages)
-    - [Strings](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/05_Strings)
-    - [Conditionals (If)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals/06_Conditionals)
-2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
-    - [Conditionals (If, elif, else)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else))
-    - [Loops (for)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures/08_Repetitions_(for))
-    - [Loops (while)](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures/09_Repetitions_(While))
+1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
+    - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
+    - 02.[First Steps](https://github.com/marcoshsq/Python_Crash_Course#level-02---knowing-your-variable)
+    - 03.[Calculation](https://github.com/marcoshsq/Python_Crash_Course#level-03---python-can-be-your-calculator)
+    - 04.[Packages](https://github.com/marcoshsq/Python_Crash_Course#level-04---leveling-up-with-upgrades)
+    - 05.[Strings](https://github.com/marcoshsq/Python_Crash_Course#level-05---there-are-no-strings-on-me)
+    - 06.[Conditionals (If)](https://github.com/marcoshsq/Python_Crash_Course#level-06---what-if)
+2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course#part-02---control-structures)
+    - 07.[Conditionals (If, elif, else)](https://github.com/marcoshsq/Python_Crash_Course#level-07--)
+    - 08.[Loops (for)](https://github.com/marcoshsq/Python_Crash_Course#level-08--)
+    - 09.[Loops (while)](https://github.com/marcoshsq/Python_Crash_Course#level-09--)
 
-3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
-    - [Tuples](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/01_Tuples)
-    - [Lists](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/02_Lists)
-    - [Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/03_Dictionaries)
-    - [Functions](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures/04_Functions)
-    - [Extras]()
+3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
+    - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10--)
+    - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11--)
+    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12--)
+    - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13--)
+    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14--)
 ---
 
 ## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
@@ -76,7 +76,7 @@ Once again, welcome to this intensive python course, the purpose of this course 
 
 ### Level 04 - [Leveling up with upgrades](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
 ### Level 05 - [There are no Strings on me](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
-### Level 06 - [What if](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_06_What_if.md)
+### Level 06 - [What if?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_06_What_if.md)
 
 
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
@@ -93,7 +93,7 @@ Once again, welcome to this intensive python course, the purpose of this course 
 ### Level 13 - 
 ### Level 14 - 
 
-Work in progress
+
 
 
 
