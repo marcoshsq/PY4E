@@ -15,8 +15,9 @@ But I don't wanna make you install anything, at least for now, so I'll recommend
 2. [The Zen of Python](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-zen-of-python)
 3. [The Print Function](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-print-function)
 4. [Getting Data from the user](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#getting-data-from-the-user)
-5. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#conclusion)
-6. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#more-content)
+5. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#lesson-wrap-up)
+6. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#conclusion)
+7. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#more-content)
 
 ---
 
@@ -117,6 +118,28 @@ So, you can use variables to store your different types of data, including user 
 Great now that you learned how to use the print and input function, you're ready for the second challenge:
 
 2. Exercise 002 - Ask the user for his name and give him a welcome message. [If you want the solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex002.py)
+
+---
+
+### Lesson Wrap Up:
+
+The print() Function:
+
+    print('Hello world!')
+    #output: Hello world!
+
+    a = 1
+    print('Hello world!', a)
+    #output: Hello world! 1
+
+The input() Function:
+
+    print('What is your name?')   # ask for their name
+    myName = input()
+    print('It is good to meet you, {}'.format(myName))
+    #output: What is your name?
+    #output: Marcos
+    #output: It is good to meet you, Marcos
 
 ---
       
