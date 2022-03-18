@@ -79,22 +79,10 @@ Great now that you learned how to use the print and input function, you're ready
 
 ---
       
-      
-      
+### Conclusion:
 
+In this class we talked a little bit about the print function and the input function and I talked about my golden rule. Some tips is, go play with python, it doesn't break. And do research, because is very important, when you go to solve an exercise and feel that you don't understand something, or that you don't know how to do it, research, it can seem frustrating but that's what will teach you and give you repertoire. For example, I asked you to use the input function to ask for someone's name, and then use print to say hi to the person, but i didn't teach string concatenation in this class, i did it for you to research u.u, trust me, that's a good part of this job.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Wow, and we get to the end of our first lesson, if anyone is reading this, thank you very much, this is the first teaching material I write, so any criticism or suggestion would love to hear, and we'll see you in the next class, where we will talk about types of variables and type casting. See you space cowboy.
