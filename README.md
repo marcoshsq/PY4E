@@ -75,7 +75,7 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex003.py)
 - Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex004.py)
 
-### Level 03 - [Python can be your calculator](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md):
+### Level 03 - [Python can be your calculator]():
 
 - Exercise 05 -
 - Exercise 06 -
@@ -89,7 +89,7 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 14 -
 - Exercise 15 -
 
-### Level 04 - [Leveling up with upgrades](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
+### Level 04 - [Leveling up with upgrades]()
 
 - Exercise 16 -
 - Exercise 17 -
@@ -98,7 +98,7 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 20 -
 - Exercise 21 -
 
-### Level 05 - [There are no Strings on me](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
+### Level 05 - [There are no Strings on me]()
 
 - Exercise 22 -
 - Exercise 23 -
@@ -107,7 +107,7 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 26 -
 - Exercise 27 -
 
-### Level 06 - [What if?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_06_What_if.md)
+### Level 06 - [What if?]()
 
 - Exercise 28 -
 - Exercise 29 -
@@ -118,11 +118,11 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 34 -
 - Exercise 35 -
 
-## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
+## Part 02 - [Control Structures]()
 
 So far we've been doing several challenges, some easier, some more difficult, but overall nothing too complex, and you might be asking yourself: "Okay, but when do I start doing something useful". Calm down young man, because we're going to start doing this now uhuuu. Computers are good when they do repetitive tasks that we don't like, and we're going to learn how to do that now, in part two, first we're going to talk a little more about the if statement, using nested conditions (if, elif and else). Then we'll talk about loops of repetition (for and while) and how not to crash your pc by falling into an infinite loop.
 
-### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_07_What_ifs.md)
+### Level 07 - [What ifs?]()
 
 - Exercise 36 -
 - Exercise 37 -
@@ -135,7 +135,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 44 -
 - Exercise 45 -
 
-### Level 08 - [Making Python sweat with for loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md)
+### Level 08 - [Making Python sweat with for loops]()
 
 - Exercise 46 -
 - Exercise 47 -
@@ -149,7 +149,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 55 -
 - Exercise 56 -
 
-### Level 09 - [Making Python sweat with while loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/02_Control_Structures/Lesson_09_While_(making%20Python_sweat_with_more_Loops).md)
+### Level 09 - [Making Python sweat with while loops]()
 
 - Exercise 57 -
 - Exercise 58 -
@@ -167,7 +167,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 70 -
 - Exercise 71 -
 
-## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
+## Part 03 - [Compound Structures]()
 
 ### Level 10 - [Tuples]()
 
