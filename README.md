@@ -70,10 +70,10 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 01 - [Let's get started](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex001.py)
 - Exercise 02 - [Answering the User](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex002.py)
 
-### Level 02 - [Knowing Your Variable]():
+### Level 02 - [Knowing Your Variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md):
 
-- Exercise 03 - [Adding two numbers]()
-- Exercise 04 - [knowing a variable]()
+- Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex003.py)
+- Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
 
 ### Level 03 - [Python can be your calculator]():
 
