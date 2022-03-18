@@ -113,22 +113,6 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 34 -
 - Exercise 35 -
 
-### Part 01 - Extra exercises:
-
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
-
-
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
 
 So far we've been doing several challenges, some easier, some more difficult, but overall nothing too complex, and you might be asking yourself: "Okay, but when do I start doing something useful". Calm down young man, because we're going to start doing this now uhuuu. Computers are good when they do repetitive tasks that we don't like, and we're going to learn how to do that now, in part two, first we're going to talk a little more about the if statement, using nested conditions (if, elif and else). Then we'll talk about loops of repetition (for and while) and how not to crash your pc by falling into an infinite loop.
@@ -238,18 +222,131 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 113 -
 - Exercise 114 -
 
+### Level 15 - [Files]()
+
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
+
+### Level 16 - [Classes]()
+
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
+
+### Final Level - [Projects]()
 
 
 
+## Bonus Level - Extra Exercises
 
+### Extra exercises 01 - Sequential Structures:
 
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
 
+### Extra exercises 02 - Decision Structure
 
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
 
+### Extra exercises 03 - Repetition Structure
 
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
 
+### Extra exercises 04 - Lists
 
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
 
+### Extra exercises 05 - Functions
+
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
+
+### Extra exercises 05 - Strings
+
+- Exercise 01 -
+- Exercise 02 -
+- Exercise 03 -
+- Exercise 04 -
+- Exercise 05 -
+- Exercise 06 -
+- Exercise 07 -
+- Exercise 08 -
+- Exercise 09 -
+- Exercise 10 -
+- Exercise 11 -
+- Exercise 12 -
 
 
 
