@@ -67,8 +67,8 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 
 ### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md):
 
-- Exercise 01 - [Let's get started]()
-- Exercise 02 - [Answering the User]()
+- Exercise 01 - [Let's get started](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex001.py)
+- Exercise 02 - [Answering the User](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex002.py)
 
 ### Level 02 - [Knowing Your Variable]():
 
