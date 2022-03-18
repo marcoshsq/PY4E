@@ -48,7 +48,7 @@ Once again, welcome to this intensive python course, the purpose of this course 
     - [Extras]()
 ---
 
-## Part 01 - Fundamentals
+## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/01_Fundamentals)
 
 ### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_01_Hello_Python.md):
 
@@ -77,6 +77,10 @@ Once again, welcome to this intensive python course, the purpose of this course 
 ### Level 04 - [Leveling up with upgrades](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
 ### Level 05 - [There are no Strings on me](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
 ### Level 06 - [What if](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_06_What_if.md)
+
+
+## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/02_Control_Structures)
+## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
 Work in progress
 
 
