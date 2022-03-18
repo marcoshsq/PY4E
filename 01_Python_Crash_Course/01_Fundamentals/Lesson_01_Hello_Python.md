@@ -15,6 +15,7 @@ But I don't wanna make you install anything, at least for now, so I'll recommend
 2. [The Print Function](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-print-function)
 3. [Getting Data from the user](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#getting-data-from-the-user)
 4. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#conclusion)
+5. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#more-content)
 
 ---
 
@@ -92,3 +93,10 @@ In this class we talked a little bit about the print function and the input func
 ---
 
 Wow, and we get to the end of our first lesson, if anyone is reading this, thank you very much, this is the first teaching material I write, so any criticism or suggestion would love to hear, and we'll see you in the next class, where we will talk about types of variables and type casting. See you space cowboy.
+
+---
+
+## More content:
+
+- [Built-in Functions](https://docs.python.org/3/library/functions.html) - The Python interpreter has a number of functions and types built into it that are always available. They are all listed in this link.
+- [The Best Python IDEs and Code Editors](https://www.stxnext.com/blog/best-python-ides-code-editors/) - If you want more content about IDE's.
