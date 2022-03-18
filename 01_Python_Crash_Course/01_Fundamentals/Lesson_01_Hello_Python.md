@@ -30,23 +30,26 @@ To use a function you must call the function by its name, and end it with parent
 
         #Let's print some stuff:
         #Basic operations: 
+        
         print(1 + 1) # Notice that the numbers are outside the quotes, with numbers, we don't need quotes, just for text.
-        output: 2
+        #output: 2
         
         print(5 * 5) 
-        output: 25
+        #output: 25
+        
+        #printing text
         
         print('Hi Marcos')
-        output: Hi Marcos
+        #output: Hi Marcos
         
         print('Splinter Cell is better than Metal Gear')
-        output: ERROR Traceback (This is a joke u.u)
+        #output: ERROR Traceback (This is a joke u.u)
 
     
 Cool, now that we've talked about the print function, why don't you try it? Start printing. Not only that, here's your first exercise:
 1. Exercise 001 - Create your first program and help your computer greet the World.
 
-
+---
 
 
 
