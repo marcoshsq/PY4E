@@ -4,4 +4,4 @@
 
 </div>
 
-Eu quero introduzir a linguagem e falar de intro primeiros passos e calculos e pacotes
+Resolver os exercicios 1 e 2
