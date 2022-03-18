@@ -50,20 +50,17 @@ Once again, welcome to this intensive python course, the purpose of this course 
 
 ## Part 01 - Fundamentals
 
-### [Lesson 01](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/01_Intro/Lesson_01.md) - Getting Started u.u
-This lesson covers the knowledge required for levels 01, 02, 03
-
-### Level 01 - Introduction:
+### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_01_Hello_Python.md):
 
 - Exercise 01 - [Let's get started](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/01_Intro/ex001.py)
 - Exercise 02 - [Answering the User](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/01_Intro/ex002.py)
 
-### Level 02 - First Steps:
+### Level 02 - [Knowing Your Variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_02_knowing_your_variable.md):
 
 - Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex003.py)
 - Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/02_First_steps/ex004.py)
 
-### Level 03 - Basic calculations and operations:
+### Level 03 - [Python can be your calculator](https://github.com/marcoshsq/Python_Crash_Course/blob/main/Main_list/01_Fundamentals/Lesson_03.md):
 
 - Exercise 05 -
 - Exercise 06 -
