@@ -47,13 +47,40 @@ To use a function you must call the function by its name, and end it with parent
 
     
 Cool, now that we've talked about the print function, why don't you try it? Start printing. Not only that, here's your first exercise:
-1. Exercise 001 - Create your first program and help your computer greet the World.
+1. Exercise 001 - Create your first program and help your computer greet the World. [If you want the solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex001.py)
 
 ---
 
+### Getting Data from the user:
 
+In the same way as the print function, we have the input function, which allows us to obtain data from the user. But it's important to note that just using the input function is not going to be very useful if we can't use the user input. So we need to assign this input to a variable. The assignment symbol in Python is the equal sign '='. And work from the right to the left.
 
+        # if i write, for example:
+        a = 1 # That means 'a' receives '1'
+        b = 2 # This means 'b' receives '2'
+         
+        # The variable is like a container, it stores one and allows you to use that data later.
+        # if I do this now
+        
+        c = a + b
+        print(c)
+        # Output: 3
 
+So, you can use variables to store your different types of data, including user data. To use the input function the syntax is:
+
+      # And we are already assigning the user data to a variable
+      number = input('Insert a number: ')
+      # user insert  5
+      print(number)
+      # Output: 5 
+      
+Great now that you learned how to use the print and input function, you're ready for the second challenge:
+2. Exercise 002 - Ask the user for his name and give him a welcome message. [If you want the solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex002.py)
+
+---
+      
+      
+      
 
 
 
