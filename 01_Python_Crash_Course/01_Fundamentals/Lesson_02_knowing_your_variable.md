@@ -16,7 +16,7 @@
 
 Like I've said in the previous lesson, a variable is like a container to a value, once you've assigned some value to a variable it will behaves as the value that it contains. Like high school algebra classes where you needed to find the value of X in an equation, once you found it, you could use X elsewhere and X had the value you had found. But unlike x in algebra classes, in python we can assign different ''types'' values within a variable.
 
-### String (str)
+### String (str):
 
 We can assign text to a variable, known as string(str) in python, which is basicaly a series of characters:
 
@@ -34,7 +34,7 @@ We can assign text to a variable, known as string(str) in python, which is basic
     
 
 
-### Integer (int)
+### Integer (int):
 
 We can assign whole numbers to a variable, since we can't do math with string, we use the next data types for that.
 
@@ -52,7 +52,7 @@ We can assign whole numbers to a variable, since we can't do math with string, w
    
 
 
-### Floating point (float)
+### Floating point (float):
 
 A float is a numeric value that can store a decimal portion.
 
@@ -68,7 +68,7 @@ A float is a numeric value that can store a decimal portion.
     #output: <class 'float'>
     #output: <class 'float'>
   
-### Boolean
+### Boolean:
 
 It is a variable that can only store true or false (0 or 1).
 
@@ -90,7 +90,7 @@ It is a variable that can only store true or false (0 or 1).
 
 
 
-### Python multiple assignment
+### Python multiple assignment:
 
 Multiple assignment allows us to assign multiple variables at the same time in one line of code.
 
@@ -131,5 +131,18 @@ Multiple assignment allows us to assign multiple variables at the same time in o
     #output: 30
 
 
+Wow, we cover a lot till now, what about a challenge?
 
+3. Exercise 003 - Create a program that reads two numbers and displays the sum between them. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex003.py)
+
+---
+
+### String Methods:
+
+
+### Type Casting:
+
+### Conclusion:
+
+### More content:
 
