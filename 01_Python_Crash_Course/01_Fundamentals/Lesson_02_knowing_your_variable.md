@@ -23,6 +23,14 @@
 
 Like I've said in the previous lesson, a variable is like a container to a value, once you've assigned some value to a variable it will behaves as the value that it contains. Like high school algebra classes where you needed to find the value of X in an equation, once you found it, you could use X elsewhere and X had the value you had found. But unlike x in algebra classes, in python we can assign different ''types'' values within a variable.
 
+And about their names. It's important tha you give them a nice name as well ok. A variable can have a short name (like x or y) or a more descriptive name (age, name, sum_numbers). But there are some rules:
+
+- A variable name must start with a letter or the underscore character
+- A variable name cannot start with a number
+- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+- Variable names are case-sensitive (age, Age and AGE are three different variables)
+- And don't use python [reserved words](https://www.programiz.com/python-programming/keyword-list), he's very sensitive about them, ok.
+
 ### String (str):
 
 We can assign text to a variable, known as string(str) in python, which is basicaly a series of characters:
@@ -250,3 +258,4 @@ In this class we talked about variables and data types, type conversion and stri
 
 - [Python Type Conversion and Type Casting](https://www.programiz.com/python-programming/type-conversion-and-casting)
 - [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
+- [List of Keywords in Python](https://www.programiz.com/python-programming/keyword-list)
