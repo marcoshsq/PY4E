@@ -1,1 +1,0 @@
-Falar do if simples
