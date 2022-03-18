@@ -1,4 +1,4 @@
-# Welcome to Python Crash Course (ﾉ◕ヮ◕)ﾉ ヽ(o＾▽＾o) (◕‿◕✿)		.
+# Welcome to Python (ﾉ◕ヮ◕)ﾉ ヽ(o＾▽＾o)/ (◕‿◕✿)		.
 
 If you found this "Crash Course", first of all thank you very much, I am very happy that you decided to use some of the materials I present here, knowledge only exists when it is shared and if this repository helps someone I'll feel super fulfilled.
 
