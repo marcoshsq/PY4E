@@ -131,9 +131,47 @@ Multiple assignment allows us to assign multiple variables at the same time in o
     #output: 30
 
 
-### Type Casting:
+### Type Conversion:
 
+The process of converting the value of one data type (integer, string, float, etc.) to another data type is called type conversion. Python has two types of type conversion. Implicit and Explicit.
 
+In Implicit type conversion, Python automatically converts one data type to another data type. This process doesn't need any user involvement:
+
+    num_01 = 15   # This is an Int
+    num_02 = 10.5 # This is a float
+
+    sum = num_01 + num_02   # We add two variables num_01 and num_02, storing the value in sum
+
+    print(type(sum))
+    print(sum)
+    
+    #output: <class 'float'>  # We get a float from sum
+    #output: 25.5   
+
+In Explicit Type Conversion, users convert the data type of an object to required data type. We use the predefined functions like int(), float(), str(), etc to perform explicit type conversion. This type of conversion is also called typecasting because the user casts (changes) the data type of the objects.
+
+    x = 1   #int
+    y = 2.0 #float
+    z = "3" #str
+    
+    # To convert to int
+    x = int(x)
+    y = int(y)
+    z = int(z)
+    
+    
+    # To convert to float
+    x = float(x)
+    y = float(y)
+    z = float(z)
+    
+    # To convert to str
+    x = str(x)
+    y = str(y)
+    z = str(z)
+    
+
+##
 
 Wow, we cover a lot till now, what about a challenge?
 
@@ -190,9 +228,14 @@ Python has a set of built-in methods that you can use on strings.
 Wow, how many string methods, but there are many others, here is a [list](https://www.w3schools.com/python/python_ref_string.asp) with all of them, for you to play a little bit. Remember, all string methods returns new values. They do not change the original string.
 
 But speaking of playing, how about another exercise?
+ 
  4. Exercise 004 - Make a program that reads an input from the user and display it on the screen its type and all informations about it. [Solution, if you need](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
 
 ### Conclusion:
 
+In this class we talked about variables and data types, type conversion and string methods. So far we are just warming up, from the next lesson things will really start, we will have dozens of exercises to do and you will learn how to turn python into your favorite calculator. See you space cowboy.
+
 ### More content:
 
+- [Python Type Conversion and Type Casting](https://www.programiz.com/python-programming/type-conversion-and-casting)
+- [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
