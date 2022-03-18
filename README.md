@@ -235,6 +235,8 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 110 -
 - Exercise 111 -
 - Exercise 112 -
+- Exercise 113 -
+- Exercise 114 -
 
 
 
