@@ -15,11 +15,11 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
 
 ### Course content:
 
-0. [Why should you learn this stuff?]()
-1. [Fundamentals]()
-    - 01.[Intro]()
-    - 02.[First Steps]()
-    - 03.[Calculation]()
+0. [Why should you learn this stuff?](https://github.com/marcoshsq/Python_Crash_Course#why-should-you-learn-this-stuff)
+1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
+    - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
+    - 02.[First Steps](https://github.com/marcoshsq/Python_Crash_Course#level-02---knowing-your-variable)
+    - 03.[Calculation](https://github.com/marcoshsq/Python_Crash_Course#level-03---python-can-be-your-calculator)
     - 04.[Packages]()
     - 05.[Strings]()
     - 06.[Conditionals (If)]()
@@ -61,11 +61,11 @@ I think that's enough, right? So let's get started (づ｡◕‿‿◕｡)づ
 
 ---
 
-## Part 01 - [Fundamentals]()
+## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/01_Fundamentals)
 
 In the first part, we'll talk about Python basics, variable types, getting user data, and then we'll make python your favorite calculator. After that I'll show you why python is one of the best languages (spoiler, packages). Then we'll talk about strings and close the part one with if statement.
 
-### Level 01 - [Hello Python]():
+### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md):
 
 - Exercise 01 - [Let's get started]()
 - Exercise 02 - [Answering the User]()
