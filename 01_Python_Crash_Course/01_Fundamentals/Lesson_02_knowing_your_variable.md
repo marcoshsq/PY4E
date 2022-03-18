@@ -25,12 +25,12 @@ We can assign text to a variable, known as string(str) in python, which is basic
     #output: Marcos
     
     last_name = 'Quirino'
-    full_name = first_name +" "+ last_name    # This is string concatenation, we use it to create a new variable using the plus sign to join everything.
-    print("Hello "+full_name)
+    full_name = first_name +" "+ last_name    # This is string concatenation, we use it to create 
+    print("Hello "+full_name)                 # a new variable using the plus sign to join everything.
     #output: Hello Marcos Quirino
     
-    print(type(first_name))     # The type function is another built-in function, it gives us the data type of a variable.
-    #output: <class 'str'>
+    print(type(first_name))     # The type function is another built-in function, 
+    #output: <class 'str'>      # it gives us the data type of a variable.
     
 
 
@@ -39,16 +39,16 @@ We can assign text to a variable, known as string(str) in python, which is basic
 We can assign whole numbers to a variable, since we can't do math with string, we use the next data types for that.
 
     age = 20      # note, we don't use quotes with integers, because if we do, they become a str.
-    age = age + 1      # This is a simple sum, we're adding 1 to our age. We can do that with variables, and the original value will be replaced.
-    print(age)
+    age = age + 1      # This is a simple sum, we're adding 1 to our age. 
+    print(age)         # We can do that with variables, and the original value will be replaced.
     print(type(age))
     #output: 21
     #output: <class 'int'>
     
     # Let's try to display a message along with age
     
-    print("Your age is: "+str(age))   # To do that, we need to do a type cast, transforming our int into a str.
-    # output: Your age is: 21
+    print("Your age is: "+str(age))   # To do that, we need to do a type cast, 
+    # output: Your age is: 21         # transforming our int into a str.
    
 
 
@@ -59,9 +59,11 @@ A float is a numeric value that can store a decimal portion.
     height(cm) = 175.5
     temperature(C) = 35.8 
     salary(US$) = 959.32
-    #print(type(height))
-    #print(type(temperature))
-    #print(type(salary))
+    
+    print(type(height))
+    print(type(temperature))
+    print(type(salary))
+    
     #output: <class 'float'>
     #output: <class 'float'>
     #output: <class 'float'>
@@ -73,18 +75,60 @@ It is a variable that can only store true or false (0 or 1).
     human = True
     f = 5 > 9
     t = 9 > 5
+    
     print(f)
     #output: False
+    
     print(t)
     #output: True
+    
     print(type(f))
     #output: <class 'bool'>
+    
     print(type(t))
     #output: <class 'bool'>
 
 
 
+### Python multiple assignment
 
+Multiple assignment allows us to assign multiple variables at the same time in one line of code.
+
+    name = 'Marcos'
+    age = 25
+    happy = True
+
+    name, age, happy = "Marcos", 25, True  # We can assign multiple values to different variables
+                                           # We just need to use a comma, and assign the values 
+    print(name)                            # in the same order we want.
+    print(age)
+    print(happy)
+    
+    #output: Marcos
+    #output: 25
+    #output: True
+    
+    # If you have different variables with the same value
+    # Instead of writing them like this:
+    
+    a = 30
+    b = 30
+    c = 30
+    d = 30
+    
+    # You can use multiple assignment:
+
+    a = b = c = d = 30
+
+    print(a)
+    print(b)
+    print(c)
+    print(d)
+    
+    #output: 30
+    #output: 30
+    #output: 30
+    #output: 30
 
 
 
