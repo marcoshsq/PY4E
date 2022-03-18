@@ -15,7 +15,7 @@ But I don't wanna make you install anything, at least for now, so I'll recommend
 2. [The Zen of Python](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-zen-of-python)
 3. [The Print Function](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-print-function)
 4. [Getting Data from the user](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#getting-data-from-the-user)
-5. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#lesson-wrap-up)
+5. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#lesson-wrap-up)
 6. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#conclusion)
 7. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#more-content)
 
