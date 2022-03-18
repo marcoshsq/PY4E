@@ -131,6 +131,10 @@ Multiple assignment allows us to assign multiple variables at the same time in o
     #output: 30
 
 
+### Type Casting:
+
+
+
 Wow, we cover a lot till now, what about a challenge?
 
 3. Exercise 003 - Create a program that reads two numbers and displays the sum between them. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex003.py)
@@ -139,8 +143,54 @@ Wow, we cover a lot till now, what about a challenge?
 
 ### String Methods:
 
+Python has a set of built-in methods that you can use on strings.
 
-### Type Casting:
+    name = "Marcos"
+    
+    # Actually this is a function, give you the lentgh of you string.
+    print(len(name)) 
+    #output: 6
+    
+    # Searches the string for a specified value and returns the position of where it was found
+    print(name.find("o")) 
+    #output: 4
+    
+    # Converts the first character to upper case
+    print(name.capitalize())
+    #output: Marcos
+    
+    # Converts a string into upper case
+    print(name.upper())
+    #output: MARCOS
+    
+    # Converts a string into lower case
+    print(name.lower())
+    #output: marcos
+    
+    # Returns True if all characters in the string are digits
+    print(name.isdigit())
+    #output: False
+    
+    # Returns True if all characters in the string are in the alphabet
+    print(name.isalpha())
+    #output: True
+    
+    # Returns the number of times a specified value occurs in a string
+    print(name.count("o"))
+    #output: 1
+    
+    # Returns a string where a specified value is replaced with a specified value
+    print(name.replace("o","a"))
+    #output: Marcas
+    
+    # This is not a method, but you can multiply a string
+    print(name*3)
+    #output: MarcosMarcosMarcos
+
+Wow, how many string methods, but there are many others, here is a [list](https://www.w3schools.com/python/python_ref_string.asp) with all of them, for you to play a little bit. Remember, all string methods returns new values. They do not change the original string.
+
+But speaking of playing, how about another exercise?
+ 4. Exercise 004 - Make a program that reads an input from the user and display it on the screen its type and all informations about it. [Solution, if you need](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
 
 ### Conclusion:
 
