@@ -14,8 +14,9 @@
 6. [Python multiple assignment](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#python-multiple-assignment)
 7. [Type Conversion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#type-conversion)
 8. [String Methods](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#string-methods)
-9. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#conclusion)
-10. [More content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#more-content)
+9. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#lesson-wrap-up)
+10. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#conclusion)
+11. [More content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md#more-content)
 
 ---
 
@@ -245,6 +246,54 @@ Wow, how many string methods, but there are many others, here is a [list](https:
 But speaking of playing, how about another exercise?
  
  4. Exercise 004 - Make a program that reads an input from the user and display it on the screen its type and all informations about it. [Solution, if you need](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
+
+---
+
+### Lesson Wrap Up:
+
+Data Types:
+
+    Integers:	-2, -1, 0, 1, 2, 3, 4, 5
+    Floating-point numbers:	-1.25, -1.0, --0.5, 0.0, 0.5, 1.0, 1.25
+    Strings:	'a', 'aa', 'aaa', 'Hello!', '11 cats'
+    Bool: True, False, 0, 1
+   
+String Concatenation and Replication:
+
+    # String concatenation
+    'Alice' 'Bob'
+    'AliceBob'
+
+    # String Replication:
+    'Alice' * 5
+    'AliceAliceAliceAliceAlice'
+    
+Variables: 
+
+    '''You can name a variable anything as long as it obeys the following rules:
+
+    - It can be only one word.
+    - It can use only letters, numbers, and the underscore (_) character.
+    - It can’t begin with a number.
+    - Variable name starting with an underscore (_) are considered as "unuseful`. '''
+    
+The str(), int(), and float() Functions:
+
+      Integer to String or Float:
+
+      str(29)
+      #output: '29'
+      print(f'I am {29} years old.')
+      #output: I am 29 years old.
+      str(-3.14)
+      #output: '-3.14'
+
+      Float to Integer:
+
+      int(7.7)
+      #output: 7
+      int(7.7) + 1
+      #output: 8  
 
 ---
 
