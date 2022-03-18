@@ -11,6 +11,10 @@ If you are interested in installing Python on your computer, along with an [IDE]
 But I don't wanna make you install anything, at least for now, so I'll recommend you use [Jupyter notebook](https://jupyter.org/) which is a web-based interactive computing platform, or if you have a Google account, you can use the [Google Colab](https://colab.research.google.com/), tha is basically, Google's jupyter notebook, but you can save it on Google Drive. If you need a tutorial to get started with Google Colab use this [video](https://www.youtube.com/watch?v=RLYoEyIHL6A).
 
 ## Lesson 01 Content:
+1. [The Golden Rule](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-golden-rule)
+2. [The Print Function](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-print-function)
+3. [Getting Data from the user](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#getting-data-from-the-user)
+4. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#conclusion)
 
 ---
 
@@ -22,7 +26,7 @@ Once you have your Jupyter notebook open, you must be wanting to do something ri
 
 But don't worry, this is the kind of thing that take a while to get it, so don't rush it. But with that said, let's try to write our first program, shall we?
 
-### The Print Function
+### The Print Function:
 
 When you started playing around with Python, one thing you might notice is that you can enter numbers but not text, this is because text has special delimiters, so not to cause confusion in Python, we put this type of data, in quotes, it can be double or single quotes (' ', " "), usually single quotes are used. So when you want to write a text message (and don't worry we'll talk about data types in a moment) you have to use quotes. But not just writing, you want to see what happens right? To see what you are doing in python you need to use a function, in python all commands are functions, we have [built-in functions](https://docs.python.org/3/library/functions.html), we have the functions that come with packages and eventually you will learn to create your own. But for now let's use one of the most important built-in function, the print function.
 
@@ -47,6 +51,7 @@ To use a function you must call the function by its name, and end it with parent
 
     
 Cool, now that we've talked about the print function, why don't you try it? Start printing. Not only that, here's your first exercise:
+
 1. Exercise 001 - Create your first program and help your computer greet the World. [If you want the solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex001.py)
 
 ---
@@ -75,6 +80,7 @@ So, you can use variables to store your different types of data, including user 
       # Output: 5 
       
 Great now that you learned how to use the print and input function, you're ready for the second challenge:
+
 2. Exercise 002 - Ask the user for his name and give him a welcome message. [If you want the solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex002.py)
 
 ---
