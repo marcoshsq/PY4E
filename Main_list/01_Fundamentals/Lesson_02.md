@@ -1,1 +1,0 @@
-Falar de strings
