@@ -2,7 +2,7 @@
 
 If you found this "Crash Course", first of all thank you very much, I am very happy that you decided to use some of the materials I present here, knowledge only exists when it is shared and if this repository helps someone I'll feel super fulfilled.
 
-The idea of this repository is to offer some kind of python course, in it you will find notes regarding the concepts covered, along with a list of exercises for practice, along with their solutions.
+The idea of this repository is to offer some kind of python course in the most ELI5 way, in it you will find notes regarding the concepts covered called "Lessons", along with a list of solved exercises for practice (I recommend you to do them before seeing the solutions).
 
 This is an introductory course and the concepts covered here are: Basic Syntax, Variables and Data Type, Conditionals, Type Casting and Exceptions, Functions and Built In Functions, Lists, Tuples, Sets, Dictionaries and some more things. ヽ(^◇^*)/
 
@@ -11,7 +11,7 @@ Btw I'm using the Python 3 version.
 ---
 
 ## Course Syllabus:
-Once again, welcome to this intensive python course, the purpose of this course is to teach you the basics of the language and offer you dozens of exercises to practice, because practice makes permanent. In addition I will list dozens of extra materials for further research and studies. That's it, and good luck u.u
+Once again, welcome to this course, the purpose of this is to teach you the basics of the Python language in the most practical way, offering you dozens of exercises to practice, because practice makes permanent. In addition I will list dozens of extra materials for further research and studies. That's it, and good luck u.u
 
 ### Course content:
 
@@ -180,11 +180,61 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/Main_list/03_Compound_Structures)
 
-### Level 10 - []()
-### Level 11 - []()
-### Level 12 - []()
-### Level 13 - []()
-### Level 14 - []()
+### Level 10 - [Tuples]()
+
+- Exercise 72 - 
+- Exercise 73 - 
+- Exercise 74 - 
+- Exercise 75 - 
+- Exercise 76 - 
+- Exercise 77 - 
+
+### Level 11 - [Lists]()
+
+- Exercise 78 - 
+- Exercise 79 - 
+- Exercise 80 - 
+- Exercise 81 - 
+- Exercise 82 - 
+- Exercise 83 - 
+- Exercise 84 - 
+- Exercise 85 - 
+- Exercise 86 - 
+- Exercise 87 - 
+- Exercise 88 - 
+- Exercise 89 - 
+
+### Level 12 - [Dics]()
+
+- Exercise 90 -
+- Exercise 91 -
+- Exercise 92 -
+- Exercise 93 -
+- Exercise 94 - 
+- Exercise 95 -
+
+### Level 13 - [Functions]()
+
+- Exercise 96 -
+- Exercise 97 -
+- Exercise 98 -
+- Exercise 99 -
+- Exercise 100 -
+- Exercise 101 -
+- Exercise 102 -
+- Exercise 103 -
+- Exercise 104 -
+- Exercise 105 -
+- Exercise 106 -
+
+### Level 14 - [Mods]()
+
+- Exercise 107 -
+- Exercise 108 -
+- Exercise 109 -
+- Exercise 110 -
+- Exercise 111 -
+- Exercise 112 -
 
 
 
