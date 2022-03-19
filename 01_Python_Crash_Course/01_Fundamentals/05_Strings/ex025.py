@@ -1,6 +1,6 @@
-# Exercício Python 025 - Procurando uma string dentro de outra
-'''Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.'''
+# Exercise 025 - Finding a string inside another
+'''Create a program that reads a person's name and tells if they have something specific in their name.'''
 
 name = input('Insert name: ').casefold()
-print(f'Seu nome é {name}')
-print('Ele contem Silva? ','silva' in name)
+print(f'Your name is {name}')
+print('And it has? ','specify_here' in name)
