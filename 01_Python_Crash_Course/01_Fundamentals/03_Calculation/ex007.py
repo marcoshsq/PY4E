@@ -1,7 +1,12 @@
-# Exercício Python 007: Média Aritmética 
-'''Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.'''
+# Exercise 007: Average 
+'''Develop a program that reads a student's grades, calculates and displays their average.'''
 
-score_a = float(input('Insira a primeira nota do aluno: '))
-score_b = float(input('Insira a segunda nota do aluno: '))
+# First we ask for the grades
+score_a = float(input('Enter the student\'s first grade: '))
+score_b = float(input('Enter the student\'s second grade:: '))
+
+# Then we calculate the average
 average = (score_a + score_b) / 2
-print(f'A média do aluno foi {average}')
+
+# Finally, we print u.u
+print(f'The student average grade was {average}')
