@@ -69,14 +69,14 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 14 - [Temperature converter](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex014.py)
 - Exercise 15 - [Car rent](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex015.py)
 
-### Level 04 - [Leveling up with upgrades]()
+### Level 04 - [Leveling up with upgrades](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
 
-- Exercise 16 - []()
-- Exercise 17 - []() 
-- Exercise 18 - []()
-- Exercise 19 - []()
-- Exercise 20 - []()
-- Exercise 21 - []()
+- Exercise 16 - [Cracking a number](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex016.py)
+- Exercise 17 - [Right Triangle](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex017.py) 
+- Exercise 18 - [Sine, Cosine and Tangent](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex018.py)
+- Exercise 19 - [Sorting an item in the list](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex019.py)
+- Exercise 20 - [Sorting an order in the list](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex020.py)
+- Exercise 21 - [Playing a song](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex021.py)
 
 ### Level 05 - [There are no Strings on me]()
 
