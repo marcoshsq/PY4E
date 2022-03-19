@@ -1,5 +1,5 @@
 # Welcome to Python (ﾉ◕ヮ◕)ﾉ ヽ(o＾▽＾o)/ (◕‿◕✿)		.
-
+# Work in progress
 If you found this "Crash Course", first of all thank you very much, I am very happy that you decided to use some of the materials I present here, knowledge only exists when it is shared and if this repository helps someone I'll feel super fulfilled.
 
 The idea of this repository is to offer some kind of python course in the most ELI5 way, in it you will find notes regarding the concepts covered called "Lessons", along with a list of solved exercises for practice (I recommend you to do them before seeing the solutions).
