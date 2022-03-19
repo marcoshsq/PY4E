@@ -11,11 +11,10 @@ Btw I'm using the Python 3 version.
 ---
 
 ## Course Syllabus:
-Once again, welcome to this course, the purpose of this is to teach you the basics of the Python language in the most practical way, offering you dozens of exercises to practice, because practice makes permanent. In addition I will list dozens of extra materials for further research and studies. That's it, and good luck u.u
+Once again, welcome to this course, the purpose of this is to teach you the basics of the Python language in the most practical way, offering you dozens of exercises to practice, because practice makes permanent. In addition I'll list extra materials for further research and studies. That's it, and good luck u.u
 
 ### Course content:
 
-0. [Why should you learn this stuff?](https://github.com/marcoshsq/Python_Crash_Course#why-should-you-learn-this-stuff)
 1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
     - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
     - 02.[First Steps](https://github.com/marcoshsq/Python_Crash_Course#level-02---knowing-your-variable)
@@ -39,25 +38,6 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
     - 17.[Projects]()
  4. [Extra Exercises]()  
  5. [Bibliographic references]()
-
----
-
-## Why should you learn this stuff?
-
-Well, because it [pays](https://money.usnews.com/careers/best-jobs/computer-programmer/salary) very well, a good programmer can earn about $100,000 a year or even more, and I want that. Yeah... This is the first important lesson you should learn: slow down, take it easy, take a deep breath and learn how to walk before you start running. I'm saying this because, its easy to see all the news about how tecnology is the future, and how everyone should learn to code, you see the big wages and sometimes kids half your age making three times what you make, then the anxiety starts, and I'm not gonna lie, this shit is hard. Learn to code is easy, making good, useful and profitable code is not. But don't get me wrong, I'm not saying "give up, you won't make it". I'm on the same journey as you, my point is, don't just focus on the big paychecks because it's a very long journey to get there, and if your focus is all on the money... you're probably going to get frustrated. So stop thinking about the product, and let's focus on the process all right? Good. And remember: "For those who prove worthy, paradise awaits."
-
-### But why should you learn to code, for real?
-
-Because it's fun, really, I don't know what your level is, but I'm going to assume you're quite a beginner, so trust me, when you solve your first problem that requires some sort of reasoning, or clever "trick", what we brazillians call "Gambiarra", you finish your script, then hit run and tcharam the program works, it's just works ＼(^ω^＼), it's really magical. But not just fun, is quite fulfilling and challenging as well. In addition to being the profession of the future. And, well, pays really good. 
-
-Beyond that, why python? There are two types of people who want to learn to code, those who know what they want to do and, those who don't. If you already know what you want, good. Now, if you don't know, I'll give you three reasons why Python: 
-
-1. [One of the easiest languages](https://brainstation.io/career-guides/how-long-does-it-take-to-learn-python#:~:text=Python%20is%20widely%20considered%20one,lot%20of%20practice%20and%20patience.)
-2. [One of the most popular](https://statisticstimes.com/tech/top-computer-languages.php)
-3. [US$60k per year for good new devs](https://www.simplilearn.com/python-developer-salary-article#:~:text=The%20average%20entry%2Dlevel%20Python,year%20to%20111%2C605%20USD%2Fyear.)
-
-I think that's enough, right? So let's get started (づ｡◕‿‿◕｡)づ
-
 
 ---
 
