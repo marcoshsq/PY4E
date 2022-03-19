@@ -130,15 +130,15 @@ Okay, there are a lot of operators, I'll recommend you two things, first, go pla
 
 5. Exercise 005 - Write a program that reads an integer and displays its successor and predecessor on the screen. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
 6. Exercise 006 - Create an algorithm that reads a number and displays its double, triple and square root. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex006.py)
-7. Exercise 007 - [Solution]()
-8. Exercise 008 - [Solution]()
-9. Exercise 009 - [Solution]()
-10. Exercise 010 - [Solution]()
-11. Exercise 011 - [Solution]()
-12. Exercise 012 - [Solution]()
-13. Exercise 013 - [Solution]()
-14. Exercise 014 - [Solution]()
-15. Exercise 015 - [Solution]()
+7. Exercise 007 - Develop a program that reads a student's grades, calculates and displays their average. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex007.py)
+8. Exercise 008 - Create a program that reads a value in meters and display it converted to centimeters and millimeters. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex008.py)
+9. Exercise 009 - Make a program that reads a number and display its multiplication table. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex009.py)
+10. Exercise 010 - Create a program that reads how much money a person has in their wallet, then show how many dollars he can buy. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex010.py)
+11. Exercise 011 - Write a program that reads the width and height of a wall in meters, calculate its area and the amount of paint needed to paint it, knowing that each liter of paint paints an area of 2 square meters. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex011.py)
+12. Exercise 012 - Make an algorithm that reads the price of a product and displays its new price, with a 5% discount. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex012.py)
+13. Exercise 013 - Make an algorithm that reads an employee's salary and displays their new salary, with a 15% increase. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex013.py)
+14. Exercise 014 - Write a program that converts a temperature by typing in degrees Celsius and convert to degrees Fahrenheit. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex014.py)
+15. Exercise 015 - Write a program that asks the number of kilometers traveled by a rental car and the number of days for which it was rented. Calculate the price to pay, knowing that the car costs R$60 per day and R$0.15 per km driven. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex015.py)
 
 ---
 
