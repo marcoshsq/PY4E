@@ -1,9 +1,9 @@
-# Exercício Python 015: Aluguel de carros
-'''Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado 
-e a quantidade de dias pelos quais ele foi alugado. 
-Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.'''
+# Exercise 015: Car rent
+'''Write a program that asks the number of kilometers traveled by a rental car
+and the number of days for which it was rented. Calculate the price to pay, 
+knowing that the car costs R$60 per day and R$0.15 per km driven.'''
 
-number_days =  float(input('Quantidade de dias de aluguel: '))
-km_used = float(input('Quantidade de Km percorridos: '))
+number_days =  float(input('Number of rental days: '))
+km_used = float(input('Number of kilometers traveled: '))
 payment = (number_days * 60) + (km_used * 0.15)
-print(f'O valor a pagar é de R${payment}')
+print(f'The fee is R${payment}')
