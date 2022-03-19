@@ -393,12 +393,15 @@ A simpler and less powerful mechanism, but it is recommended when handling forma
 
 Exercises uhuuuu:
 
-22. exercise 022 -  []()
-23. exercise 023 -  []()
-24. exercise 024 -  []()
-25. exercise 025 -  []()
-26. exercise 026 -  []()
-27. exercise 027 -  []()
+22. exercise 022 - Create a program that reads a person's full name and displays:
+- The name in all uppercase and lowercase letters.
+- How many letters in total (without considering spaces).
+- How many letters are in the first name. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex022.py)
+23. exercise 023 - Write a program that reads a number from 0 to 9999 and display each of the separate digits on the screen. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex023.py)
+24. exercise 024 - Create a program that reads the name of a city say whether or not it starts with a specific name. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex024.py)
+25. exercise 025 - Create a program that reads a person's name and tells if they have something specific in their name. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex025.py)
+26. exercise 026 - Make a program that reads a sentence on the keyboard and shows how many times the letter "A" appears, what position it first appears in and what position it appears last time. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex026.py)
+27. exercise 027 - Make a program that reads a person's full name, then showing the first and last name separately. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex027.py)
 
 
 ---
