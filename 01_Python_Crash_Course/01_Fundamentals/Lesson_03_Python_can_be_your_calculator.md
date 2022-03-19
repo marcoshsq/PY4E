@@ -6,9 +6,21 @@
 
 ## Lesson 03 Content:
 
+1. [Python Operators]()
+2. [Arithmetic operators]()
+3. [Python Assignment Operators]()
+4. [Python Comparison Operators]()
+5. [Python Logical Operators]()
+6. [Python Identity Operators]()
+7. [Python Membership Operators]()
+8. [Python Bitwise Operators]()
+9. [Lesson Wrap Up]()
+10. [Conclusion]()
+11. [More content]()
+
 ---
 
-### Python Operators
+### Python Operators:
 
 To do calculations in python we have two approaches, we use the built-in operators together with a little daring and joy, or we use specific packages.
 Let's start with the first option.
@@ -27,7 +39,7 @@ Python divides the operators in the following groups:
 
 ##
 
-Arithmetic operators examples, from Highest to Lowest precedence:
+### Arithmetic operators examples, from Highest to Lowest precedence:
 
 | Operator | Operation | Example |
 | :--: | :--: | :--: |
@@ -41,7 +53,7 @@ Arithmetic operators examples, from Highest to Lowest precedence:
 
 ##
 
-Python Assignment Operators, assignment operators are used to assign values to variables:
+### Python Assignment Operators, assignment operators are used to assign values to variables:
 
 | Operator | Example | Same As |
 | :--: | :--: | :--: |
@@ -61,7 +73,7 @@ Python Assignment Operators, assignment operators are used to assign values to v
 
 ##
 
-Python Comparison Operators, comparison operators are used to compare two values:
+### Python Comparison Operators, comparison operators are used to compare two values:
 
 | Operator |	Name |	Example |
 | :--: | :--: | :--: |
@@ -74,7 +86,7 @@ Python Comparison Operators, comparison operators are used to compare two values
 
 ##
 
-Python Logical Operators, logical operators are used to combine conditional statements:
+### Python Logical Operators, logical operators are used to combine conditional statements:
 
 | Operator |	Description |	Example	|
 | :--: | :--: | :--: |
@@ -84,7 +96,7 @@ Python Logical Operators, logical operators are used to combine conditional stat
 
 ##
 
-Python Identity Operators, identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
+### Python Identity Operators, identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
 
 | Operator |	Description |	Example |
 | :--: | :--: | :--: |
@@ -93,7 +105,7 @@ Python Identity Operators, identity operators are used to compare the objects, n
 
 ##
 
-Python Membership Operators, membership operators are used to test if a sequence is presented in an object:
+### Python Membership Operators, membership operators are used to test if a sequence is presented in an object:
 
 | Operator |	Description |	Example |	
 | :--: | :--: | :--: |
@@ -102,7 +114,7 @@ Python Membership Operators, membership operators are used to test if a sequence
 
 ##
 
-Python Bitwise Operators, bitwise operators are used to compare (binary) numbers:
+### Python Bitwise Operators, bitwise operators are used to compare (binary) numbers:
 
 | Operator |	Name |	Description |
 | :--: | :--: | :--: |
@@ -114,29 +126,39 @@ Python Bitwise Operators, bitwise operators are used to compare (binary) numbers
 
 ##
 
-Okay, there are a lot of operators, but let's just focus on arithmetic for now.
+Okay, there are a lot of operators, I'll recommend you two things, first, go play around with it, remember, you can't break Python. second, let's do some exercises.
 
-### topic 02
-### content 02
-
-##
-
-### topic 03
-### content 03
-
-##
-
-### topic 04
-### content 04
-
+5. Exercise 005
+6. Exercise 006
+7. Exercise 007
+8. Exercise 008
+9. Exercise 009
+10. Exercise 010
+11. Exercise 011
+12. Exercise 012
+13. Exercise 013
+14. Exercise 014
+15. Exercise 015
 
 ---
 
 ### Lesson Wrap Up:
 
+Python has these operators:
+
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Identity operators
+- Membership operators
+- Bitwise operators
+
 ---
 
 ### Conclusion:
+
+In this lesson we talk about operators in python, and we solve several arithmetic exercises, in the next lesson we will talk about packages.
 
 ---
 
