@@ -1,14 +1,14 @@
-# Exercício Python 020 - Sorteando uma ordem na lista
-'''O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. 
-Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.'''
-
 import random
 
-aluno_01 = str(input('Insira o nome do primeiro aluno: '))
-aluno_02 = str(input('Insira o nome do primeiro aluno: '))
-aluno_03 = str(input('Insira o nome do primeiro aluno: '))
-aluno_04 = str(input('Insira o nome do primeiro aluno: '))
+# Exercise 020 - Sorting an order in the list
+'''The same teacher from challenge 019 wants to draw the order of presentation of student work.
+Make a program that reads the names of the four students and shows a random order.'''
 
-alunos = [aluno_01, aluno_02, aluno_03, aluno_04]
-random.shuffle(alunos)
-print(f'A ordem de apresentação será: {alunos}')
+name_01 = str(input('Enter the first student\'s name: '))
+name_02 = str(input('Enter the second student\'s name: '))
+name_03 = str(input('Enter the third student\'s name: '))
+name_04 = str(input('Enter the fourth student\'s name: '))
+
+students = [name_01, name_02, name_03, name_04]
+random.shuffle(students)
+print(f'The order of presentation will be: {students}')
