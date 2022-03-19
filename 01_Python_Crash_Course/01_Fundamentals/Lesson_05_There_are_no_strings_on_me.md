@@ -385,3 +385,6 @@ A simpler and less powerful mechanism, but it is recommended when handling forma
 ---
 
 ## More content
+
+- [Strings](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)
+- [Python Strings Cheat Sheet](https://www.shortcutfoo.com/app/dojos/python-strings/cheatsheet)
