@@ -52,8 +52,10 @@ That's the packages, or modules (there's a technical difference between them, bu
 
 ##
 
-### topic 02
-### content 02
+### Packages, packages and more packages:
+The first package, and one of the most important is [pip](https://pypi.org/project/pip/). Because pip is the package who install other packages. If you use the command pip list in your terminal, you can see all the packages one have installed on your python. 
+
+There are thousands of packages in python, each one solves a different problem, why don't you [play around a bit](https://pypi.org/).
 
 ##
 
