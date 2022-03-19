@@ -1,9 +1,22 @@
-# Exercício Python 006: Dobro, Triplo, Raiz Quadrada
-'''Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.'''
+# Exercise 006: Double, Triple, Square Root
+'''Create an algorithm that reads a number and displays its double, triple and square root.'''
 
-num = float(input('Insira um número: '))
+
+# First, we ask the user for an input
+num = float(input('Enter a number: '))
+
+# So we multiply by two and by three to get double and triple
 double_num = num * 2
 triple_num = num * 3
+
+# We raise our variable to the power of 0.5, so we get its square root
 sqrt_num = num ** 0.5
-print(f'Dado o valor {num}, o dobro vale {double_num}')
-print(f'O triplo é {triple_num} e sua raiz quadrada é {sqrt_num} ')
+
+# Then we print everything
+print(f'Given the value {num}, it\'s double is {double_num}')
+print(f'It\'s triple is {triple_num} and the square root is {sqrt_num} ')
+
+
+'''The square root is the inverse operation of the power, 
+so calculating the square root of a number n 
+is figuring out which number squared gives n.'''
