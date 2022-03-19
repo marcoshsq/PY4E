@@ -110,12 +110,14 @@ print(sin, cos, tan)
         
 Math Module is a package of mathematical functions, that is, instead of doing the calculations in your head, you use the module. The ramdom helps make things random :), but I'll let you play around.
 
-16. Exercise 016 - []()
-17. Exercise 017 - []()
-18. Exercise 018 - []()
-19. Exercise 019 - []()
-20. Exercise 020 - []()
-21. Exercise 021 - []()
+16. Exercise 016 - Create a program that reads any Real number from the keyboard and displays its Integer portion - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex016.py)
+17. Exercise 017 - Write a program that reads the length of the opposite side and the adjacent side of a right triangle.
+Calculate and display the length of the hypotenuse - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex017.py)
+18. Exercise 018 - Write a program that reads any angle and displays the sine, cosine and tangent value on the screen of this angle [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex018.py)
+19. Exercise 019 - A teacher wants to draw one of his four students to erase the board. Make a program that helps him, raffling one of the students [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex019.py)
+20. Exercise 020 - The same teacher from challenge 019 wants to draw the order of presentation of student work.
+Make a program that reads the names of the four students and shows a random order - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex020.py)
+21. Exercise 021 - Help python sing - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex021.py)
 
 
 ---
