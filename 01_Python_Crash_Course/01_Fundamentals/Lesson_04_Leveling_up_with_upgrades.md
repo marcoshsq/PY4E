@@ -104,9 +104,12 @@ Math Module is a package of mathematical functions, that is, instead of doing th
 
 ### Lesson Wrap Up:
 
+Packages are pieces of code that you install in your python for you to solve specific problems without having to create the code from scratch.
 ---
 
 ### Conclusion:
+
+In this lesson we talked about packages in python, and we solved some exercises using the math and random packages, in the next lesson we'll talk about strings.
 
 ---
 
