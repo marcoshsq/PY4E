@@ -45,8 +45,10 @@ async |	elif |	if |	or |	yield
 
 The above keywords may get altered in different versions of Python. Some extra might get added or some might be removed. You can always get the list of keywords in your current version by typing the following in the prompt:
 
+```python
     >>> import keyword
     >>> print(keyword.kwlist) 
+```
 
 ##
 
@@ -54,6 +56,7 @@ The above keywords may get altered in different versions of Python. Some extra m
 
 We can assign text to a variable, known as string(str) in python, which is basicaly a series of characters:
 
+```python
     first_name = 'Marcos'    # When we want to write a str in Python we use quotes
     print(first_name)        # But when you want to use a variable you don't need to use quotes
     #output: Marcos
@@ -65,7 +68,7 @@ We can assign text to a variable, known as string(str) in python, which is basic
     
     print(type(first_name))     # The type function is another built-in function, 
     #output: <class 'str'>      # it gives us the data type of a variable.
-    
+```   
 
 ##
 
@@ -73,6 +76,8 @@ We can assign text to a variable, known as string(str) in python, which is basic
 
 We can assign whole numbers to a variable, since we can't do math with string, we use the next data types for that.
 
+
+```python
     age = 20      # note, we don't use quotes with integers, because if we do, they become a str.
     age = age + 1      # This is a simple sum, we're adding 1 to our age. 
     print(age)         # We can do that with variables, and the original value will be replaced.
@@ -84,12 +89,17 @@ We can assign whole numbers to a variable, since we can't do math with string, w
     
     print("Your age is: "+str(age))   # To do that, we need to do a type cast, 
     # output: Your age is: 21         # transforming our int into a str.
-   
+```
+
+
 ##
 
 ### Floating point (float):
 
 A float is a numeric value that can store a decimal portion.
+
+
+```python
 
     height(cm) = 175.5
     temperature(C) = 35.8 
@@ -102,12 +112,16 @@ A float is a numeric value that can store a decimal portion.
     #output: <class 'float'>
     #output: <class 'float'>
     #output: <class 'float'>
-  
+```
+
+
 ##  
   
 ### Boolean:
 
 It is a variable that can only store true or false (0 or 1).
+
+```python
 
     human = True
     f = 5 > 9
@@ -124,6 +138,8 @@ It is a variable that can only store true or false (0 or 1).
     
     print(type(t))
     #output: <class 'bool'>
+```
+
 
 ##
 
@@ -131,6 +147,7 @@ It is a variable that can only store true or false (0 or 1).
 
 Multiple assignment allows us to assign multiple variables at the same time in one line of code.
 
+```python
     name = 'Marcos'
     age = 25
     happy = True
@@ -166,6 +183,7 @@ Multiple assignment allows us to assign multiple variables at the same time in o
     #output: 30
     #output: 30
     #output: 30
+```
 
 ##
 
@@ -175,6 +193,7 @@ The process of converting the value of one data type (integer, string, float, et
 
 In Implicit type conversion, Python automatically converts one data type to another data type. This process doesn't need any user involvement:
 
+```python
     num_01 = 15   # This is an Int
     num_02 = 10.5 # This is a float
 
@@ -185,9 +204,11 @@ In Implicit type conversion, Python automatically converts one data type to anot
     
     #output: <class 'float'>  # We get a float from sum
     #output: 25.5   
+```
 
 In Explicit Type Conversion, users convert the data type of an object to required data type. We use the predefined functions like int(), float(), str(), etc to perform explicit type conversion. This type of conversion is also called typecasting because the user casts (changes) the data type of the objects.
 
+```python
     x = 1   #int
     y = 2.0 #float
     z = "3" #str
@@ -207,7 +228,7 @@ In Explicit Type Conversion, users convert the data type of an object to require
     x = str(x)
     y = str(y)
     z = str(z)
-    
+```    
 
 Wow, we cover a lot till now, what about a challenge?
 
@@ -219,6 +240,7 @@ Wow, we cover a lot till now, what about a challenge?
 
 Python has a set of built-in methods that you can use on strings.
 
+```python
     name = "Marcos"
     
     # Actually this is a function, give you the lentgh of you string.
@@ -260,6 +282,7 @@ Python has a set of built-in methods that you can use on strings.
     # This is not a method, but you can multiply a string
     print(name*3)
     #output: MarcosMarcosMarcos
+```
 
 Wow, how many string methods, but there are many others, here is a [list](https://www.w3schools.com/python/python_ref_string.asp) with all of them, for you to play a little bit. Remember, all string methods returns new values. They do not change the original string.
 
@@ -273,13 +296,16 @@ But speaking of playing, how about another exercise?
 
 Data Types:
 
+```python
     Integers:	-2, -1, 0, 1, 2, 3, 4, 5
     Floating-point numbers:	-1.25, -1.0, --0.5, 0.0, 0.5, 1.0, 1.25
     Strings:	'a', 'aa', 'aaa', 'Hello!', '11 cats'
     Bool: True, False, 0, 1
-   
+```
+
 String Concatenation and Replication:
 
+```python
     # String concatenation
     'Alice' 'Bob'
     'AliceBob'
@@ -287,18 +313,23 @@ String Concatenation and Replication:
     # String Replication:
     'Alice' * 5
     'AliceAliceAliceAliceAlice'
-    
+``` 
+
 Variables: 
 
+```python
     '''You can name a variable anything as long as it obeys the following rules:
 
     - It can be only one word.
     - It can use only letters, numbers, and the underscore (_) character.
     - It can’t begin with a number.
     - Variable name starting with an underscore (_) are considered as "unuseful`. '''
-    
+```
+
+
 The str(), int(), and float() Functions:
 
+```python
       Integer to String or Float:
 
       str(29)
@@ -314,6 +345,7 @@ The str(), int(), and float() Functions:
       #output: 7
       int(7.7) + 1
       #output: 8  
+```
 
 ---
 
