@@ -1,19 +1,19 @@
-# Exercício Python 022 - Analisador de Textos
-'''Crie um programa que leia o nome completo de uma pessoa e mostre: 
-- O nome com todas as letras maiúsculas e minúsculas.
-- Quantas letras ao todo (sem considerar espaços).
-- Quantas letras tem o primeiro nome.'''
+# Exercise 022 - Text Analyzer
+'''Create a program that reads a person's full name and displays:
+- The name in all uppercase and lowercase letters.
+- How many letters in total (without considering spaces).
+- How many letters are in the first name.'''
 
-name = str(input('Digite seu nome: ')).strip()
-name_up = name.upper()          # O nome com todas as letras maiúsculas
-name_low = name.lower()         # O nome com todas as letras minúsculas
-number_name = len(name) - name.count(' ')  # Quantas letras ao todo (sem considerar espaços)
-find_the_space = name.find(' ')         # encontrar o primeiro espaço para usar como referência ao fatiar o primeiro nome
+name = str(input('Enter your full name: ')).strip()
+name_up = name.upper()          # The name in all capital letters
+name_low = name.lower()         # The name in all lowercase letters
+number_name = len(name) - name.count(' ')  # How many letters in total (not including spaces)
+find_the_space = name.find(' ')         # Find the first space to use as a reference when slicing the first name
 first_name = name[:find_the_space]
 number_first_name = len(first_name)
 
-print(f'Analisando seu nome... \n'
-f'Seu nome em maíuscula é: {name_up} \n'
-f'Seu nome em mínuscula é: {name_low} \n'
-f'Seu nome tem ao todo {number_name} letras \n'
-f'Seu primeiro nome é {first_name} \nE ele tem {number_first_name} letras')
+print(f'Analyzing your name... \n'
+f'Your capitalized name is: {name_up} \n'
+f'Your name in lowercase is: {name_low} \n'
+f'Your name has {number_name} letters \n'
+f'Your name is {first_name} \nand it has {number_first_name} letters')
