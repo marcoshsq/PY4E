@@ -1,7 +1,11 @@
-# Exercício Python 009: Tabuada
-'''Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada. '''
+# Exercise 009: Multiplication Table
+'''Make a program that reads a number and display its multiplication table. '''
 
-num = int(input('Digite um número: '))
+
+# This is an easy one
+num = int(input('Enter a number: '))
+
+# Later we're gonna learn how to do this with less lines of code u.u
 print('=' * 13)
 print(f'{num} * 1 = {num * 1}')
 print(f'{num} * 2 = {num * 2}')
