@@ -128,17 +128,17 @@ Python divides the operators in the following groups:
 
 Okay, there are a lot of operators, I'll recommend you two things, first, go play around with it, remember, you can't break Python. second, let's do some exercises.
 
-5. Exercise 005
-6. Exercise 006
-7. Exercise 007
-8. Exercise 008
-9. Exercise 009
-10. Exercise 010
-11. Exercise 011
-12. Exercise 012
-13. Exercise 013
-14. Exercise 014
-15. Exercise 015
+5. Exercise 005 - Write a program that reads an integer and displays its successor and predecessor on the screen [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
+6. Exercise 006 - [Solution]()
+7. Exercise 007 - [Solution]()
+8. Exercise 008 - [Solution]()
+9. Exercise 009 - [Solution]()
+10. Exercise 010 - [Solution]()
+11. Exercise 011 - [Solution]()
+12. Exercise 012 - [Solution]()
+13. Exercise 013 - [Solution]()
+14. Exercise 014 - [Solution]()
+15. Exercise 015 - [Solution]()
 
 ---
 
