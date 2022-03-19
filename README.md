@@ -78,7 +78,7 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 ### Level 03 - [Python can be your calculator](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-assignment-operators-assignment-operators-are-used-to-assign-values-to-variables):
 
 - Exercise 05 - [Before and After](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
-- Exercise 06 -
+- Exercise 06 - [Double, Triple, Square Root](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex006.py)
 - Exercise 07 -
 - Exercise 08 - 
 - Exercise 09 - 
