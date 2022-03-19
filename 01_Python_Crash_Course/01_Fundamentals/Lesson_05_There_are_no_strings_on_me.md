@@ -1,4 +1,3 @@
-strings
 <div align="center">
   
 # Strings ✂️✂️✂️
@@ -6,6 +5,27 @@ strings
 </div>
 
 ## Lesson 05 Content:
+
+1. [Escape Characters](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#escape-characters)
+2. [Raw strings](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#raw-strings)
+3. [Multiline Strings with Triple Quotes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#multiline-strings-with-triple-quotes)
+4. [Indexing and Slicing Strings](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#indexing-and-slicing-strings)
+5. [Slicing](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#slicing-startstopstep)
+6. [The in and not in Operators with Strings](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#the-in-and-not-in-operators-with-strings)
+7. [The in and not in Operators with list](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#the-in-and-not-in-operators-with-list)
+8. [The upper(), lower(), isupper(), and islower() String Methods](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#the-upper-lower-isupper-and-islower-string-methods)
+9. [The startswith() and endswith() String Methods](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#the-startswith-and-endswith-string-methods)
+10. [The join() and split() String Methods](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#the-join-and-split-string-methods)
+11. [Justifying Text with rjust(), ljust(), and center()](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#justifying-text-with-rjust-ljust-and-center)
+12. [Removing Whitespace with strip(), rstrip(), and lstrip()](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#removing-whitespace-with-strip-rstrip-and-lstrip)
+13. [Copying and Pasting Strings with the pyperclip Module](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#copying-and-pasting-strings-with-the-pyperclip-module-need-pip-install)
+14. [String Formatting](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#string-formatting)
+15. [Lazy string formatting](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#lazy-string-formatting)
+16. [Formatted String Literals or f-strings](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#formatted-string-literals-or-f-strings-python-36)
+17. [Template Strings](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#template-strings)
+18. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#lesson-wrap-up)
+19. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#conclusion)
+20. [More content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md#more-content)
 
 ##
 
