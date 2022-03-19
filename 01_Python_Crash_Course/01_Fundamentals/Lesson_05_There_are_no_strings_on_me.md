@@ -419,6 +419,7 @@ print(reversed_name)
 ### Conclusion:
 
 Cool, in this class we talk a lot, a lot about strings, in the next lesson things will get more interesting, because we'll start talking about conditional structures with the if statement. See you space cowboy!
+
 ---
 
 ## More content
