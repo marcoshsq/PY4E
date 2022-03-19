@@ -6,17 +6,17 @@
 
 ## Lesson 03 Content:
 
-1. [Python Operators]()
-2. [Arithmetic operators]()
-3. [Python Assignment Operators]()
-4. [Python Comparison Operators]()
-5. [Python Logical Operators]()
-6. [Python Identity Operators]()
-7. [Python Membership Operators]()
-8. [Python Bitwise Operators]()
-9. [Lesson Wrap Up]()
-10. [Conclusion]()
-11. [More content]()
+1. [Python Operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-operators)
+2. [Arithmetic operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#arithmetic-operators-examples-from-highest-to-lowest-precedence)
+3. [Python Assignment Operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-assignment-operators-assignment-operators-are-used-to-assign-values-to-variables)
+4. [Python Comparison Operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-comparison-operators-comparison-operators-are-used-to-compare-two-values)
+5. [Python Logical Operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-logical-operators-logical-operators-are-used-to-combine-conditional-statements)
+6. [Python Identity Operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-identity-operators-identity-operators-are-used-to-compare-the-objects-not-if-they-are-equal-but-if-they-are-actually-the-same-object-with-the-same-memory-location)
+7. [Python Membership Operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-membership-operators-membership-operators-are-used-to-test-if-a-sequence-is-presented-in-an-object)
+8. [Python Bitwise Operators](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-bitwise-operators-bitwise-operators-are-used-to-compare-binary-numbers)
+9. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#lesson-wrap-up)
+10. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#conclusion)
+11. [More content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#more-content)
 
 ---
 
