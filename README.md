@@ -78,14 +78,14 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 20 - [Sorting an order in the list](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex020.py)
 - Exercise 21 - [Playing a song](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex021.py)
 
-### Level 05 - [There are no Strings on me]()
+### Level 05 - [There are no Strings on me](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
 
-- Exercise 22 - []()
-- Exercise 23 - []()
-- Exercise 24 - []()
-- Exercise 25 - []()
-- Exercise 26 - []()
-- Exercise 27 - []()
+- Exercise 22 - [Text Analyzer](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex022.py)
+- Exercise 23 - [Separating digits of a number](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex023.py)
+- Exercise 24 - [Checking the first letters of a text](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex024.py)
+- Exercise 25 - [Finding a string inside another](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex025.py)
+- Exercise 26 - [First and last occurrence of a string](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex026.py)
+- Exercise 27 - [A person's first and last name](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex027.py)
 
 ### Level 06 - [What if?]()
 
