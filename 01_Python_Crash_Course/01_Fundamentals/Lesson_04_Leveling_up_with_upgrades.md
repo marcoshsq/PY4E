@@ -37,7 +37,6 @@ The base car is the python you are using now, which you have installed or are in
 
       print(randint(1, 1000))
 
-
 - or:
 
       import random   
@@ -56,6 +55,42 @@ That's the packages, or modules (there's a technical difference between them, bu
 The first package, and one of the most important is [pip](https://pypi.org/project/pip/). Because pip is the package who install other packages. If you use the command pip list in your terminal, you can see all the packages one have installed on your python. 
 
 There are thousands of packages in python, each one solves a different problem, why don't you [play around a bit](https://pypi.org/).
+
+For this class, you will need the Math module and Random. The math module you probably have installed, but you need to import to your code, for that use the command import:
+
+    import math 
+
+    sen = math.sin(1)
+    cos = math.cos(1)
+    tan = math.tan(1)
+
+    print(sen, cos, tan)
+    # Output: 0.8414709848078965 0.5403023058681398 1.5574077246549023
+    
+You can also import only what you want from a module using the ''from'' command:
+
+    from math import sin, cos, tan 
+
+    sin = sin(1)
+    cos = cos(1)
+    tan = tan(1)
+
+    print(sin, cos, tan)
+    # Output: 0.8414709848078965 0.5403023058681398 1.5574077246549023
+    
+You can also give the module a nickname, to make it easier later, but be aware that there are naming conventions, to make things more organized:
+
+    from math import sin as bolaGato 
+    from math import cos as queijoBranco
+    from math import tan as sebastião
+
+    sin = bolaGato(1)
+    cos = queijoBranco(1)
+    tan = sebastião(1)
+
+    print(sin, cos, tan)
+    
+Math Module is a package of mathematical functions, that is, instead of doing the calculations in your head, you use the module. The ramdom helps make things random :), but I'll let you play around.
 
 ##
 
