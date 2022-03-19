@@ -32,6 +32,22 @@ And about their names. It's important that you give them a nice name as well ok.
 - Variable names are case-sensitive (age, Age and AGE are three different variables)
 - And don't use python [reserved words](https://www.programiz.com/python-programming/keyword-list), he's very sensitive about them, ok.
 
+Here's a list of all keywords in Python Programming:
+
+| False | await | else | import | pass |
+| :--: | :--: | :--: | :--: | :--: |
+None |	break |	except |	in	| raise
+True |	class |	finally |	is |	return
+and |	continue |	for |	lambda |	try
+as |	def |	from |	nonlocal |	while
+assert |	del	| global |	not |	with
+async |	elif |	if |	or |	yield
+
+The above keywords may get altered in different versions of Python. Some extra might get added or some might be removed. You can always get the list of keywords in your current version by typing the following in the prompt:
+
+    >>> import keyword
+    >>> print(keyword.kwlist) 
+
 ##
 
 ### String (str):
