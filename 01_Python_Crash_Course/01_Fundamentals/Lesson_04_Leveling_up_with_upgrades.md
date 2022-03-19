@@ -4,7 +4,7 @@
 
 </div>
 
-## Lesson 02 Content:
+## Lesson 04 Content:
 
 1. [Talking about cars](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md#talking-about-cars)
 2. [Packages, packages and more packages](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md#packages-packages-and-more-packages)
