@@ -20,35 +20,40 @@ The base car is the python you are using now, which you have installed or are in
 
 - A program to select a random number between say 1 and 1,000:
 
-      def randint(a, b):
-          "Return random integer in range [a, b], including both end points."
-          return a + randbelow(b - a + 1)
+```python
+def randint(a, b):
+    "Return random integer in range [a, b], including both end points."
+    return a + randbelow(b - a + 1)
 
-      def randbelow(n):
-          "Return a random int in the range [0,n).  Raises ValueError if n<=0."
-          if n <= 0:
-             raise ValueError
-          k = n.bit_length()
-          numbytes = (k + 7) // 8
-          while True:
-              r = int.from_bytes(random_bytes(numbytes), 'big')
-              r >>= numbytes * 8 - k
-              if r < n:
-                  return r
+def randbelow(n):
+    "Return a random int in the range [0,n).  Raises ValueError if n<=0."
+    if n <= 0:
+       raise ValueError
+    k = n.bit_length()
+    numbytes = (k + 7) // 8
+    while True:
+        r = int.from_bytes(random_bytes(numbytes), 'big')
+        r >>= numbytes * 8 - k
+        if r < n:
+            return r
 
-      def random_bytes(n):
-          "Return n random bytes"
-          with open('/dev/urandom', 'rb') as file:
-              return file.read(n)
+def random_bytes(n):
+    "Return n random bytes"
+    with open('/dev/urandom', 'rb') as file:
+        return file.read(n)
 
-      print(randint(1, 1000))
+print(randint(1, 1000))
+```
+
 
 - or:
 
-      import random   
+```python
+import random   
 
-      a = random.randint(1, 1000)
-      print(a)
+a = random.randint(1, 1000)
+print(a)
+ ```
 
 What happend here. Basically in the first code you wanted a random number between 0 and 1000, and for that you had to write all this code, in the second you imported the random package and it did all the work much more efficiently. u.u
 
@@ -64,6 +69,7 @@ There are thousands of packages in python, each one solves a different problem, 
 
 For this class, you will need the Math module and Random. The math module you probably have installed, but you need to import to your code, for that use the command import:
 
+```python
     import math 
 
     sen = math.sin(1)
@@ -72,10 +78,12 @@ For this class, you will need the Math module and Random. The math module you pr
 
     print(sen, cos, tan)
     # Output: 0.8414709848078965 0.5403023058681398 1.5574077246549023
+ ```   
     
 You can also import only what you want from a module using the ''from'' command:
 
-    from math import sin, cos, tan 
+```python
+from math import sin, cos, tan 
 
     sin = sin(1)
     cos = cos(1)
@@ -83,19 +91,22 @@ You can also import only what you want from a module using the ''from'' command:
 
     print(sin, cos, tan)
     # Output: 0.8414709848078965 0.5403023058681398 1.5574077246549023
+```
     
 You can also give the module a nickname, to make it easier later, but be aware that there are naming conventions, to make things more organized:
 
-    from math import sin as bolaGato 
-    from math import cos as queijoBranco
-    from math import tan as sebastião
+ ```python  
+from math import sin as bolaGato 
+from math import cos as queijoBranco
+from math import tan as sebastiao
 
-    sin = bolaGato(1)
-    cos = queijoBranco(1)
-    tan = sebastião(1)
-
-    print(sin, cos, tan)
+sin = bolaGato(1)
+cos = queijoBranco(1)
+tan = sebastiao(1)
+print(sin, cos, tan)
+```
     
+        
 Math Module is a package of mathematical functions, that is, instead of doing the calculations in your head, you use the module. The ramdom helps make things random :), but I'll let you play around.
 
 16. Exercise 016 - []()
@@ -111,6 +122,7 @@ Math Module is a package of mathematical functions, that is, instead of doing th
 ### Lesson Wrap Up:
 
 Packages are pieces of code that you install in your python for you to solve specific problems without having to create the code from scratch.
+
 ---
 
 ### Conclusion:
