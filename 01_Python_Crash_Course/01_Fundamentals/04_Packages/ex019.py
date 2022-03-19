@@ -1,15 +1,12 @@
-# Exercício Python 019 - Sorteando um item na lista
-''' Um professor quer sortear um dos seus quatro alunos para apagar o quadro. 
-Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.'''
-
 import random
+# Exercise 019 - Sorting an item in the list
+''' A teacher wants to draw one of his four students to erase the board. Make a program that helps him, raffling one of the students.'''
 
+name_01 = str(input('Enter the first student\'s name: '))
+name_02 = str(input('Enter the second student\'s name: '))
+name_03 = str(input('Enter the third student\'s name: '))
+name_04 = str(input('Enter the fourth student\'s name: '))
 
-aluno_01 = str(input('Insira o nome do primeiro aluno: '))
-aluno_02 = str(input('Insira o nome do primeiro aluno: '))
-aluno_03 = str(input('Insira o nome do primeiro aluno: '))
-aluno_04 = str(input('Insira o nome do primeiro aluno: '))
-
-alunos = [aluno_01, aluno_02, aluno_03, aluno_04]
-escolha = random.choices(alunos)
-print(f'O aluno escolhido/a foi {escolha}')
+students = [name_01, name_02, name_03, name_04] # This is a list, we're gonna talk about them later
+choice = random.choices(students)
+print(f'The chosen student was {choice}')
