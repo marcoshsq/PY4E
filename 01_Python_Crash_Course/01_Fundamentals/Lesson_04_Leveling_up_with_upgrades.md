@@ -6,6 +6,12 @@
 
 ## Lesson 02 Content:
 
+1. [Talking about cars](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md#talking-about-cars)
+2. [Packages, packages and more packages](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md#packages-packages-and-more-packages)
+3. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md#lesson-wrap-up)
+4. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md#conclusion)
+5. [More Content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md#more-content)
+
 ##
 
 ### Talking about cars:
@@ -113,4 +119,9 @@ In this lesson we talked about packages in python, and we solved some exercises 
 
 ---
 
-## More content
+## More Content:
+
+- [Python Packages](https://pypi.org/)
+- [Math Docs](https://docs.python.org/3/library/math.html)
+- [random Docs](https://docs.python.org/3/library/random.html)
+- [Modules](https://docs.python.org/3/tutorial/modules.html)
