@@ -1,11 +1,11 @@
 strings
 <div align="center">
   
-# Titulo Falar de packages
+# Strings 
 
 </div>
 
-## Lesson 02 Content:
+## Lesson 05 Content:
 
 ##
 
