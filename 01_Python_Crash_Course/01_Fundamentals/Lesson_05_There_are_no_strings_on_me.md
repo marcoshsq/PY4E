@@ -371,17 +371,54 @@ A simpler and less powerful mechanism, but it is recommended when handling forma
 ```
 ##
 
+Exercises uhuuuu:
 
+22. exercise 022 -  []()
+23. exercise 023 -  []()
+24. exercise 024 -  []()
+25. exercise 025 -  []()
+26. exercise 026 -  []()
+27. exercise 027 -  []()
 
 
 ---
 
 ### Lesson Wrap Up:
 
+```python
+name = 'Marcos'
+
+print(len(name))
+print(name.find("o"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+print(name.isalpha())
+print(name.count("o"))
+print(name.replace("o","a"))
+print(name*3)
+
+# slicing = create a substring by extracting elements from another string
+#           indexing[] or slice()
+#           [start:stop:step]
+
+name = "Marcos Henrique"
+
+first_name = name[:3]       # [0:3]
+last_name = name[4:]        # [4:end]
+funky_name = name[::2]      # [0:end:2]
+reversed_name = name[::-1]  # [0:end:-1]
+
+print(reversed_name)
+```
+
+
 ---
 
 ### Conclusion:
 
+Cool, in this class we talk a lot, a lot about strings, in the next lesson things will get more interesting, because we'll start talking about conditional structures with the if statement. See you space cowboy!
 ---
 
 ## More content
