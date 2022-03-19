@@ -442,7 +442,7 @@ Cool, in this class we talk a lot, a lot about strings, in the next lesson thing
 
 ---
 
-## More content
+### More content:
 
 - [Strings](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)
 - [Python Strings Cheat Sheet](https://www.shortcutfoo.com/app/dojos/python-strings/cheatsheet)
