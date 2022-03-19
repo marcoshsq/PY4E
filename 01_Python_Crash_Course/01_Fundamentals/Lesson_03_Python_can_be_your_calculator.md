@@ -128,8 +128,8 @@ Python divides the operators in the following groups:
 
 Okay, there are a lot of operators, I'll recommend you two things, first, go play around with it, remember, you can't break Python. second, let's do some exercises.
 
-5. Exercise 005 - Write a program that reads an integer and displays its successor and predecessor on the screen [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
-6. Exercise 006 - [Solution]()
+5. Exercise 005 - Write a program that reads an integer and displays its successor and predecessor on the screen. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
+6. Exercise 006 - Create an algorithm that reads a number and displays its double, triple and square root. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex006.py)
 7. Exercise 007 - [Solution]()
 8. Exercise 008 - [Solution]()
 9. Exercise 009 - [Solution]()
