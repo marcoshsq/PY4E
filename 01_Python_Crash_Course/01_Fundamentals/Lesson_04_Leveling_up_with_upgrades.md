@@ -92,15 +92,12 @@ You can also give the module a nickname, to make it easier later, but be aware t
     
 Math Module is a package of mathematical functions, that is, instead of doing the calculations in your head, you use the module. The ramdom helps make things random :), but I'll let you play around.
 
-##
-
-### topic 03
-### content 03
-
-##
-
-### topic 04
-### content 04
+16. Exercise 016 - []()
+17. Exercise 017 - []()
+18. Exercise 018 - []()
+19. Exercise 019 - []()
+20. Exercise 020 - []()
+21. Exercise 021 - []()
 
 
 ---
