@@ -1,11 +1,11 @@
-# Exercício Python 011: Pintando parede
-'''Faça um programa que leia a largura e a altura de uma parede em metros, 
-calcule a sua área e a quantidade de tinta necessária para pintá-la, 
-sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.'''
+# Exercise 011: Painting a wall
+'''Write a program that reads the width and height of a wall in meters,
+calculate its area and the amount of paint needed to paint it,
+knowing that each liter of paint paints an area of 2 square meters.'''
 
-height = float(input('Qual a altura da parede? '))
-width = float(input('Qual a largura da parede? '))
+height = float(input('What is the height of the wall? '))
+width = float(input('What is the width of the wall? '))
 area = height * width
 paint = area / 2
-print(f'Sua parede possui as seguintes dimensões {height}m x {width}m e possui uma área de {area}m²')
-print(f'Para pintar essa parede, será necessário {paint}L de tinta')
+print(f'Your wall has the following dimensions: {height}m x {width}m and has an area of: {area}m²')
+print(f'To paint this wall, you will need {paint}L of paint')
