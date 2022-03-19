@@ -104,6 +104,7 @@ sin = bolaGato(1)
 cos = queijoBranco(1)
 tan = sebastiao(1)
 print(sin, cos, tan)
+# Output: 0.8414709848078965 0.5403023058681398 1.5574077246549023
 ```
     
         
