@@ -20,9 +20,9 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
     - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
     - 02.[First Steps](https://github.com/marcoshsq/Python_Crash_Course#level-02---knowing-your-variable)
     - 03.[Calculation](https://github.com/marcoshsq/Python_Crash_Course#level-03---python-can-be-your-calculator)
-    - 04.[Packages]()
-    - 05.[Strings]()
-    - 06.[Conditionals (If)]()
+    - 04.[Packages](https://github.com/marcoshsq/Python_Crash_Course#level-04---leveling-up-with-upgrades)
+    - 05.[Strings](https://github.com/marcoshsq/Python_Crash_Course#level-05---there-are-no-strings-on-me)
+    - 06.[Conditionals (If)](https://github.com/marcoshsq/Python_Crash_Course#level-06---what-if)
 2. [Control Structures]()
     - 07.[Conditionals (If, elif, else)]()
     - 08.[Loops (for)]()
@@ -75,9 +75,9 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex003.py)
 - Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
 
-### Level 03 - [Python can be your calculator]():
+### Level 03 - [Python can be your calculator](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md#python-assignment-operators-assignment-operators-are-used-to-assign-values-to-variables):
 
-- Exercise 05 -
+- Exercise 05 - [Before and After](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
 - Exercise 06 -
 - Exercise 07 -
 - Exercise 08 - 
