@@ -59,44 +59,44 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 
 - Exercise 05 - [Before and After](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
 - Exercise 06 - [Double, Triple, Square Root](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex006.py)
-- Exercise 07 -
-- Exercise 08 - 
-- Exercise 09 - 
-- Exercise 10 -
-- Exercise 11 - 
-- Exercise 12 -
-- Exercise 13 -
-- Exercise 14 -
-- Exercise 15 -
+- Exercise 07 - [Average](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex007.py)
+- Exercise 08 - [Measurement converter](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex008.py)
+- Exercise 09 - [Multiplication Table](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex009.py)
+- Exercise 10 - [Currency Converter](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex010.py)
+- Exercise 11 - [Painting a wall](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex011.py)
+- Exercise 12 - [Calculating discounts](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex012.py)
+- Exercise 13 - [Salary readjustment](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex013.py)
+- Exercise 14 - [Temperature converter](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex014.py)
+- Exercise 15 - [Car rent](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex015.py)
 
 ### Level 04 - [Leveling up with upgrades]()
 
-- Exercise 16 -
-- Exercise 17 -
-- Exercise 18 -
-- Exercise 19 -
-- Exercise 20 -
-- Exercise 21 -
+- Exercise 16 - []()
+- Exercise 17 - []() 
+- Exercise 18 - []()
+- Exercise 19 - []()
+- Exercise 20 - []()
+- Exercise 21 - []()
 
 ### Level 05 - [There are no Strings on me]()
 
-- Exercise 22 -
-- Exercise 23 -
-- Exercise 24 -
-- Exercise 25 -
-- Exercise 26 -
-- Exercise 27 -
+- Exercise 22 - []()
+- Exercise 23 - []()
+- Exercise 24 - []()
+- Exercise 25 - []()
+- Exercise 26 - []()
+- Exercise 27 - []()
 
 ### Level 06 - [What if?]()
 
-- Exercise 28 -
-- Exercise 29 -
-- Exercise 30 -
-- Exercise 31 -
-- Exercise 32 -
-- Exercise 33 -
-- Exercise 34 -
-- Exercise 35 -
+- Exercise 28 - []()
+- Exercise 29 - []()
+- Exercise 30 - []()
+- Exercise 31 - []()
+- Exercise 32 - []()
+- Exercise 33 - []()
+- Exercise 34 - []()
+- Exercise 35 - []()
 
 ## Part 02 - [Control Structures]()
 
@@ -104,138 +104,138 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Level 07 - [What ifs?]()
 
-- Exercise 36 -
-- Exercise 37 -
-- Exercise 38 -
-- Exercise 39 -
-- Exercise 40 -
-- Exercise 41 -
-- Exercise 42 -
-- Exercise 43 -
-- Exercise 44 -
-- Exercise 45 -
+- Exercise 36 - []()
+- Exercise 37 - []()
+- Exercise 38 - []()
+- Exercise 39 - []()
+- Exercise 40 - []()
+- Exercise 41 - []()
+- Exercise 42 - []()
+- Exercise 43 - []()
+- Exercise 44 - []()
+- Exercise 45 - []()
 
 ### Level 08 - [Making Python sweat with for loops]()
 
-- Exercise 46 -
-- Exercise 47 -
-- Exercise 48 -
-- Exercise 49 -
-- Exercise 50 -
-- Exercise 51 -
-- Exercise 52 -
-- Exercise 53 -
-- Exercise 54 -
-- Exercise 55 -
-- Exercise 56 -
+- Exercise 46 - []()
+- Exercise 47 - []()
+- Exercise 48 - []()
+- Exercise 49 - []()
+- Exercise 50 - []()
+- Exercise 51 - []()
+- Exercise 52 - []()
+- Exercise 53 - []()
+- Exercise 54 - []()
+- Exercise 55 - []()
+- Exercise 56 - []()
 
 ### Level 09 - [Making Python sweat with while loops]()
 
-- Exercise 57 -
-- Exercise 58 -
-- Exercise 59 -
-- Exercise 60 -
-- Exercise 61 -
-- Exercise 62 -
-- Exercise 63 -
-- Exercise 64 -
-- Exercise 65 -
-- Exercise 66 -
-- Exercise 67 -
-- Exercise 68 -
-- Exercise 69 -
-- Exercise 70 -
-- Exercise 71 -
+- Exercise 57 - []()
+- Exercise 58 - []()
+- Exercise 59 - []()
+- Exercise 60 - []()
+- Exercise 61 - []()
+- Exercise 62 - []()
+- Exercise 63 - []()
+- Exercise 64 - []()
+- Exercise 65 - []()
+- Exercise 66 - []()
+- Exercise 67 - []()
+- Exercise 68 - []()
+- Exercise 69 - []()
+- Exercise 70 - []()
+- Exercise 71 - []()
 
 ## Part 03 - [Compound Structures]()
 
 ### Level 10 - [Tuples]()
 
-- Exercise 72 - 
-- Exercise 73 - 
-- Exercise 74 - 
-- Exercise 75 - 
-- Exercise 76 - 
-- Exercise 77 - 
+- Exercise 72 - []()
+- Exercise 73 - []()
+- Exercise 74 - []()
+- Exercise 75 - []()
+- Exercise 76 - []() 
+- Exercise 77 - []()
 
 ### Level 11 - [Lists]()
 
-- Exercise 78 - 
-- Exercise 79 - 
-- Exercise 80 - 
-- Exercise 81 - 
-- Exercise 82 - 
-- Exercise 83 - 
-- Exercise 84 - 
-- Exercise 85 - 
-- Exercise 86 - 
-- Exercise 87 - 
-- Exercise 88 - 
-- Exercise 89 - 
+- Exercise 78 - []()
+- Exercise 79 - []()
+- Exercise 80 - []()
+- Exercise 81 - []()
+- Exercise 82 - []()
+- Exercise 83 - []()
+- Exercise 84 - []()
+- Exercise 85 - []()
+- Exercise 86 - []()
+- Exercise 87 - []()
+- Exercise 88 - []()
+- Exercise 89 - []()
 
 ### Level 12 - [Dics]()
 
-- Exercise 90 -
-- Exercise 91 -
-- Exercise 92 -
-- Exercise 93 -
-- Exercise 94 - 
-- Exercise 95 -
+- Exercise 90 - []()
+- Exercise 91 - []()
+- Exercise 92 - []()
+- Exercise 93 - []()
+- Exercise 94 - []()
+- Exercise 95 - []()
 
 ### Level 13 - [Functions]()
 
-- Exercise 96 -
-- Exercise 97 -
-- Exercise 98 -
-- Exercise 99 -
-- Exercise 100 -
-- Exercise 101 -
-- Exercise 102 -
-- Exercise 103 -
-- Exercise 104 -
-- Exercise 105 -
-- Exercise 106 -
+- Exercise 96 - []()
+- Exercise 97 - []()
+- Exercise 98 - []()
+- Exercise 99 - []()
+- Exercise 100 - []()
+- Exercise 101 - []()
+- Exercise 102 - []()
+- Exercise 103 - []()
+- Exercise 104 - []()
+- Exercise 105 - []()
+- Exercise 106 - []()
 
 ### Level 14 - [Mods]()
 
-- Exercise 107 -
-- Exercise 108 -
-- Exercise 109 -
-- Exercise 110 -
-- Exercise 111 -
-- Exercise 112 -
-- Exercise 113 -
-- Exercise 114 -
+- Exercise 107 - []()
+- Exercise 108 - []()
+- Exercise 109 - []()
+- Exercise 110 - []()
+- Exercise 111 - []()
+- Exercise 112 - []()
+- Exercise 113 - []()
+- Exercise 114 - []()
 
 ### Level 15 - [Files]()
 
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
+- Exercise 01 - []()
+- Exercise 02 - []()
+- Exercise 03 - []()
+- Exercise 04 - []()
+- Exercise 05 - []()
+- Exercise 06 - []()
+- Exercise 07 - []()
+- Exercise 08 - []()
+- Exercise 09 - []()
+- Exercise 10 - []()
+- Exercise 11 - []()
+- Exercise 12 - []()
 
 ### Level 16 - [Classes]()
 
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
+- Exercise 01 - []()
+- Exercise 02 - []()
+- Exercise 03 - []()
+- Exercise 04 - []()
+- Exercise 05 - []()
+- Exercise 06 - []()
+- Exercise 07 - []()
+- Exercise 08 - []()
+- Exercise 09 - []()
+- Exercise 10 - []()
+- Exercise 11 - []()
+- Exercise 12 - []()
 
 ### Final Level - [Projects]()
 
