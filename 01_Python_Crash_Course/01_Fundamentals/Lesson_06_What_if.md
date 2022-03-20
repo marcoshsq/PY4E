@@ -146,7 +146,7 @@ In this lesson we will talk about if, elif and else, in the next one we will tal
 
 ---
 
-## More content
+### More content
 
 - [Creator of Python Programming Language, Guido van Rossum | Oxford Union](https://www.youtube.com/watch?v=7kn7NtlV6g0)
 - [If... Else](https://www.w3schools.com/python/python_conditions.asp)
