@@ -90,7 +90,24 @@ On the fourth iteration, the condition in while becomes False. Hence, the else p
 
 ##
 
+Exercises u.u:
 
+57. Exercise 057 -  [Solution]()
+58. Exercise 058 -  [Solution]()
+59. Exercise 059 -  [Solution]()
+60. Exercise 060 -  [Solution]()
+61. Exercise 061 -  [Solution]()
+62. Exercise 062 -  [Solution]()
+63. Exercise 063 -  [Solution]()
+64. Exercise 064 -  [Solution]()
+65. Exercise 065 -  [Solution]()
+66. Exercise 066 -  [Solution]()
+67. Exercise 067 -  [Solution]()
+68. Exercise 068 -  [Solution]()
+69. Exercise 069 -  [Solution]()
+70. Exercise 070 -  [Solution]()
+71. Exercise 071 -  [Solution]()
+71.2. Exercise 071.2 -  [Solution]() 
 
 
 
