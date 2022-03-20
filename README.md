@@ -107,16 +107,16 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md)
 
-- Exercise 36 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex036.py)
-- Exercise 37 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex037.py)
-- Exercise 38 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex038.py)
-- Exercise 39 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex039.py)
-- Exercise 40 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex040.py)
-- Exercise 41 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex041.py)
-- Exercise 42 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex042.py)
-- Exercise 43 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex043.py)
-- Exercise 44 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex044.py)
-- Exercise 45 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex045.py)
+- Exercise 36 - [Approving Loan](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex036.py)
+- Exercise 37 - [Numerical Base Converter](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex037.py)
+- Exercise 38 - [Comparing numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex038.py)
+- Exercise 39 - [Military Enlistment](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex039.py)
+- Exercise 40 - [That Classic Average](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex040.py)
+- Exercise 41 - [Classifying Athletes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex041.py)
+- Exercise 42 - [Analyzing Triangles v2.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex042.py)
+- Exercise 43 - [Body Mass Index](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex043.py)
+- Exercise 44 - [Payment Manager](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex044.py)
+- Exercise 45 - [Rock Paper and Scissors](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex045.py)
 
 ### Level 08 - [Making Python sweat with for loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md)
 
