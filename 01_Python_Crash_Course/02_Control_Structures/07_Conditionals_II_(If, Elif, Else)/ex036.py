@@ -1,21 +1,27 @@
-# Exercício Python 036 - Aprovando Empréstimo
-'''Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. 
-Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. 
-A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.'''
+# Exercise 036 - Approving Loan
+'''Write a program to approve the bank loan for the purchase of a house. Ask the value of the home, the buyer's salary and how many years he will pay.
+The monthly installment cannot exceed 30% of the salary or else the loan will be denied.'''
 
-preço_casa = float(input('Qual o preço da casa: '))
-salario = float(input('Qual o seu salário: '))
-anos_emprestimo = int(input('Em quantos anos será feito o empréstimo: '))
+# First we ask some questions.
+house_price = float(input('what is the price of the house: '))
+salary = float(input('what is your salary: '))
+years_loan = int(input('In how many years will the loan be made?: '))
 
-valor_prestaçao = preço_casa / (anos_emprestimo * 12) # Converter os anos para mesês
+# Calculate loan amount
+installment_value = house_price / (years_loan * 12) # Convert years to months
 
-if valor_prestaçao < (salario * 0.30) :
-    print('O empréstimo foi aprovado! ')
-    print(f'O valor da prestação é de R${valor_prestaçao:.2f}')
-    print(f'Você deverá pagar por {anos_emprestimo * 12} meses')
-elif valor_prestaçao >= (salario * 0.30) :
-    print('O empréstimo foi negado! ')
-    print(f'O valor do empréstimo foi de {valor_prestaçao:.2f} e o seu sálario é R${salario}')
-    print('Renda insuficiente!')
+# If the criteria are met and the loan is approved
+if installment_value < (salary * 0.30) :
+    print('The loan has been approved! ')
+    print(f'The value of the installment is R${installment_value:.2f}')
+    print(f'You must pay for {years_loan * 12} months')
+    
+# If the criteria isn't met and the loan isn't approved  
+elif installment_value >= (salary * 0.30) :
+    print('The loan was denied! ')
+    print(f'The loan amount was {installment_value:.2f} and your salary is R${salary}')
+    print('insufficient income!')
+
+# In case the inputs are wrong    
 else :
-    print('Valores incoretos')
+    print('incorrect values')
