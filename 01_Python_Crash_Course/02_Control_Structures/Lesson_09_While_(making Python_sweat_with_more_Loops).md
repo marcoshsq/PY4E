@@ -107,9 +107,6 @@ Exercises u.u:
 69. Exercise 069 -  [Solution]()
 70. Exercise 070 -  [Solution]()
 71. Exercise 071 -  [Solution]()
-71.2. Exercise 071.2 -  [Solution]() 
-
-
 
 ---
 
