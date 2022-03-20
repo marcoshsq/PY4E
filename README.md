@@ -40,7 +40,7 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
 
 4. [Extra Exercises]()  
  
-5. [Useful links]()
+5. [Useful links](https://github.com/marcoshsq/Python_Crash_Course/blob/main/README.md#useful-links)
 
 ---
 
@@ -342,8 +342,6 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 ---
 
 ### Useful links:
-
-To give credit to the right people, and also, in case you want more content and information. 
 
 - [Python Brasil](https://wiki.python.org.br/ListaDeExercicios) - The second extra list was acquired with the Python Brazil community;
 - [Think Python](https://greenteapress.com/wp/think-python/) - Think Python: How to Think Like a Computer Scientist by [Allen B. Downey](https://github.com/AllenDowney)
