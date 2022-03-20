@@ -1,12 +1,15 @@
-# Exercício Python 032 - Ano Bissexto
-'''Faça um programa que leia um ano qualquer e mostre se ele é bissexto.'''
-
 from datetime import date
 
+# Exercise 032 - Leap Year
+'''Make a program that reads any year and shows if it is a leap year.'''
+
 year = int(input('Insert the year to be analysed, or zero for current year: '))
+
 if year == 0 :
     year = date.today().year
+    
 if year % 4 == 0 and year % 100 != 0 or year % 400 == 0 :
-    print(f'O ano {year} é bissexto')
+    print(f'The year {year} is a Leap Year')
+    
 else :
-    print(f'O ano {year} não é bissexto')
+    print(f'The year {year} isn\'t a Leap Year')
