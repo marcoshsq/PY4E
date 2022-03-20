@@ -107,6 +107,8 @@ if x > 10:
 
 ````
 
+## 
+
 Tha's it, u.u. It was harder than Prey's last boss during the agdq. But now... it's time for the challenges u.u
 
 36. Exercise 036 - Write a program to approve the bank loan for the purchase of a house. Ask the value of the home, the buyer's salary and how many years he will pay.
