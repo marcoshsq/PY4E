@@ -28,17 +28,17 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
     - 08.[Loops (for)](https://github.com/marcoshsq/Python_Crash_Course#level-08---making-python-sweat-with-for-loops)
     - 09.[Loops (while)](https://github.com/marcoshsq/Python_Crash_Course#level-09---making-python-sweat-with-while-loops)
 
-3. [Compound Structures]()
-    - 10.[Tuples]()
-    - 11.[Lists]()
-    - 12.[Dictionaries]()
-    - 13.[Functions]()
-    - 14.[Modularization]()
-    - 15.[Files]()
-    - 16.[Classes]()
-    - 17.[Projects]()
+3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
+    - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10---tuples)
+    - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11---lists)
+    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12---dics)
+    - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13---functions)
+    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---mods)
+    - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---files)
+    - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---classes)
+    - 17.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 
-4. [Extra Exercises]()  
+4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
  
 5. [Useful links](https://github.com/marcoshsq/Python_Crash_Course/blob/main/README.md#useful-links)
 
