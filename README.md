@@ -1,6 +1,7 @@
 # Welcome to Python (ﾉ◕ヮ◕)ﾉ ヽ(o＾▽＾o)/ (◕‿◕✿)		.
 # Work in progress
-If you found this "Crash Course", first of all thank you very much, I am very happy that you decided to use some of the materials I present here, knowledge only exists when it is shared and if this repository helps someone I'll feel super fulfilled.
+
+If you found this "Crash Course", first of all welcome, I am very happy that you decided to use some of the materials I present here, knowledge only exists when it is shared and if this repository helps someone I'll feel super fulfilled.
 
 The idea of this repository is to offer some kind of python course in the most ELI5 way, in it you will find notes regarding the concepts covered called "Lessons", along with a list of solved exercises for practice (I recommend you to do them before seeing the solutions).
 
@@ -176,7 +177,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 88 - []()
 - Exercise 89 - []()
 
-### Level 12 - [Dics]()
+### Level 12 - [Dictionaries]()
 
 - Exercise 90 - []()
 - Exercise 91 - []()
@@ -199,7 +200,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 105 - []()
 - Exercise 106 - []()
 
-### Level 14 - [Mods]()
+### Level 14 - [Modularization]()
 
 - Exercise 107 - []()
 - Exercise 108 - []()
