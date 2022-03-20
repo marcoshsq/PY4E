@@ -103,14 +103,14 @@ That's it, simple isn't? Some important notes:
 
 Pretty simple isn't it? I'm talking, python is super easy u.u. Now let's do some exercises shall we?
 
-28. Exercise 028 -  []()
-29. Exercise 029 -  []()
-30. Exercise 030 -  []()
-31. Exercise 031 -  []()
-32. Exercise 032 -  []()
-33. Exercise 033 -  []()
-34. Exercise 034 -  []()
-35. Exercise 035 -  []()
+28. Exercise 028 - Write a program that makes the computer "think" of an integer between 0 and 5 and ask the user to try to find out which number was chosen by the computer. The program should write on the screen if the user won or lost. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex028.py)
+29. Exercise 029 - Write a program that reads the speed of a car. If he has 80 km, show a message saying he has been fined. The fine will cost R$7.00 for each km over the limit. [Solution](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex029.py)
+30. Exercise 030 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex030.py)
+31. Exercise 031 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex031.py)
+32. Exercise 032 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex032.py)
+33. Exercise 033 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex033.py)
+34. Exercise 034 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex034.py)
+35. Exercise 035 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
 
 ---
 
