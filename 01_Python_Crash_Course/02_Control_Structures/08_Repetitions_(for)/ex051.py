@@ -1,15 +1,34 @@
-# Exercício Python 051 - Progressão Aritmética
+# Exercise 051 - Arithmetic Progression
 
-'''Desenvolva um programa que leia o primeiro termo e a razão de uma PA. 
-No final, mostre os 10 primeiros termos dessa progressão.'''
+'''Develop a program that reads the first term and reason of an AP.
+At the end, show the first 10 terms of this progression.'''
 
+'''An arithmetic progression is a numerical sequence in which each term, starting from the second, 
+is equal to the sum of the previous term with a constant r. The number r is called the ratio 
+or common difference of the arithmetic progression.'''
 
-primeiro_termo = int(input('Qual o primeiro termo da Progressão Aritmética: '))
-num_termos = int(input('Qual o número de termos da Progressão Aritmética: '))
-razao = int(input('Qual a razão de progressão: '))
+# 1. We'll ask the user to input the first term of our AP
+first_term = int(input('What is the first term of this Arithmetic Progression?: '))
 
-ultimo = primeiro_termo + (num_termos-1) * razao
-ultimo = ultimo + 1
+# 2. We ask the common difference (r) of our AP
+r = int(input('What is the common difference for progression? '))
 
-for i in range(primeiro_termo, ultimo, razao):
-    print(i, end=' ')
+''' Here's the trick, only with these two variables we have a problem
+Our AP, will not work, because we want the first ten terms of this progression
+to solve our problem we use what is calles the general term of an arithmetic progression (nth term)
+The formula is: nth term = first term + (the_nº_of_terms_we_want - 1) * r
+We could do this calculation and put 10 as our "the_nº_of_terms_we_want"
+But that would only solve this question for the first 10 terms
+Let's create a question that solves for any number of terms '''
+
+# 3. We create a variable with the_nº_of_terms_we_want
+num_terms = int(input('How many terms you want in this Arithmetic Progression?: '))
+
+# 4. Now let's do our nth_term equation
+nth_term = first_term + (num_terms-1) * r
+
+for i in range(first_term, nth_term, r):
+    print(i, end=' > ')
+
+print('End')
+    
