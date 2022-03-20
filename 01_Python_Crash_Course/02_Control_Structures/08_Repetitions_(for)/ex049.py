@@ -1,11 +1,11 @@
-# Exercício Python 049 - Tabuada v.2.0
+# Exercise 049 - Multiplication Table v.2.0
 
-'''Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.'''
+'''Redo Exercise 009, showing the multiplication table of a number that the user chooses.'''
 
-num = int(input('Digite um número: '))
-#tabuada = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(f'A tabuada do {num} é:')
+num = int(input('Enter a number: '))
+print(f'The multiplication table of {num} is:')
 print('=' * 13)
+
 for i in range(1, 11) :
     print(num , 'x', i, '=', num * i )
 
