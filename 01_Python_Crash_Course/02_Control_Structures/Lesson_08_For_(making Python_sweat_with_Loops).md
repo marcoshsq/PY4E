@@ -143,10 +143,19 @@ for x in [0, 1, 2]:
 
 ### Lesson Wrap Up:
 
+A for loops, is a loop a statement that will execute it's block of code a limited amount of times.
+
 ---
 
 ### Conclusion:
 
+In this lesson we talked about for loops, coming up, let's discuss while loops.
+
 ---
 
 ### More content
+
+- [For loops](https://wiki.python.org/moin/ForLoop)
+- [loops in python](https://www.geeksforgeeks.org/loops-in-python/)
+- [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/)
+- [Introduction to For Loops in Python](https://www.youtube.com/watch?v=OnDr4J2UXSA&t=111s)
