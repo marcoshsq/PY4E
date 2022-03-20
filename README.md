@@ -151,7 +151,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 70 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex070.py)
 - Exercise 71 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex071.py)
 
-## Part 03 - [Compound Structures]()
+## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/03_Compound_Structures)
 
 ### Level 10 - [Tuples]()
 
