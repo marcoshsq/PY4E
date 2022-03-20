@@ -1,28 +1,29 @@
-# Exercício Python 037 - Conversor de Bases Numéricas
+# Exercise 037 - Numerical Base Converter
 
-'''Escreva um programa em Python que leia um número inteiro qualquer e peça para 
-o usuário escolher qual será a base de conversão: 
-1 para binário, 2 para octal e 3 para hexadecimal.'''
+'''Write a Python program that reads any integer and asks it to the user to choose what the conversion base will be: 1 for binary, 2 for octal and 3 for hexadecimal.'''
 
 print('-=' * 25)
-print('Escolha um número inteiro para conversão, as bases são:')
+num = int(input('Enter a number for convertion: '))
 print('-=' * 25)
-print('[1] Para binário')
-print('[2] Para octal')
-print('[1] Para hexadecimal')
 
-num = int(input('Escolha um número inteiro: '))
 
 while True :
-    escolha = int(input('Qual será a base de conversão: '))
+    print('[1] For binary')
+    print('[2] For octal')
+    print('[3] For hexadecimal')
+    escolha = int(input('What will be the conversion basis?: '))
+# We're using the index here to get rid of the code that came before the numbers  
     if escolha == 1 :
-        print(f'O número {num} em binário fica {bin(num) [2:]}')
+        print(f'The number {num} in binary is {bin(num) [2:]}')
         break
+
     elif escolha == 2 :
-        print(f'O número {num} em octal fica {oct(num) [2:]}')
+        print(f'The number {num} in octal is {oct(num) [2:]}')
+        break
 
     elif escolha == 3 :
-        print(f'O número {num} em hexadecimal fica {hex(num) [2:]}')
+        print(f'The number {num} in hexadecimal is {hex(num) [2:]}')
+        break
 
     else :
-        print('Valor incorreto, escolha entre as três opções: ')
+        print('Wrong data, please enter a correct value: ')
