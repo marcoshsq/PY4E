@@ -32,4 +32,4 @@ elif payment == 4 :
     print(f'The amount to be paid is R${product_price * 1.2}')
 
 else :
-    print('Wrong choice!')
+    print('Invalid choice!')
