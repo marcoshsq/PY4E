@@ -40,7 +40,7 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
 
 4. [Extra Exercises]()  
  
-5. [Bibliographic references]()
+5. [Useful links]()
 
 ---
 
@@ -341,17 +341,18 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ---
 
-### Bibliographic references:
+### Useful links:
 
-To give credit to the right people, and also, in case you want more content and information. (◕‿◕✿)	
+To give credit to the right people, and also, in case you want more content and information. 
 
-- [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) - The main list of exercises was acquired on the youtube channel "[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo/videos)", one of the best channels on the Brazilian Youtube;
 - [Python Brasil](https://wiki.python.org.br/ListaDeExercicios) - The second extra list was acquired with the Python Brazil community;
 - [Think Python](https://greenteapress.com/wp/think-python/) - Think Python: How to Think Like a Computer Scientist by [Allen B. Downey](https://github.com/AllenDowney)
 - [Python for Everybody](https://www.py4e.com/) - Site and also the [Book](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) by Dr. Chuck, from the University of Michigan
+- [Welcome to Python Cheatsheet!](https://www.pythoncheatsheet.org/) - This cheat sheet tries to provide a basic reference for beginner and advanced developers, lower the entry barrier for newcomers and help veterans refresh the old tricks.
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Python SpeedSheet](https://speedsheet.io/s/python?select=gcez)
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [Python tutor](https://pythontutor.com/visualize.html#mode=edit) - A way to visualize your code.
 
-
-
-
-
-
+---
+"For those who prove worthy... Paradise awaits!!"
