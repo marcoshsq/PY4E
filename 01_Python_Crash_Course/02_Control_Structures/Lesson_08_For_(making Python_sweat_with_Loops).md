@@ -158,6 +158,18 @@ for x in [0, 1, 2]:
 
 Exercises
 
+46. Exercise 046 -  [Solution]()
+47. Exercise 047 -  [Solution]()
+48. Exercise 048 -  [Solution]()
+49. Exercise 049 -  [Solution]()
+50. Exercise 050 -  [Solution]()
+51. Exercise 051 -  [Solution]()
+52. Exercise 052 -  [Solution]()
+53. Exercise 053 -  [Solution]()
+54. Exercise 054 -  [Solution]()
+55. Exercise 055 -  [Solution]()
+56. Exercise 056 -  [Solution]()
+
 ---
 
 ### Lesson Wrap Up:
