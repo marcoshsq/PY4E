@@ -6,17 +6,22 @@
 
 ## Lesson 07 Content:
 
-1. []()
-2. []()
-3. []()
-4. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#lesson-wrap-up)
-5. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#conclusion)
-6. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#more-content)
+1. [First of all]()
+2. [Quick reminder If... else]()
+3. [Indentation]()
+4. [Elif]()
+5. [If Inside If]()
+6. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#lesson-wrap-up)
+7. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#conclusion)
+8. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#more-content)
 
 ##
 
-### Quick reminder If... else:
+### First of all:
 
+Welcome to part two of our intensive python course, we've already done dozens of exercises and covered a lot of content, but we're not even halfway through yet, so sit in a comfortable place and let's study.
+
+### Quick reminder If... else:
 
 Python supports the usual logical conditions from mathematics:
 
@@ -109,6 +114,7 @@ You can have an inception of if's.
 
 Well, in this lesson we reviewed the content of conditional structure, and learned nested conditional structures, in the next lesson we will get into the loops part, now things start to get more... interesting u.u
 See you space cowboy...
+
 ---
 
 ### More content:
