@@ -23,7 +23,7 @@
 
 ### Python for loops:
 
-A loop to is called a looping structure with control variable. It is used when there is a defined amount of repetitions to execute.
+A for loop is called a looping structure with control variable. It is used when there is a defined amount of repetitions to execute.
 
 ![flowchart-for-loop 003-1024x576](https://user-images.githubusercontent.com/64812097/159174654-a27e3a2e-72d8-4e73-a1ae-1a95e9ce030f.jpeg)
 
