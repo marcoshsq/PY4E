@@ -109,6 +109,13 @@ The while loop in Python is used to iterate over a block of code as long as the 
 In this lesson we talked about the while loop, learned its syntax with some examples and did a lot of exercises, remember there is a lot more to learn about this topic so do a lot of research, a lot of your work as a programmer will be researching and studying, here is just a quick summary to not fill you with theory, so, access the links available at more content, and play with python, remember, you won't break it.
 
 Wow, and so we come to the end of our part 02, how much studied, right? If you made it this far, congratulations and thank you very much, if this material is helping you in any way I will be very happy.
+
+In the next part we will talk about composite structures in python, lists, tuples, dictionaries and so on. And we'll also learn some more advanced concepts like functions and classes, in addition to modularization. Ours is going to be really cool. Anyway, thank you very much for your attention and see you, space cowboy.
+
 ---
 
-### More content
+### More content:
+
+- [Python Looping Techniques](https://www.programiz.com/python-programming/looping-technique)
+- [loops in python](https://www.geeksforgeeks.org/loops-in-python/)
+- [While loops](https://wiki.python.org/moin/WhileLoop)
