@@ -43,7 +43,10 @@ num_terms = int(input('How many terms you want in this Arithmetic Progression?: 
 # 4. Now let's do our nth_term equation
 nth_term = first_term + (num_terms-1) * r
 
+# When creating our for loop, we will use the range function, remember range(star, stop, step)
+# 5. So it'll be for i in range(start with the first_term, stop at the nth_term, step from r to r) this is:
 for i in range(first_term, nth_term, r):
+    # 6. Then we print our control variable inside the loop, because we want to see each iteration
     print(i, end=' > ')
 
 print('End')
