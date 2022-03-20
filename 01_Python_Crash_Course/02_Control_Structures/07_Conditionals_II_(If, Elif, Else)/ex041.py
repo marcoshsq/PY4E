@@ -1,21 +1,25 @@
-# Python Exercício 041 - Classificando Atletas
+# Exercise 041 - Classifying Athletes
 
-''' A Confederação Nacional de Natação precisa de um programa que leia o ano de 
-nascimento de um atleta e mostre sua categoria, de acordo com a idade:
-- Até 9 anos: MIRIM
-- Até 14 anos: INFANTIL
-- Até 19 anos: JÚNIOR
-- Até 25 anos: SÊNIOR
-- Acima de 25 anos: MASTER'''
+''' The National Swimming Confederation needs a program that reads the year of
+    birth of an athlete and show their category, according to age:
+        - Up to 9 years: MIRIM
+        - Up to 14 years: CHILDREN
+        - Up to 19 years old: JUNIOR
+        - Up to 25 years old: SENIOR
+        - Over 25 years: MASTER'''
 
-idade = int(input('Qual a idade do atleta: '))
-if idade <= 9 :
-    print('Você é um atleta mirim.')
-elif 9 < idade <= 14 :
-    print('Você é um atleta infantil.')
-elif 14 < idade <= 19 :
-    print('Você é um atleta júnior.')
-elif 19 < idade <= 25  :
-    print('Você é um atleta sênior.')
+age = int(input('Enter the athlete\'s age: '))
+if age <= 9 :
+    print('He\'s a Mirim.')
+
+elif 9 < age <= 14 :
+    print('He\'s a Children.')
+
+elif 14 < age <= 19 :
+    print('He\'s a Junior.')
+
+elif 19 < age <= 25  :
+    print('He\'s a Senior.')
+    
 else :
-    print('Você é um atleta master.')
+    print('He\'s a Master.')
