@@ -1,15 +1,24 @@
-# Exercício Python 050 - Soma dos pares
+# Exercise 050 - Sum of pairs
 
-'''Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. 
-Se o valor digitado for ímpar, desconsidere-o.'''
+'''Develop a program that reads six integers and displays the sum of only those that are even.
+If the value entered is odd, disregard it.'''
 
+# Our accumulator
+sum = 0
 
-soma = 0
-for i in range(0, 6):  
-    num = int(input('Insira um número inteiro: '))  # Como o input está dentro do laço com o range de 0 à 6, ele repete a pergunta 6x u.u
-    if num % 2 == 0 :     # Se o número posto dentro de num didido por dois tem resto zero;
-        soma += num       # Ele entra na soma
-        
-print(f'A soma é {soma}')
+for i in range(0, 6):
+    
+    # This time we want to repeat the question to the user
+    # So our iput function goes inside the loop, and it'll repeat per the number of iterations
+    num = int(input('Enter a whole number: '))
 
+    # If the number inputted into our variable sum divided by two has zero remainder
+    if num % 2 == 0 :
 
+        # will be added
+        sum += num       
+
+if sum > 0:     
+    print(f'The sum is {sum}')
+else:
+    print('No number inputted was a pair')
