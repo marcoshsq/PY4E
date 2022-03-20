@@ -23,6 +23,10 @@
 
 ### Python for loops:
 
+Have you noticed that the programs we've written so far don't run continuously? And to repeat a command 20 times we need to do it manually 20 times? This can be a problem when we want to write a program that runs continuously or that repeats x commands N times. To solve this problem we can use loops of repetition.
+
+A loop is a structure that repeats a block of code multiple times while a condition is true. Just like with the if statement, a loop has a block of code, this block will repeat N times given a condition that is recognized for this loop. In python we have two types of loops of repetition: the while and the for loop, let's start with the for.
+
 A for loop is called a looping structure with control variable. It is used when there is a defined amount of repetitions to execute.
 
 ![flowchart-for-loop 003-1024x576](https://user-images.githubusercontent.com/64812097/159174654-a27e3a2e-72d8-4e73-a1ae-1a95e9ce030f.jpeg)
