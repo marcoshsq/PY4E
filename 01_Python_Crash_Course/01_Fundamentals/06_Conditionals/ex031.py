@@ -1,20 +1,20 @@
-# Exercício Python 031 - Custo da Viagem
-'''Desenvolva um programa que pergunte a distância de uma viagem em Km. 
-Calcule o preço da passagem, cobrando R$0,50 por Km para viagens 
-de até 200Km e R$0,45 para viagens mais longas.'''
+# Exercise 031 - Travel Cost
+'''Develop a program that asks the distance of a trip in Km.
+Calculate the ticket price, charging R$0.50 per km for travel
+of up to 200Km and R$0.45 for longer trips.'''
 
-distance = float(input('Qual a distância a ser percorrida: '))
-print(f'Você vai realizar uma viagem de {distance:.2f}Km')
+distance = float(input('What is the distance to be covered: '))
+print(f'You will take a trip of {distance:.2f}Km')
 
 
-# Condicional Comum
+# Normal way
 if distance <= 200 :
     value_01 = distance * 0.50
-    print(f'O valor da passagem será de R${value_01:.2f}')
+    print(f'The ticket price will be R${value_01:.2f}')
 else :
     value_02 = distance * 0.45
-    print(f'O valor da passagem será de R${value_02:.2f}')
+    print(f'The ticket price will be R${value_02:.2f}')
 
-# Condicional simplificada
+# or
 price = distance * 0.50 if distance <= 200 else distance * 0.45   
-print(f'O valor da viagem é R${price}')
+print(f'The ticket price will be R${price}')
