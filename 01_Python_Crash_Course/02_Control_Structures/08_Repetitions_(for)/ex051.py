@@ -3,6 +3,22 @@
 '''Develop a program that reads the first term and reason of an AP.
 At the end, show the first 10 terms of this progression.'''
 
+# To facilitate your viewing:
+
+first_term = int(input('What is the first term of this Arithmetic Progression?: '))
+r = int(input('What is the common difference for progression? '))
+num_terms = int(input('How many terms you want in this Arithmetic Progression?: '))
+nth_term = first_term + (num_terms-1) * r
+
+for i in range(first_term, nth_term, r):
+    print(i, end=' > ')
+
+print('End')
+
+# -------
+
+# Code explained
+
 '''An arithmetic progression is a numerical sequence in which each term, starting from the second, 
 is equal to the sum of the previous term with a constant r. The number r is called the ratio 
 or common difference of the arithmetic progression.'''
