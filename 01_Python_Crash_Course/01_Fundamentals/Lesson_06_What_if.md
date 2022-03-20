@@ -6,6 +6,8 @@
 
 ## Lesson 06 Content:
 
+### If... else
+
 The if statement is one of the most basic control structures, it basically follows this flowchart:
 
 <div align="center">
@@ -24,6 +26,8 @@ if age < 18:                                # Then we tell Python, if the client
 else:                                       # else means else u.u
     print('Welcome, have fun!')             # print this u.u
 ```
+
+### If...elif...elif... else
 
 We can also check more than one if condition before we get to the else statement. For this we use the else if statement, elif statement.
 
