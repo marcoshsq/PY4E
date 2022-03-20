@@ -47,7 +47,8 @@ else:
 
 ## Atention:
 
-For now we are programming in a sequential way, that is, imagine that each line of your program is like a list:
+We are programming in a sequential way, that is, imagine that each line of your program is like a list:
+
 1. start here
 2. then do this
 3. then this
@@ -55,6 +56,7 @@ For now we are programming in a sequential way, that is, imagine that each line 
 5. then this
 6. then this
 7. end here
+
 Python will follow thi list when running your code, what I'm trying to say is, Build your code logically so that every line of code is accessed if needed. For example, Let's say you've started selling soft drinks to people under 15, it's a SpongeBob store, and you decide to use your store's system to recommend this to people under 15, let's update our code.
 
 ```python
@@ -70,7 +72,22 @@ else:
     print('Welcome, have fun!')
 
 ```
-If you run this code, and enter a value lower than 15, you will notice a problem. The spongebob recommendation does not appear, why? Like I said, we are programming in a sequential way, which means that, Python will first ask the age, if we enter, anything between 18 and 70, it will say "Wellcome, have fun", if we print anything above 70, it will say "Sorry, For legal reasons, we cannot sell to you", now, if we put anything under 18, it will first go to our first line, that say, if age is less than 18, give to the user "I'm sorry, you\'re underage!", and finish the program, the problem is 15 is less than 18, but python will never get to that line.
+If you run this code, and enter a value lower than 15, you will notice a problem. The spongebob recommendation does not appear, why? Like I said, we are programming in a sequential way, which means that, Python will first ask the age, if we enter, anything between 18 and 70, it will say "Wellcome, have fun", if we print anything above 70, it will say "Sorry, For legal reasons, we cannot sell to you", now, if we put anything under 18, it will first go to our first line, that say, if age is less than 18, give to the user "I'm sorry, you\'re underage!", and finish the program, the problem is 15 is less than 18, but python will never get to that line. And the kids will never know about your Sponge Bob Shop, that's why is super important that you write your code in a sequential and logical way, so we don't let the kids down, ok? Let's fix our code.
+
+```python
+
+age = int(input('Enter your age: '))
+if age <= 15:
+    print('We have this spongebob store, look how cool. spongebobshop.com ')
+elif age < 18:
+    print('I\'m sorry, you\'re underage!')
+elif age > 70:
+    print('Sorry, For legal reasons, we cannot sell to you')
+else:
+    print('Welcome, have fun!')
+
+```
+
 
 ##
 
@@ -86,13 +103,25 @@ That's it, simple isn't? Some important notes:
 
 Pretty simple isn't it? I'm talking, python is super easy u.u. Now let's do some exercises shall we?
 
+28. Exercise 028 -  []()
+29. Exercise 029 -  []()
+30. Exercise 030 -  []()
+31. Exercise 031 -  []()
+32. Exercise 032 -  []()
+33. Exercise 033 -  []()
+34. Exercise 034 -  []()
+35. Exercise 035 -  []()
+
 ---
 
 ### Lesson Wrap Up:
 
 ````python
-name = 'Bob'
+
+name = input('Enter your name')
 if name == 'Alice':
+    print('Hi, Alice.')
+elif name == 'Joe':
     print('Hi, Alice.')
 else:
     print('Hello, stranger.')
@@ -102,8 +131,11 @@ else:
 
 ### Conclusion:
 
-
+In this lesson we will talk about if, elif and else, in the next one we will talk about nested if, it's like that movie inception by Nolan where Leonardo di Carpio enters a dream within a dream, only different from the movie, it's important to understand what are nested if.
 
 ---
 
 ## More content
+
+[Creator of Python Programming Language, Guido van Rossum | Oxford Union](https://www.youtube.com/watch?v=7kn7NtlV6g0)
+[If... Else](https://www.w3schools.com/python/python_conditions.asp)
