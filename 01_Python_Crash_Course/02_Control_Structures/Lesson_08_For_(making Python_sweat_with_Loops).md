@@ -48,6 +48,8 @@ for x in fruits:
 
 The for loop does not require an indexing variable to set beforehand.
 
+##
+
 ### Looping Through a String:
 
 Strings are iterable objects, they contain a sequence of characters:
@@ -62,6 +64,8 @@ for x in "banana":
   # Output: n
   # Output: a
 ````
+
+##
 
 ### The break Statement:
 
@@ -78,6 +82,8 @@ for x in fruits:
   # Output: banana
 ````
 
+##
+
 ### The continue Statement:
 
 With the continue statement we can stop the current iteration of the loop, and continue with the next:
@@ -92,6 +98,8 @@ for x in fruits:
   # Output: cherry
 ````
 
+##
+
 ### The range() Function:
 
 To loop through a set of code a specified number of times, we can use the range() function, The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number. The range() function can also be called with three arguments. The first two arguments will be the start and stop values, and the third will be the step argument. The step is the amount that the variable is increased by after each iteration. You can even use a negative number for the step argument to make the for loop count down instead of up.
@@ -100,6 +108,8 @@ To loop through a set of code a specified number of times, we can use the range(
 for x in range(2, 30, 3):
   print(x)
 ````
+
+##
 
 ### Else in For Loop:
 
@@ -118,6 +128,8 @@ else:
   print("Finally finished!")
 ````
 
+##
+
 ### Nested Loops:
 
 A nested loop is a loop inside a loop. The "inner loop" will be executed one time for each iteration of the "outer loop":
@@ -131,6 +143,8 @@ for x in adj:
     print(x, y)
 ````
 
+##
+
 ### The pass Statement:
 
 for loops cannot be empty, but if you for some reason have a for loop with no content, put in the pass statement to avoid getting an error.
@@ -142,6 +156,7 @@ for x in [0, 1, 2]:
 ````
 ## 
 
+Exercises
 
 ---
 
