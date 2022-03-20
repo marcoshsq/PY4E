@@ -11,7 +11,7 @@
 3. [The break Statement](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-break-statement)
 4. [The continue Statement](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-continue-statement)
 5. [The range() Function](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-range-function)
-6. [https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#else-in-for-loop](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#else-in-for-loop)
+6. [Else in For Loop](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#else-in-for-loop)
 7. [Nested Loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#nested-loops)
 8. [The pass Statement](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-pass-statement)
 9. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#lesson-wrap-up)
