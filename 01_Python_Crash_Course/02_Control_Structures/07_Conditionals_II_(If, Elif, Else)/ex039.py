@@ -1,10 +1,11 @@
-# Exercício Python 039 - Alistamento Militar
-
-'''Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, 
-se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. 
-Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.'''
-
 from datetime import date
+
+# Exercise 039 - Military Enlistment
+
+'''Make a program that reads a young person's year of birth and reports, according to their age,whether he is still going to enlist in the military, 
+whether it's the exact time to enlist or whether it's past the time of enlistment. Your program should also show the time remaining or overdue..'''
+
+
 
 ano_atual = date.today().year
 ano_nascimento = int(input('Ano de nascimento: '))
