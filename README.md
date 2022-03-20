@@ -87,16 +87,16 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 26 - [First and last occurrence of a string](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex026.py)
 - Exercise 27 - [A person's first and last name](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex027.py)
 
-### Level 06 - [What if?]()
+### Level 06 - [What if?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md)
 
-- Exercise 28 - []()
-- Exercise 29 - []()
-- Exercise 30 - []()
-- Exercise 31 - []()
-- Exercise 32 - []()
-- Exercise 33 - []()
-- Exercise 34 - []()
-- Exercise 35 - []()
+- Exercise 28 - [Guessing Game v.1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex028.py)
+- Exercise 29 - [Electronic Radar](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex029.py)
+- Exercise 30 - [](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex030.py)
+- Exercise 31 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex031.py)
+- Exercise 32 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex032.py)
+- Exercise 33 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex033.py)
+- Exercise 34 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex034.py)
+- Exercise 35 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
 
 ## Part 02 - [Control Structures]()
 
