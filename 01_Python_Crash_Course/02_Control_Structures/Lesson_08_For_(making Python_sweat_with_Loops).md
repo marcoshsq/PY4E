@@ -1,31 +1,31 @@
-Falar de loops
 <div align="center">
   
-# Titulo Falar de packages
+# For loops | (* ^ ω ^) ＼(^ω^＼)
 
 </div>
 
-## Lesson 02 Content:
+## Lesson 08 Content:
+
+1. []()
+2. []()
+3. []()
+4. []()
+5. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#lesson-wrap-up)
+6. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#conclusion)
+7. [More Content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#more-content)
+
 
 ##
 
 ### topic 01
-### content 01
+
 
 ##
 
 ### topic 02
-### content 02
 
-##
 
-### topic 03
-### content 03
 
-##
-
-### topic 04
-### content 04
 
 
 ---
@@ -38,4 +38,4 @@ Falar de loops
 
 ---
 
-## More content
+### More content
