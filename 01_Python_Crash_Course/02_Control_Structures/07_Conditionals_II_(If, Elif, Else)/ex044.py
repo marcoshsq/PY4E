@@ -1,31 +1,35 @@
-# Exercício Python 044 - Gerenciador de Pagamentos
+# Exercise 044 - Payment Manager
 
-'''Elabore um programa que calcule o valor a ser pago por um produto, 
-considerando o seu preço normal e condição de pagamento:
-- à vista dinheiro/cheque: 10% de desconto
-- à vista no cartão: 5% de desconto
-- em até 2x no cartão: preço formal
-- 3x ou mais no cartão: 20% de juros'''
+''' 
+    Develop a program that calculates the amount to be paid for a product,
+    Considering your normal price and payment term:
+    - cash/check: 10% discount
+    - cash on card: 5% discount
+    - up to 2x on the card: formal price
+    - 3x or more on the card: 20% interest
+'''
 
-
-
-valor_produto = float(input('Qual o valor do Produto: '))
+product_price = float(input('What is the price of the Product: '))
 print('-=' * 25, '''
-        Escolha uma forma de pagamento:
-[1] - À vista no dinheiro/cheque: 10% de desconto   
-[2] - À vista no cartão de crédito: 5% de desconto
-[3] - 2x no cartão: preço normal
-[4] - 3x ou mais no cartão: 20% juros
+        Choose a way to pay:
+[1] - Cash/check: 10% discount
+[2] - Cash on credit card: 5% discount
+[3] - 2x on the card: regular price
+[4] - 3x or more on the card: 20% interest
 ''')
-pagamento = int(input('Escolha a forma de pagamento: '))
+payment = int(input('Choose the form of payment: '))
 
-if pagamento == 1 :
-    print(f'O valor a ser pago é de R${valor_produto * 0.9}')
-elif pagamento == 2 :
-    print(f'O valor a ser pago é de R${valor_produto * 0.95}')
-elif pagamento == 3 :
-    print(f'O valor a ser pago é de R${valor_produto}')
-elif pagamento == 4 :
-    print(f'O valor a ser pago é de R${valor_produto * 1.2}')
+if payment == 1 :
+    print(f'The amount to be paid is R${product_price * 0.9}')
+
+elif payment == 2 :
+    print(f'The amount to be paid is R${product_price * 0.95}')
+
+elif payment == 3 :
+    print(f'The amount to be paid is R${product_price}')
+
+elif payment == 4 :
+    print(f'The amount to be paid is R${product_price * 1.2}')
+
 else :
-    print('Escolha invalida!')
+    print('Wrong choice!')
