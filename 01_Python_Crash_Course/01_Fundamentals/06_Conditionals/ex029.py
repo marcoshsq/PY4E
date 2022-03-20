@@ -1,13 +1,14 @@
-# Exercício Python 029 - Radar eletrônico
-'''Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, 
-mostre uma mensagem dizendo que ele foi multado. 
-A multa vai custar R$7,00 por cada Km acima do limite.'''
+# Exercise 029 - Electronic Radar
+'''Write a program that reads the speed of a car. If he has 80 km,
+show a message saying he has been fined.
+The fine will cost R$7.00 for each km over the limit.'''
 
-velocity = float(input('Qual a velocidade do carro: '))
+
+velocity = float(input('what is the speed of the car: '))
 if velocity > 80 :
-    print('MULTADO! Você excedeu o limite de 80km/h ')
+    print('FINED! You have exceeded the 80km/h limit ')
     traffic_ticket = (velocity - 80) * 7
-    print(f'Você deve paga uma multa de R${traffic_ticket}, seu abestado')
+    print(f'You must pay a fine of R${traffic_ticket}')
 else :
-    print('Você não excedeu o limite de velocidade.')
-print('Tenha um bom dia, dirija com segurança')
+    print('You have not exceeded the speed limit.')
+print('Have a nice day')
