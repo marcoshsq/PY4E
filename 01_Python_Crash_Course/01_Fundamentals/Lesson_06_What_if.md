@@ -105,12 +105,12 @@ Pretty simple isn't it? I'm talking, python is super easy u.u. Now let's do some
 
 28. Exercise 028 - Write a program that makes the computer "think" of an integer between 0 and 5 and ask the user to try to find out which number was chosen by the computer. The program should write on the screen if the user won or lost. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex028.py)
 29. Exercise 029 - Write a program that reads the speed of a car. If he has 80 km, show a message saying he has been fined. The fine will cost R$7.00 for each km over the limit. [Solution](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex029.py)
-30. Exercise 030 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex030.py)
-31. Exercise 031 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex031.py)
-32. Exercise 032 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex032.py)
-33. Exercise 033 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex033.py)
-34. Exercise 034 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex034.py)
-35. Exercise 035 -  [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
+30. Exercise 030 - Create a program that reads an integer and shows on the screen whether it is ODD or EVEN. [Solution](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex030.py)
+31. Exercise 031 - Develop a program that asks the distance of a trip in Km. Calculate the ticket price, charging R$0.50 per km for travel of up to 200Km and R$0.45 for longer trips. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex031.py)
+32. Exercise 032 - Make a program that reads any year and shows if it is a leap year. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex032.py)
+33. Exercise 033 - Create a program that reads three values and says which is the largest and which is the smallest. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex033.py)
+34. Exercise 034 - Write a program that asks for an employee's salary and calculates the amount of his raise: For salaries greater than R$1250.00, calculate a 10% increase. For those below or equal, the increase is 15%. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex034.py)
+35. Exercise 035 - Develop a program that reads the length of three lines and tell the user whether or not they can form a triangle. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
 
 ---
 
