@@ -22,10 +22,11 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
     - 04.[Packages](https://github.com/marcoshsq/Python_Crash_Course#level-04---leveling-up-with-upgrades)
     - 05.[Strings](https://github.com/marcoshsq/Python_Crash_Course#level-05---there-are-no-strings-on-me)
     - 06.[Conditionals (If)](https://github.com/marcoshsq/Python_Crash_Course#level-06---what-if)
-2. [Control Structures]()
-    - 07.[Conditionals (If, elif, else)]()
-    - 08.[Loops (for)]()
-    - 09.[Loops (while)]()
+
+2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course#part-02---control-structures)
+    - 07.[Conditionals (If, elif, else)](https://github.com/marcoshsq/Python_Crash_Course#level-07---what-ifs)
+    - 08.[Loops (for)](https://github.com/marcoshsq/Python_Crash_Course#level-08---making-python-sweat-with-for-loops)
+    - 09.[Loops (while)](https://github.com/marcoshsq/Python_Crash_Course#level-09---making-python-sweat-with-while-loops)
 
 3. [Compound Structures]()
     - 10.[Tuples]()
@@ -36,8 +37,10 @@ Once again, welcome to this course, the purpose of this is to teach you the basi
     - 15.[Files]()
     - 16.[Classes]()
     - 17.[Projects]()
- 4. [Extra Exercises]()  
- 5. [Bibliographic references]()
+
+4. [Extra Exercises]()  
+ 
+5. [Bibliographic references]()
 
 ---
 
