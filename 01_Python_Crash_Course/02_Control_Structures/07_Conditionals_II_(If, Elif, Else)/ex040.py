@@ -1,14 +1,17 @@
-# Exercício Python 040 - Aquele clássico da Média
+# Exercise 040 - That Classic Average
 
-'''Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
-- Média abaixo de 5.0: REPROVADO'''
+'''Create a program that reads two grades from a student and calculates their average, showing a message at the end, according to the average achieved:
+- Average below 5.0: FAIL'''
 
-nota_01 = float(input('Insira a primeira nota do aluno: ')) 
-nota_02 = float(input('Insira a segunda nota do aluno: '))
-media = (nota_01 + nota_02) / 2
-if media >= 5 :
-    print(f'O aluno tirou {media} de nota, foi aprovado! ')
-elif media < 5 :
-    print(f'O aluno tirou {media} de nota, foi reprovado! ')
+grade_01 = float(input('Enter the first grade: ')) 
+grade_02 = float(input('Enter the second grade: '))
+average = (grade_01 + grade_02) / 2
+
+if 5 <= average <= 10 :
+    print(f'The student took {average} of note, was approved! ')
+
+elif 0 <= average < 5 :
+    print(f'The student took {average} of note, was disapproved! ')
+    
 else :
-    print('Valor invalido')
+    print('Wrong value')
