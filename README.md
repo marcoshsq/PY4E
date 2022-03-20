@@ -91,12 +91,12 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 
 - Exercise 28 - [Guessing Game v.1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex028.py)
 - Exercise 29 - [Electronic Radar](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex029.py)
-- Exercise 30 - [](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex030.py)
-- Exercise 31 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex031.py)
-- Exercise 32 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex032.py)
-- Exercise 33 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex033.py)
-- Exercise 34 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex034.py)
-- Exercise 35 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
+- Exercise 30 - [Odd or Even?](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex030.py)
+- Exercise 31 - [Travel Cost](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex031.py)
+- Exercise 32 - [Leap Year](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex032.py)
+- Exercise 33 - [Largest and smallest](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex033.py)
+- Exercise 34 - [Multiple increases](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex034.py)
+- Exercise 35 - [Analyzing Triangle v1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
 
 ## Part 02 - [Control Structures]()
 
