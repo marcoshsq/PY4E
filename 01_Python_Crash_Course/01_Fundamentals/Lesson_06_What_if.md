@@ -1,39 +1,108 @@
 <div align="center">
   
-# Titulo Falar de packages
+# The if statement
 
 </div>
 
-## Lesson 02 Content:
+## Lesson 06 Content:
+
+The if statement is one of the most basic control structures, it basically follows this flowchart:
+
+<div align="center">
+  
+![scala_decision_making](https://user-images.githubusercontent.com/64812097/159143967-7636d10c-6fcc-43ae-9afa-4b0174b9c478.jpg)
+  
+</div>
+
+
+The logic is pretty simple, you want Python to do something only if a condition is met, otherwise it will do something else, e.g.: Let's say you are a seller of alcoholic beverages, and you need to create a system for your online store, in your system you cannot sell alcohol to minors. Therefore, your system needs to ask customers for their age. And decide whether they can buy it or not.
+
+```python
+age = int(input('Enter your age: '))        # Frist we ask for the client's age;
+if age < 18:                                # Then we tell Python, if the client has less than 18 years;
+    print('I\'m sorry, you\'re underage!')  # print this;
+else:                                       # else means else u.u
+    print('Welcome, have fun!')             # print this u.u
+```
+
+We can also check more than one if condition before we get to the else statement. For this we use the else if statement, elif statement.
+
+<div align="center">
+  
+![if-elseif-ladder](https://user-images.githubusercontent.com/64812097/159144615-eba073bc-75e3-49c9-bf68-458529a15317.jpg)
+  
+</div>
+
+Let's say that in your online liquor store you received a notification that seniors can no longer buy alcoholic beverages, because of public health reasons u.u. Now you cannot sell to over 70s. Let's update our system.
+
+```python
+age = int(input('Enter your age: '))
+if age < 18:
+    print('I\'m sorry, you\'re underage!')
+elif age > 70:                                
+    print('Sorry, For legal reasons, we cannot sell to you')
+else:
+    print('Welcome, have fun!')
+```
+
+## Atention:
+
+For now we are programming in a sequential way, that is, imagine that each line of your program is like a list:
+1. start here
+2. then do this
+3. then this
+4. then this
+5. then this
+6. then this
+7. end here
+Python will follow thi list when running your code, what I'm trying to say is, Build your code logically so that every line of code is accessed if needed. For example, Let's say you've started selling soft drinks to people under 15, it's a SpongeBob store, and you decide to use your store's system to recommend this to people under 15, let's update our code.
+
+```python
+
+age = int(input('Enter your age: '))
+if age < 18:
+    print('I\'m sorry, you\'re underage!')
+elif age > 70:
+    print('Sorry, For legal reasons, we cannot sell to you')
+elif age <= 15:
+    print('We have this spongebob store, look how cool. spongebobshop.com ')
+else:
+    print('Welcome, have fun!')
+
+```
+If you run this code, and enter a value lower than 15, you will notice a problem. The spongebob recommendation does not appear, why? Like I said, we are programming in a sequential way, which means that, Python will first ask the age, if we enter, anything between 18 and 70, it will say "Wellcome, have fun", if we print anything above 70, it will say "Sorry, For legal reasons, we cannot sell to you", now, if we put anything under 18, it will first go to our first line, that say, if age is less than 18, give to the user "I'm sorry, you\'re underage!", and finish the program, the problem is 15 is less than 18, but python will never get to that line.
 
 ##
 
-### topic 01
-### content 01
+
+That's it, simple isn't? Some important notes:
+
+- Identation, blocks of code are defined by indentation. Code on the same indent level are in the same block. Python will not allow mixed indentation, it's very important that you respect that, ok! 
+- For indentation we use 4 spaces, if you are going to use tab, you must configure your IDE, or interpreter to make the tab in space. The important thing is not to mix spaces and tabs. Python is very sensitive about this.
+- And lastly the colon, colon is used to represent an indented block. Every time you do something in python that needs indented blocks (for loops, while loops, def functions, etc.), you need the colon ('':'').
+
 
 ##
 
-### topic 02
-### content 02
-
-##
-
-### topic 03
-### content 03
-
-##
-
-### topic 04
-### content 04
-
+Pretty simple isn't it? I'm talking, python is super easy u.u. Now let's do some exercises shall we?
 
 ---
 
 ### Lesson Wrap Up:
 
+````python
+name = 'Bob'
+if name == 'Alice':
+    print('Hi, Alice.')
+else:
+    print('Hello, stranger.')
+````
+
 ---
 
 ### Conclusion:
+
+
 
 ---
 
