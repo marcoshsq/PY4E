@@ -1,31 +1,26 @@
-Falar de if de novo
 <div align="center">
   
-# Titulo Falar de packages
+# Nested if ┐('～`;)┌ ??(•ิ_•ิ)?
 
 </div>
 
-## Lesson 02 Content:
+## Lesson 07 Content:
+
+1. []()
+2. []()
+3. []()
+4. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#lesson-wrap-up)
+5. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#conclusion)
+6. [More content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md#more-content)
 
 ##
 
 ### topic 01
-### content 01
+
 
 ##
 
 ### topic 02
-### content 02
-
-##
-
-### topic 03
-### content 03
-
-##
-
-### topic 04
-### content 04
 
 
 ---
@@ -38,4 +33,4 @@ Falar de if de novo
 
 ---
 
-## More content
+### More content:
