@@ -1,18 +1,16 @@
-# Exercício Python 052 - Números primos
+# Exercise 052 - Prime Numbers
 
-'''Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.'''
+'''Write a program that reads an integer and tells whether or not it is a prime number.'''
 
-número = int(input('Insira um valor: '))
-# Números primos são maiores que 1
-if número > 1:
-    for i in range(2,número):
-        if (número % i) == 0:
-            print(f'{número} Não é um número primo!')
-            print(f'{i} x {número // i} é {número}')
-            break
-    else:
-        print(f'{número} é um número primo!')
+number = int(input('Enter a number: '))
+total = 0
 
-# Se o número for <= 1, não primo
+for i in range(1, number + 1):
+    if number % i == 0:
+        total += 1
+print(f'The number {number} was divided {total} times ')
+if total == 2:
+    print(f'The number {number} is prime')
 else:
-    print(f'{número} Não é um número primo!')
+    print(f'{number} isn\'t prime')
+    
