@@ -6,6 +6,13 @@
 
 ## Lesson 06 Content:
 
+1. [If... else](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md#if-else)
+2. [If...elif...elif... else](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md#ifelifelif-else)
+3. [Atention](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md#atention)
+4. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md#lesson-wrap-up)
+5. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md#conclusion)
+6. [More content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md#more-content)
+
 ### If... else
 
 The if statement is one of the most basic control structures, it basically follows this flowchart:
@@ -141,5 +148,5 @@ In this lesson we will talk about if, elif and else, in the next one we will tal
 
 ## More content
 
-[Creator of Python Programming Language, Guido van Rossum | Oxford Union](https://www.youtube.com/watch?v=7kn7NtlV6g0)
-[If... Else](https://www.w3schools.com/python/python_conditions.asp)
+- [Creator of Python Programming Language, Guido van Rossum | Oxford Union](https://www.youtube.com/watch?v=7kn7NtlV6g0)
+- [If... Else](https://www.w3schools.com/python/python_conditions.asp)
