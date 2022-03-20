@@ -6,18 +6,26 @@
 
 ## Lesson 08 Content:
 
-1. []()
-2. []()
-3. []()
-4. []()
-5. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#lesson-wrap-up)
-6. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#conclusion)
-7. [More Content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#more-content)
+1. [Python for loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#python-for-loops)
+2. [Looping Through a String](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#looping-through-a-string)
+3. [The break Statement](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-break-statement)
+4. [The continue Statement](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-continue-statement)
+5. [The range() Function](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-range-function)
+6. [https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#else-in-for-loop](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#else-in-for-loop)
+7. [Nested Loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#nested-loops)
+8. [The pass Statement](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#the-pass-statement)
+9. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#lesson-wrap-up)
+10. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#conclusion)
+11. [More Content](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md#more-content)
 
 
 ##
 
 ### Python for loops:
+
+A loop to is called a looping structure with control variable. It is used when there is a defined amount of repetitions to execute.
+
+![flowchart-for-loop 003-1024x576](https://user-images.githubusercontent.com/64812097/159174654-a27e3a2e-72d8-4e73-a1ae-1a95e9ce030f.jpeg)
 
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
@@ -123,9 +131,11 @@ for x in adj:
 
 for loops cannot be empty, but if you for some reason have a for loop with no content, put in the pass statement to avoid getting an error.
 
+````python
 Example
 for x in [0, 1, 2]:
   pass
+````
 ## 
 
 
