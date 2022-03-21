@@ -1,9 +1,8 @@
-# Exercício Extra 002
+# Extra Exercise 002
 
-'''Escreva um programa que solicite ao usuário as horas e o valor da taxa 
-por horas para calcular o valor a ser pago por horas de serviço.'''
+'''Write a program that prompts the user for the hours and fee amount
+per hours to calculate the amount to be paid for hours of service.'''
 
-horas = float(input('Digite a quantidade de horas: '))
-taxa = float(input('Digite o valor da taxa: '))
-print('O valor a ser pago é: US$', horas * taxa)
-
+hours = float(input('Enter the number of hours: '))
+fee = float(input('Enter the fee amount: '))
+print('The amount to be paid is: US$', horas * taxa)
