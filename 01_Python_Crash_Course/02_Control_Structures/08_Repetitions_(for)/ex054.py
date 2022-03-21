@@ -28,5 +28,5 @@ for i in range(1, 8):
         print('Wrong number.')
 
 # 5. We print everything
-print(f'There are {count_majors} people of legal age de idade.') 
-print(f'There are {count_minors} underage.')
+print(f'There are {count_majors} people of legal age.') 
+print(f'and {count_minors} people underage.')
