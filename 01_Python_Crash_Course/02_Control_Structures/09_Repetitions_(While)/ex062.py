@@ -1,21 +1,27 @@
-# Exercício Python #062 - Super Progressão Aritmética v3.0
-'''Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. 
-O programa encerrará quando ele disser que quer mostrar 0 termos.'''
+# Exercise 062 - Super Arithmetic Progression v3.0
 
-primeiro_termo = int(input('Qual o primeiro termo da Progressão Aritmética: '))
-razao = int(input('Qual a razão de progressão: '))
-termo = primeiro_termo
-c = 1
+'''Improve CHALLENGE 061 by asking the user if he wants to show some more terms.
+The program will terminate when it says it wants to display 0 terms.'''
+
+'''The difference between this program and the previous one is that 
+we create two new flags and add one more loop level'''
+
+first_term = int(input('Enter the first term: '))
+r = int(input('Enter the common difference: '))
+term = first_term
+counter = 1
+
+'''We create the total, to replace our logical test, 
+and the variable plus, to add new terms to our pa'''
 total = 0
-mais = 10
-while mais != 0:
-    total += mais
-    while c <= total:
-        print(f'{termo} ->', end=' ')
-        termo += razao
-        c += 1
-
-    print('PAUSA')
-    mais = int(input('Quantos termos você quer mostrar a mais: '))
-print(f'O número total de termos foi {total}')
-print('FIM')
+plus = 10
+while plus != 0:
+    total += plus
+    while counter <= total:
+        print(f'{term} ->', end=' ')
+        term += r
+        counter += 1
+    print('Stop!')
+    plus = int(input('How many terms do you want to add: '))
+print(f'The total number of terms was {total}')
+print('End')
