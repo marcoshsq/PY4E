@@ -121,17 +121,17 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Level 08 - [Making Python sweat with for loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md)
 
-- Exercise 46 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex046.py)
-- Exercise 47 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex047.py)
-- Exercise 48 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex048.py)
-- Exercise 49 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex049.py)
-- Exercise 50 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex050.py)
-- Exercise 51 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex051.py)
-- Exercise 52 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex052.py)
-- Exercise 53 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex053.py)
-- Exercise 54 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex054.py)
-- Exercise 55 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex055.py)
-- Exercise 56 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex056.py)
+- Exercise 46 - [Countdown](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex046.py)
+- Exercise 47 - [Counting evens](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex047.py)
+- Exercise 48 - [Sum of odd multiples of three](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex048.py)
+- Exercise 49 - [Multiplication Table v.2.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex049.py)
+- Exercise 50 - [Sum of pairs](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex050.py)
+- Exercise 51 - [Arithmetic Progression](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex051.py)
+- Exercise 52 - [Prime Numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex052.py)
+- Exercise 53 - [Palindrome Detector](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex053.py)
+- Exercise 54 - [Majority Group](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex054.py)
+- Exercise 55 - [Highest and lowest of the Sequence](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex055.py)
+- Exercise 56 - [Complete analyzer](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex056.py)
 
 ### Level 09 - [Making Python sweat with while loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_09_While_(making%20Python_sweat_with_more_Loops).md)
 
