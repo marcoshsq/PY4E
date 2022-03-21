@@ -1,34 +1,34 @@
-# Exercício Extra 008
+# Extra Exercise 008
 
-'''Tendo como dado de entrada a altura (h) de uma pessoa, 
-construa um algoritmo que calcule seu peso ideal, 
-utilizando as seguintes fórmulas:
-Para homens: (72.7*h) - 58
-Para mulheres: (62.1*h) - 44.7'''
+'''Having as input the height (h) of a person,
+build an algorithm that calculates its ideal weight,
+using the following formulas:
+For men: (72.7*h) - 58
+For women: (62.1*h) - 44.7'''
 
-# Primeiro, vou definir uma função para cada equação.
+# First, I'll define a function for each equation.
 
 
-def male(mh) :              # Função para homens
+def male(mh) :              # Function for men
     m = (72.7*mh) - 58
     return m
 
-def female(fh) :            # Função para mulheres
+def female(fh) :            # Function for women
     f = (62.1*fh) - 44.7
     return f
 
-# Depois fazer perguntar o sexo ao user.
+# Then ask the user for the gender.
 
 sex = input('What is your gender? Male or Female: ').lower()
 
-# Usando condições posso chamar cada função para o genêro específico.
+# Using conditions I can call each function for the specific genre.
 
-if sex == 'male' :      # Se forem homens.
+if sex == 'male' :      # If they are men.
     male_height = float(input('What is your height? (In meters) '))
     male_imc = male(male_height)
     print(f'Your ideal weight is {male_imc:.2f} Kg')
 
-elif sex == 'female' :      # Se forem mulheres.
+elif sex == 'female' :      # If they are women.
     female_height = float(input('What is your height? (In meters) '))
     female_imc = female(female_height)
     print(f'Your ideal weight is {female_imc:.2f} Kg')
