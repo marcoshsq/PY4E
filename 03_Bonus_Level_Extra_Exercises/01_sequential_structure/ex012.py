@@ -1,3 +1,5 @@
+import math
+
 # Extra Exercise 012
 
 '''Make a Program for a paint shop:
@@ -14,43 +16,46 @@ c) mix cans and gallons, so that paint waste is less.
 
 Add 10% clearance and always round the values up, ie, consider full cans.'''
 
+# 1. We create our variables, storing the values of the utterance
+square_meter_per_liter = 6
+gallon_price = 80
+liters_gallon = 18
+can_price = 25
+liters_can = 3.6
+safety_margin = 1.1
 
-import math
+# 2. We ask how many square meters will be painted
+square_meter = float(input('inform the amount of square meters (m²) to be painted:'))
 
-M2_POR_LITRO = 6
-PRECO_GALAO = 80
-LITROS_GALAO = 18
-PRECO_LATA = 25
-LITROS_LATA = 3.6
-MARGEM_SEGURANCA = 1.1
+# 3. We define how much paint will be consumed per square meter with the safety margin
+consumption_liter = square_meter / square_meter_per_liter * safety_margin
 
+# 4. For 18L gallons only
+only_gallons = math.ceil(consumption_liter / liters_gallon)
+only_gallons_price = only_gallons * gallon_price
 
-m2 = float(input('informe a quantidade de METRO QUADRADO (m²) a ser pintado: '))
+# 5. For 3.6L cans only
+only_cans = math.ceil(consumption_liter / liters_can)
+only_cans_price = only_cans * can_price
 
-consumo_litro = m2 / M2_POR_LITRO * MARGEM_SEGURANCA
+# 6. Mixing cans and gallons
+mixed_gallons_qty = consumption_liter // liters_gallon
+mixed_cans_qty = math.ceil((consumption_liter - mixed_gallons_qty * liters_gallon) / liters_can)
+mixed_gallons_price = mixed_gallons_qty * gallon_price
+mixed_cans_price = mixed_cans_qty * can_price
 
-qtd_galao_apenas = math.ceil(consumo_litro / LITROS_GALAO)
-valor_galao_apenas = qtd_galao_apenas * PRECO_GALAO
-
-qtd_lata_apenas = math.ceil(consumo_litro / LITROS_LATA)
-valor_lata_apenas = qtd_lata_apenas * PRECO_LATA
-
-qtd_galao_misto = consumo_litro // LITROS_GALAO
-qtd_lata_misto = math.ceil((consumo_litro - qtd_galao_misto * LITROS_GALAO) / LITROS_LATA)
-valor_galao_misto = qtd_galao_misto * PRECO_GALAO
-valor_lata_misto = qtd_lata_misto * PRECO_LATA
-
-print()
-print(f'o consumo de tinta é: {consumo_litro:.2f} LITROS')
-print()
-print(f'a quantidade de GALOES de 18 LITROS a ser usado é: {qtd_galao_apenas:.0f}')
-print(f'o valor total em GALOES de 18 LITROS é: R$ {valor_galao_apenas:.2f}')
-print()
-print(f'a quantidade de LATAS de 3,6 LITROS a ser usado é: {qtd_lata_apenas:.0f}')
-print(f'o valor total em LATAS de 3,6 LITROS é: R$ {valor_lata_apenas:.2f}')
-print()
-print('considerando o menor desperdíciode tinta, temos:')
-print(f'quantidade galões: {qtd_galao_misto:.0f}')
-print(f'quantidade latas: {qtd_lata_misto:.0f}')
-print(f'quantidade total mistas: {qtd_galao_misto + qtd_lata_misto:.0f}')
-print(f'valor total considerando GALOES e LATAS é: R$ {valor_galao_misto + valor_lata_misto:.2f}')
+# 7. We print everything
+print('-=' * 10)
+print(f'Paint consumption is: {consumption_liter:.2f} Liters')
+print('-=' * 10)
+print(f'The quantity of 18 liter gallons to be used is: {only_gallons:.0f}L')
+print(f'The total value of 18 liter gallons is: R${only_gallons_price:.2f}')
+print('-=' * 10)
+print(f'The quantity of 3.6 liter cans to be used is: {only_cans:.0f}')
+print(f'The total value of 3.6 liter cans is: R${only_cans_price:.2f}')
+print('-=' * 10)
+print('Considering the smallest waste of paint, we have:')
+print(f'Quantity of gallons: {mixed_gallons_qty:.0f}')
+print(f'Quantity of cans: {mixed_cans_qty:.0f}')
+print(f'Mixed total amount: {mixed_gallons_qty + mixed_cans_qty:.0f}')
+print(f'And the total value considering gallons and cans is: R$ {mixed_gallons_price + mixed_cans_price:.2f}')
