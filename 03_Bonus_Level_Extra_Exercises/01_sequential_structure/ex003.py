@@ -1,9 +1,8 @@
-# Exercício Extra 003
+# Extra Exercise 003
 
-'''Escreva um programa que solicite ao usuário uma temperatura Celsius, 
-converta para Fahrenheit, e mostre a temperatura convertida.'''
+'''Write a program that prompts the user for a Celsius temperature, convert to Fahrenheit, and show the converted temperature.'''
 
-print('Conversor de temperatura')
-celcius = float(input('Insira a temperatura em celcius: '))
-a = (celcius*9/5)+32
-print('A temperatura em fahrenheit é:', a, 'º fahrenheit')
+print('Temperature converter')
+celcius = float(input('Enter the temperature in Celsius: '))
+x = (celcius*9/5)+32
+print('The temperature in Fahrenheit is:', x, 'º fahrenheit')
