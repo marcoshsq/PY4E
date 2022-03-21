@@ -1,8 +1,6 @@
 # Extra Exercise 008
 
-'''Having as input the height (h) of a person,
-build an algorithm that calculates its ideal weight,
-using the following formulas:
+'''Having as input the height (h) of a person, build an algorithm that calculates its ideal weight, using the following formulas:
 For men: (72.7*h) - 58
 For women: (62.1*h) - 44.7'''
 
