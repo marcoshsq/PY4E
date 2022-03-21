@@ -4,12 +4,12 @@ showing the first 10 terms of the progression using the while structure.'''
 
 
 first_term = int(input('Enter the first term: '))
-c_d = int(input('Enter the common difference: '))
+r = int(input('Enter the common difference: '))
 term = first_term
 counter = 1
 while counter <= 10:
     print(f'{term} ->', end=' ')
-    term += c_d
+    term += r
     counter += 1
 
 print('End')
