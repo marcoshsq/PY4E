@@ -41,16 +41,16 @@ You're not required to memorize anything that's here, but if you ever need to us
 3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
     - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10---tuples)
     - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11---lists)
-    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/README.md#level-12---dictionaries)
+    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12---dictionaries)
     - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13---functions)
-    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course/edit/main/README.md#level-14---modularization)
+    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization)
     - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---files)
     - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---classes)
     - 17.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 
 4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
  
-5. [Useful links](https://github.com/marcoshsq/Python_Crash_Course/blob/main/README.md#useful-links)
+5. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
 
 ---
 
