@@ -1,19 +1,28 @@
-# Welcome to Python (ﾉ◕ヮ◕)ﾉ ヽ(o＾▽＾o)/ (◕‿◕✿)		.
-# Work in progress
+# Welcome to Python! Work in progress
 
-If you found this "Crash Course", first of all welcome, I am very happy that you decided to use some of the materials I present here, knowledge only exists when it is shared and if this repository helps someone I'll feel super fulfilled.
+If you found this repository, first of all welcome, I hope that some of the materials present here can help you in your studies.
 
-The idea of this repository is to offer some kind of python course in the most ELI5 way, in it you will find notes regarding the concepts covered called "Lessons", along with a list of solved exercises for practice (I recommend you to do them before seeing the solutions).
+Like you, I'm also learning python, and I'm studying with different materials (books, websites, courses, youtube and etc.), and I had created this repository just to store the exercises that I was solving during my studies, and also to learn some code versioning using git and github.
 
-This is an introductory course and the concepts covered here are: Basic Syntax, Variables and Data Type, Conditionals, Type Casting and Exceptions, Functions and Built In Functions, Lists, Tuples, Sets, Dictionaries and some more things. ヽ(^◇^*)/
+However, looking at my notebooks, and all the exercises that I was solving, I thought that, instead of just putting the solved exercises here, why not contextualize them. That's where the idea for this repository came from, which I'm calling Python Crash Course. Where I basically put dozens of notes I made during my studies, plus all the exercises I solved and a series of useful links that if you, like me, are also learning Python, you'll want to keep some of this material saved. Anyway, knowledge only exists when it is shared and if this repository helps someone I will feel super accomplished.
 
-Btw I'm using the Python 3 version.
+In summary what you will find here is: A lesson, where I explain a little theory, after that a series of exercises, which were solved by me, so if you have any doubts, you can send me a message, but the most difficult ones are well explained step by step. And in each lesson, I made sure to put one or more links to materials that I found relevant.
+
+This is an introductory course and the concepts covered range from Python 3 basics to composite structures. In all, there will be more than 150 exercises solved and at the end there will be some larger projects applying all the knowledge acquired.
+
+Anyway, that's it. Again, welcome and I hope you enjoy what you find here.
+
+ヽ(^◇^*)/
 
 ---
 
 ## Course Syllabus:
-Once again, welcome to this course, the purpose of this is to teach you the basics of the Python language in the most practical way, offering you dozens of exercises to practice, because practice makes permanent. In addition I'll list extra materials for further research and studies. That's it, and good luck u.u
 
+The purpose of this repository is to teach you the basics of the Python language (using Python 3) in the most practical way, offering you dozens of exercises to practice (because practice makes permanent).
+
+But it is very important to point out, this is not a traditional course, and I do not intend to take you by hand and guide you, so I strongly encourage you to research, this is the reason why I listed so many materials, research, research and research.
+
+You're not required to memorize anything that's here, but if you ever need to use it, you need to know where to refresh your memory. That's it and good luck u.u
 ### Course content:
 
 1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
