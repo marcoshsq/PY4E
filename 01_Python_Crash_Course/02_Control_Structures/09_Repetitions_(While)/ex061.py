@@ -1,16 +1,15 @@
-# Exercício Python #061 - Progressão Aritmética v2.0
-'''Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, 
-mostrando os 10 primeiros termos da progressão usando a estrutura while.
-'''
+# Exercise 061 - Arithmetic Progression v2.0
+'''Redo CHALLENGE 051, reading the first term and the ratio of an AP, 
+showing the first 10 terms of the progression using the while structure.'''
 
 
-primeiro_termo = int(input('Qual o primeiro termo da Progressão Aritmética: '))
-razao = int(input('Qual a razão de progressão: '))
-termo = primeiro_termo
-c = 1
-while c <= 10:
-    print(f'{termo} ->', end=' ')
-    termo += razao
-    c += 1
+first_term = int(input('Enter the first term: '))
+c_d = int(input('Enter the common difference: '))
+term = first_term
+counter = 1
+while counter <= 10:
+    print(f'{term} ->', end=' ')
+    term += c_d
+    counter += 1
 
-print('FIM')
+print('End')
