@@ -1,25 +1,27 @@
-# Exercício Extra 009
+# Extra Exercise 009
 
-'''João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. 
-Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo 
-(50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. 
-João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. 
-Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. 
-Imprima os dados do programa com as mensagens adequadas.'''
+'''João, a good man, bought a computer to monitor the daily income of his work.
 
-# Para cada kg acima dos 50kg estabelecidos, multa de R$4,00 por kg excedente;
-# Criar um programa que leia a quantidade de peixe em kg e diga o excedente;
-# Criar uma variável que receba o valor a mais;
-# Calcular o valor da multa.
+Every time he brings in a weight of fish greater than that established by the state fishing regulations (50 kilos) he must pay a fine of R$4.00 per excess kilo.
 
-peso = float(input('Insira o número de kilos de peixe: '))
+João needs you to write a program that reads the variable weight (weight of fish) and calculates the excess.
+
+Record in the excess variable the amount of kilos beyond the limit and in the fine variable the amount of the fine that João must pay.
+Print the program data with the appropriate messages.'''
+
+# For each kg above the established 50kg, a fine of R$4.00 per excess kg;
+# Create a program that reads the amount of fish in kg and says the surplus;
+# Create a variable that receives the extra value;
+# Calculate the amount of the fine.
+
+peso = float(input('Enter the number of kilograms of fish: '))
 if peso > 50 :
     excedente = peso - 50
     multa = excedente * 4
-    print(f'Você possui {excedente}kg a mais do que o permitido')
-    print(f'O valor da multa é de R${multa}')
+    print(f'You have {excedente}kg more than allowed')
+    print(f'The amount of the fine is R${multa}')
 elif peso <= 50 :
-    print('Quantidade dentro do permitido')
+    print('Quantity within the allowed')
 else :
     print('Nothing')
     
