@@ -247,98 +247,37 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ## Bonus Level - Extra Exercises
 
-### Extra exercises 01 - Sequential Structures:
+### Extra exercises 01 - Sequential Structures - (012 exercises in total):
 
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
-
-### Extra exercises 02 - Decision Structure
-
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
-
-### Extra exercises 03 - Repetition Structure
-
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
-
-### Extra exercises 04 - Lists
-
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
-
-### Extra exercises 05 - Functions
-
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
-
-### Extra exercises 05 - Strings
-
-- Exercise 01 -
-- Exercise 02 -
-- Exercise 03 -
-- Exercise 04 -
-- Exercise 05 -
-- Exercise 06 -
-- Exercise 07 -
-- Exercise 08 -
-- Exercise 09 -
-- Exercise 10 -
-- Exercise 11 -
-- Exercise 12 -
+- List with the proposed exercises: [Extra List 01](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/Extra_List_01.md)
+- List of solved exercises: [Solved List 01](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/01_sequential_structure)
 
 
 
+### Extra exercises 02 - Decision Structure - (xx exercises in total):
+
+- List with the proposed exercises: [Extra List 02]()
+- List of solved exercises: [Solved List 02]()
+
+### Extra exercises 03 - Repetition Structure - (xx exercises in total):
+
+- List with the proposed exercises: [Extra List 03]()
+- List of solved exercises: [Solved List 03]()
+
+### Extra exercises 04 - Lists - (xx exercises in total):
+
+- List with the proposed exercises: [Extra List 04]()
+- List of solved exercises: [Solved List 04]()
+
+### Extra exercises 05 - Functions - (xx exercises in total):
+
+- List with the proposed exercises: [Extra List 05]()
+- List of solved exercises: [Solved List 05]()
+
+### Extra exercises 06 - Strings - (xx exercises in total):
+
+- List with the proposed exercises: [Extra List 06]()
+- List of solved exercises: [Solved List 06]()
 
 ---
 
