@@ -1,4 +1,4 @@
-# Exercise #059 - Creating an Options Menu
+# Exercise 059 - Creating an Options Menu
 
 '''Create a program that reads two values and displays a menu on the screen:
 [ 1 ] sum
