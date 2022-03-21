@@ -1,23 +1,19 @@
-# Exercício Python #060 - Cálculo do Fatorial
-'''Faça um programa que leia um número qualquer e mostre o seu fatorial.
+# Exercise 060 - Factorial Calculation
+'''Make a program that reads any number and displays its factorial.
+Example: 5! = 5 x 4 x 3 x 2 x 1 = 120'''
 
-Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120'''
+number = int(input('Enter a number: '))
 
+flag = 1
+tracker = number
 
-'''n = int(input('Insira um valor: '))
-factorial = 1
-while n > 1:
-    factorial = factorial * n
-    n = n - 1
-print(factorial)'''
+while tracker > 0:
+    print(f'{tracker}',end=' ')
+    if tracker > 1:
+        print(' x ')
+    else:
+        print(' = ')
+    flag *= tracker
+    tracker -= 1
 
-
-n = int(input('Insira um valor: '))
-f = 1
-c = n
-while c > 0:
-    print(f'{c}',end=' ')
-    print(' x ' if c > 1 else ' = ', end=' ')
-    f *= c
-    c -= 1
-print(f)
+print(flag)
