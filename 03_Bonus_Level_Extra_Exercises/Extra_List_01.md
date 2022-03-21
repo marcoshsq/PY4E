@@ -1,4 +1,4 @@
-# Extra list of exercises - Sequential Structures
+# Extra list 01 - Sequential Structures 
 
 ### A list of extra exercises for those who are eager to learn. (づ｡◕‿‿◕｡)づ
 
@@ -35,10 +35,10 @@ The exercises vary in difficulty, some being trivial, others quite challenging.
 - Exercise 009 - João, a good man, bought a computer to monitor the daily income of his work. Every time he brings in a weight of fish greater than that established by the state fishing regulations (50 kilos) he must pay a fine of R$4.00 per excess kilo. João needs you to write a program that reads the variable weight (weight of fish) and calculates the excess. Record in the excess variable the amount of kilos beyond the limit and in the fine variable the amount of the fine that João must pay.
 Print the program data with the appropriate messages. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/01_sequential_structure/ex009.py)
 
-    # For each kg above the established 50kg, a fine of R$4.00 per excess kg;
-    # Create a program that reads the amount of fish in kg and says the surplus;
-    # Create a variable that receives the extra value;
-    # Calculate the amount of the fine. 
+    - For each kg above the established 50kg, a fine of R$4.00 per excess kg;
+    - Create a program that reads the amount of fish in kg and says the surplus;
+    - Create a variable that receives the extra value;
+    - Calculate the amount of the fine. 
 
 
 - Exercise 010 - Make a program that asks how much you earn per hour and the number of hours worked in the month. Calculate and show the total of your salary in that month, knowing that 11% is deducted for Income Tax, 8% for the INSS and 5% for the union, make a program that gives us: - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/01_sequential_structure/ex010.py)
