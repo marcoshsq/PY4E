@@ -1,46 +1,48 @@
-# Exercício Python 056 - Analisador completo
+# Exercise 056 - Complete analyzer
 
-'''Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. 
-No final do programa, mostre: 
-- a média de idade do grupo;
-- qual é o nome do homem mais velho;
-- quantas mulheres têm menos de 20 anos.'''
+'''Develop a program that reads the name, age and gender of 4 people.
+At the end of the program, show:
+- the average age of the group;
+- what is the name of the oldest man;
+- how many women are under 20 years old.'''
+
+# 1. Our trackers and accumulators
+sum_age = 0
+oldest_name = ' '
+age_oldest = 0
+women = 0
 
 
-soma_idade = 0
-nome_mais_velho = ' '
-idade_mais_velho = 0
-mulheres = 0
-
-
-# Primeiro fazer as perguntas: 
+# 1. First we ask the questions 
 
 for i in range(1,5):
-    print(f'-----{i}° pessoa -----')
-    nome = str(input('Qual o seu nome: ')).strip()
-    idade = int(input('Qual a sua idade: '))
-    sexo = str(input('Qual o seu sexo [M/F]: ')).strip().upper()
+    print(f'-----For the {i}° person -----')
+    name = str(input('What\'s your name: ')).strip()
+    age = int(input('What\'s your age: '))
+    sex = str(input('What\'s your sex:[M/m for male | F/f for female] ')).strip().upper()
 
-    # Para a média de idade:
-    soma_idade += idade
+    # 3. For the average age, let's add it all up here
+    sum_age += age
     
-    # Para o homem mais velho:
-    if i == 1 and sexo in 'Mm':
-        idade_mais_velho = idade
-        nome_mais_velho = nome
-    elif sexo in 'Mm' and idade > idade_mais_velho:
-        idade_mais_velho = idade
-        nome_mais_velho = nome
+    # 4. For the eldest man's name
+    if i == 1 and sex in 'Mm':
+        age_oldest = age
+        oldest_name = name
+
+    # We're following the same logic from the last program
+    else:
+        if sex in 'Mm' and age > age_oldest:
+            age_oldest = age
+            oldest_name = name
 
 
-    # Para mulheres com menos de 20 anos:
+    # 5. For women under 20:
+    if sex in 'Ff' and age < 20:
+        women += 1
 
-    if sexo in 'Ff' and idade < 20:
-        mulheres += 1
+average_age = sum_age / 4
 
-media = soma_idade / 4
-
-
-print(f'A média de idade do grupo é de {media} anos!')
-print(f'O homem mais velho tem {idade_mais_velho}, e se chama {nome_mais_velho}')
-print(f'Ao todo temos {mulheres} mulheres com mais de 20 anos')
+# 6. print u.u
+print(f'The average age of the group is {average_age} years!')
+print(f'The older man has {age_oldest}, and it\'s called {oldest_name}')
+print(f'In all we have {women} women under 20 years old')
