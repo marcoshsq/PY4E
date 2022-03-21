@@ -1,29 +1,32 @@
-# Exercício Python 054 - Grupo da Maioridade
-
-'''Crie um programa que leia o ano de nascimento de sete pessoas. 
-No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.'''
-
-# Primeiro: Obter o ano atual:
 from datetime import datetime
-ano_atual = datetime.now().year
 
-# Segundo: Contadores:
-cont_maiores = 0
-cont_menores = 0
+# Exercise 054 - Majority Group
 
-# Terceiro: Ler o ano de nascimento 7x:
+'''Create a program that reads the birth year of seven people.
+And show how many people are underage and who is an adult.'''
+
+# 1. Get the current year
+current_year = datetime.now().year
+
+# 2. trackers
+count_majors = 0
+count_minors = 0
+
+# 3. Ask 7x a person's birthday and get their age
 for i in range(1, 8):
-    ano = int(input('Insira o seu ano de nascimento: '))
+    birthdate_year = int(input('Enter your birthdate year: '))
+    age = current_year - birthdate_year
 
-# Quarto: Lógica do programa:
-    if ano_atual - ano >= 18:
-        cont_maiores += 1
+# 4. The logic of our program
+    if age >= 21:
+        count_majors += 1
 
-    elif ano_atual - ano < 18:
-        cont_menores += 1   
+    elif age < 21:
+        count_minors += 1   
 
     else: 
-        print('Dados invalidos.')
+        print('Wrong number.')
 
-print(f'Existem {cont_maiores} maiores de idade.') 
-print(f'Existem {cont_menores} menores de idade.')
+# 5. We print everything
+print(f'There are {count_majors} people of legal age de idade.') 
+print(f'There are {count_minors} underage.')
