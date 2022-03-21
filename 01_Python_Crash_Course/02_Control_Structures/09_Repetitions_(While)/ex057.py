@@ -1,22 +1,29 @@
-# Exercício Python #057 - Validação de Dados
-'''Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. 
-Caso esteja errado, peça a digitação novamente até ter um valor correto.'''
+# Exercise #057 - Data Validation
 
-controle = 0 
-while controle == 0:
-    sexo = input('Insira o seu gênero [M/F]:').strip().upper()[0]
+'''Make a program that reads a person's sex, but only accepts 'M' or 'F' values.
+If it is wrong, ask for the typing again until you have a correct value.'''
+
+# Create our control variable
+control = 0 
+
+# Here we start our loop with our control variable equals 0
+while control == 0:
+
+    # We put our question inside the loop, so it will repeat itself until the condition is met
+    sexo = input('Enter your sex [M/F]:').strip().upper()[0]
     if sexo == 'M' or sexo == 'F':
-        controle += 1
+        control += 1
+
         if sexo == 'M':
-            print('Você escolheu Masculino')
+            print('You chose male')
         else:
-            print(f'Você escolheu Feminino')
+            print(f'You chose female')
     else:
-        print('Dados incorretos, por favor tente de novo!')
+        print('Wrong data, please type again!')
 
 
-# outra forma mais simples
-sexo = input('Insira o seu gênero [M/F]:').strip().upper()[0]
+# another simpler way
+sexo = input('Enter your sex [M/F]:').strip().upper()[0]
 while sexo not in 'MmFf':
-    sexo = input('Dados incorretos, por favor insira o seu sexo [M/F]:').strip().upper()[0]
-print(sexo)
+    sexo = input('Wrong data, please type again:').strip().upper()[0]
+print(f'You chose {sexo}')
