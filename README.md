@@ -318,4 +318,4 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 "For those who prove worthy... Paradise awaits!!"
 
 ---
-[Go back to the top](https://github.com/marcoshsq/Python_Crash_Course#welcome-to-python-work-in-progress)
+[Go back to the top](https://github.com/marcoshsq/Python_Crash_Course#welcome-to-python)
