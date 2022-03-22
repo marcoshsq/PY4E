@@ -256,7 +256,12 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 11 - []()
 - Exercise 12 - []()
 
-### Final Level - [Projects]()
+## Final Level - [Projects]()
+
+### General list of [suggested projects](https://github.com/marcoshsq/Python_Crash_Course/edit/main/02_Final_Level_Projects/Suggested_projects.md) and it's descriptions.
+
+- [Odd or Even Game](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/odd_or_even_game.py)
+
 
 
 
