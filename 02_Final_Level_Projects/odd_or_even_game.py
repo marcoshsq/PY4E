@@ -1,31 +1,3 @@
-'''Whenever you are going to do a program that requires many lines, or that requires some more advanced logic, 
-write a script of what you want to do, and if you are already a little more advanced in programming, 
-create a general skeleton of the program, with the steps than you need to add.'''
-
-# 1. We import the packages we are going to use, as we are going to make the computer choose something random, 
-# we need random, and we import the team, to give the game a thrill
-
-# 2. First, we want to show the number of times the player has won, so we will create an adder
-# 3. We create our loop, and we will leave it with True, and we will use break to break
-# 4. We ask the user, we will only consider integers
-
-# 5. Exception control, let's limit our player to a number from 0 to 10
-# So we have two situations to deal with. Player chooses a number less than 0, or player chooses a number greater than 10
-
-# 6. If between 0 and 10, then we ask, odd or even?
-
-# 7. If user chose even, then we do the calculations and if he won
-# 7.1 User chose even and won
-# 7.2 User chose even and loose
-
-# 8. If user chose odd, then we do the calculations and if he won
-# 8.1 User chose odd and won
-# 8.2 User chose odd and loose
-
-# 9. If the user does not choose even or odd
-# 10. If the player wants to stop
-
-
 from random import randint
 from time import sleep
 
