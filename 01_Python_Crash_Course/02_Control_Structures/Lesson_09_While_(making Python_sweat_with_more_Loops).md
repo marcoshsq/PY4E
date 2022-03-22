@@ -90,23 +90,33 @@ On the fourth iteration, the condition in while becomes False. Hence, the else p
 
 ##
 
-Exercises u.u:
+Exercises ＼(^ω^＼): (o^▽^o)
 
-57. Exercise 057 -  [Solution]()
-58. Exercise 058 -  [Solution]()
-59. Exercise 059 -  [Solution]()
-60. Exercise 060 -  [Solution]()
-61. Exercise 061 -  [Solution]()
-62. Exercise 062 -  [Solution]()
-63. Exercise 063 -  [Solution]()
-64. Exercise 064 -  [Solution]()
-65. Exercise 065 -  [Solution]()
-66. Exercise 066 -  [Solution]()
-67. Exercise 067 -  [Solution]()
-68. Exercise 068 -  [Solution]()
-69. Exercise 069 -  [Solution]()
-70. Exercise 070 -  [Solution]()
-71. Exercise 071 -  [Solution]()
+57. Exercise 057 - Make a program that reads a person's sex, but only accepts 'M' or 'F' values. If it is wrong, ask for the typing again until you have a correct value. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex057.py)
+58. Exercise 058 - Improve the game of exercise 028 where the computer will "think" of a number between 0 and 10. But now the player will try to guess until he gets it right, showing at the end how many guesses were needed to win. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex058.py)
+59. Exercise 059 - Create a program that reads two values and displays a menu on the screen: [ 1 ] sum; [ 2 ] multiply; [ 3 ] bigger; [ 4 ] add new numbers; [5] exit the program. Your program should perform the requested operation in each case. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex059.py)
+60. Exercise 060 - Make a program that reads any number and displays its factorial. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex060.py)
+61. Exercise 061 - Redo CHALLENGE 051, reading the first term and the ratio of an AP, showing the first 10 terms of the progression using the while structure. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex061.py)
+62. Exercise 062 - Improve CHALLENGE 061 by asking the user if he wants to show some more terms. The program will terminate when it says it wants to display 0 terms. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex062.py)
+63. Exercise 063 - Write a program that reads any integer N and show on the screen the first N elements of a Fibonacci Sequence. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex063.py)
+64. Exercise 064 - Create a program that reads several integers from the keyboard. The program will only stop when the user enters the value 999, which is the stop condition. At the end, show how many numbers were entered and what was the sum between them (disregarding the flag). [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex064.py)
+65. Exercise 065 - Create a program that reads several integers from the keyboard. At the end of execution, show the average of all values and what was the highest and lowest values read. The program should ask the user whether or not he wants to continue typing values. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex065.py)
+66. Exercise 066 - Create a program that reads integers from the keyboard. The program will only stop when the user enters the value 999, which is the stop condition. In the end, show how many numbers were entered and what was the sum between them (disregarding the flag). [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex066.py)
+67. Exercise 067 - Write a program that displays the multiplication table of several numbers, one at a time, for each value entered by the user. The program will stop when the requested number is negative. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex067.py)
+68. Exercise 068 - Make a program that plays odd or even with the computer. The game will only be stopped when the player loses, showing the total number of consecutive wins he had at the end of the game. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex068.py)
+69. Exercise 069 - Create a program that reads the age and gender of multiple people. For each registered person, the program should ask if the user wants to continue or not. At the end, show: [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex069.py)
+ 
+        A) how many people are over 18 years old. 
+        B) how many men were registered. 
+        C) how many women are under 20 years old. 
+
+70. Exercise 070 - Create a program that reads the name and price of multiple products. The program should ask if the user will continue or not. At the end, show: [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex070.py)
+
+        A) what is the total spent on the purchase.
+        B) how many products cost more than R$1000.
+        C) what is the name of the cheapest product. 
+        
+71. Exercise 071 - Create a program that simulates the operation of an ATM. At the beginning, ask the user what will be the amount to be withdrawn (integer) and the program will inform how many bills of each value will be delivered. OBS: consider that the ATM has notes of R$50, R$20, R$10 and R$1. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex071.py)
 
 ---
 
