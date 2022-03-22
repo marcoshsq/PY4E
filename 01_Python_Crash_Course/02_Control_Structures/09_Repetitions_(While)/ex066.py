@@ -1,15 +1,17 @@
-# Exercício Python #066 - Vários números com flag
-'''Crie um programa que leia números inteiros pelo teclado. 
-O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, 
-mostre quantos números foram digitados e qual foi a soma entre elas (desconsiderando o flag).'''
+# Exercise 066 - Multiple numbers with flag
 
-acc = counter = 0
+'''Create a program that reads integers from the keyboard.
+
+The program will only stop when the user enters the value 999, which is the stop condition. In the end,
+show how many numbers were entered and what was the sum between them (disregarding the flag).'''
+
+sum = counter = 0
 while True:
-    n = int(input("Digite inteiros [999 para parar] \n"))
+    n = int(input("Enter a number [999 to stop] \n"))
     if n == 999:
         break
     else:
         counter += 1
-        acc += n
-print(f"Foram digitados {counter} números")
-print(f"A soma entre eles é: {acc}")
+        sum += n
+print(f"were typed in total {counter} numbers")
+print(f'The sum between them is: {sum}')
