@@ -1,10 +1,12 @@
 <div align="center">
 
-# Welcome to Python! (Work in progress)
+# Welcome to Python! 
     
 ![Python](https://user-images.githubusercontent.com/64812097/159325762-5ccedc24-f4dd-4907-8f81-22b1c1142fc1.png)
     
 </div>
+
+## (Work in progress)
 
 If you found this repository, first of all welcome, I hope that some of the materials present here can help you in your studies.
 
@@ -316,4 +318,4 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 "For those who prove worthy... Paradise awaits!!"
 
 ---
-[Go back to start](https://github.com/marcoshsq/Python_Crash_Course#welcome-to-python-%EF%BE%89%E3%83%AE%EF%BE%89-%E3%83%BDoo-%E2%80%BF)
+[Go back to the top](https://github.com/marcoshsq/Python_Crash_Course#welcome-to-python-work-in-progress)
