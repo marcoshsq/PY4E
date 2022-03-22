@@ -1,35 +1,38 @@
-# Exercício Python #070 - Estatísticas em produtos
+# Exercise 070 - Statistics on Products
 
-''' Crie um programa que leia o nome e o preço de vários produtos. 
-O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre:
-A) qual é o total gasto na compra.
-B) quantos produtos custam mais de R$1000.
-C) qual é o nome do produto mais barato. '''
+''' Create a program that reads the name and price of multiple products.
+The program should ask if the user will continue or not. At the end, show:
 
-cheaper_name = ""
-somador = higher = cheaper = 0
+A) what is the total spent on the purchase.
+B) how many products cost more than R$1000.
+C) what is the name of the cheapest product. 
+'''
+
+
+cheaper = ''
+total = highest_price = smallest = counter =  0
 
 while True:
-    name = str(input("Nome do produto: \n"))
-    price = float(input("Preço: \n"))
-    
-    somador += price
+    product = str(input('Enter the product brand: '))
+    price = float(input('Enter the product price: R$'))
+    total += 1
+    counter += 1
 
     if price > 1000:
-        higher += 1
+        highest_price += price    
     
-    if cheaper == 0:
-        cheaper = price
-        cheaper_name = name
-    elif price < cheaper:
-        cheaper = price
-        cheaper_name = name
+    if counter == 1 or price < smallest:
+        smallest = price
+        cheaper = product
 
-    choice = str(input("Inserir mais produtos? [S / N] \n")).strip().upper()
-    
-    if choice == "N":
-        print(f"Total gasto: R${somador:.2f}")
-        print(f"Produtos que custam mais do que R$1.000: {higher}")
-        print(f"O produto mais barato é {cheaper_name}, que custa R${cheaper:.2f}")
+    answer = ' '
+    while answer not in 'YN':
+        answer = str(input('Wish to continue? [Y/N]')).upper().strip()[0]
+    if answer == 'N':
         break
+
+print('-=' * 7, 'Program Ended', '-=' * 7 )
+print(f'The total purchase amount was R${total:.2f}')
+print(f'{highest_price} products cost more than R$1000')
+print(f'The cheapest product {cheaper} was R${smallest:.2f}')
 
