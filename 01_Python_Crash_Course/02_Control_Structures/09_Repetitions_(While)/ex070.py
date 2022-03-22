@@ -15,7 +15,7 @@ total = highest_price = smallest = counter =  0
 while True:
     product = str(input('Enter the product brand: '))
     price = float(input('Enter the product price: R$'))
-    total += 1
+    total += price
     counter += 1
 
     if price > 1000:
