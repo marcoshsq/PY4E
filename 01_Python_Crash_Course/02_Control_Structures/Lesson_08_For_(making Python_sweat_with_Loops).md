@@ -158,17 +158,21 @@ for x in [0, 1, 2]:
 
 Exercises
 
-46. Exercise 046 -  [Solution]()
-47. Exercise 047 -  [Solution]()
-48. Exercise 048 -  [Solution]()
-49. Exercise 049 -  [Solution]()
-50. Exercise 050 -  [Solution]()
-51. Exercise 051 -  [Solution]()
-52. Exercise 052 -  [Solution]()
-53. Exercise 053 -  [Solution]()
-54. Exercise 054 -  [Solution]()
-55. Exercise 055 -  [Solution]()
-56. Exercise 056 -  [Solution]()
+46. Exercise 046 - Write a program that displays a countdown on the screen, going from 10 to 0, with a 1 second pause between. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex046.py)
+47. Exercise 047 - Create a program that displays on the screen all even numbers that are in the range between 1 and 50. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex047.py)
+48. Exercise 048 - Write a program that calculates the sum of all numbers that are multiples of three and that lie in the range 1 to 500. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex048.py)
+49. Exercise 049 - Redo Exercise 009, showing the multiplication table of a number that the user chooses. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex049.py)
+50. Exercise 050 - Develop a program that reads six integers and displays the sum of only those that are even. If the value entered is odd, disregard it. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex050.py)
+51. Exercise 051 - Develop a program that reads the first term and reason of an AP. At the end, show the first 10 terms of this progression. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex051.py)
+52. Exercise 052 - Write a program that reads an integer and tells whether or not it is a prime number. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex052.py)
+53. Exercise 053 - Create a program that reads any sentence and tells if it is a palindrome, disregarding the spaces. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex053.py)
+54. Exercise 054 - Create a program that reads the birth year of seven people. And show how many people are underage and who is an adult. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex054.py)
+55. Exercise 055 - Make a program that reads the weight of five people. At the end, show which was the highest and lowest weight read. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex055.py)
+56. Exercise 056 - Develop a program that reads the name, age and gender of 4 people. At the end of the program, show: [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex056.py)
+
+        - the average age of the group;
+        - what is the name of the oldest man;
+        - how many women are under 20 years old. 
 
 ---
 
