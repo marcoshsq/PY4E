@@ -269,7 +269,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Extra exercises 01 - Sequential Structures - (12 exercises in total):
 
-- List with the proposed exercises: [Extra List 01](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/Extra_List_01.md)
+- List with the proposed exercises: [Extra List 01](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/01_sequential_structure/01_Extra_List_01.md)
 - List of solved exercises: [Solved List 01](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/01_sequential_structure)
 
 
