@@ -74,6 +74,49 @@ Constructors: There's two way to create a tuple, you can either just assign a se
 thistuple = tuple(("apple", "banana", "cherry")) # note the double round-brackets
 print(thistuple)
 ````
+Methods: index which returns the index of the first occurrence of the specified tuple item and count that returns the number of times the specified item appears in the tuple.
+
+Functions: 
+
+len
+Returns an int type specifying number of elements in the collection.
+
+min
+Returns the smallest item from a collection.
+
+max
+Returns the largest item in an iterable or the largest of two or more arguments.
+
+cmp
+Compares two objects and returns an integer according to the outcome.
+
+sum
+Returns a total of the items contained in the iterable object.
+
+sorted
+Returns a sorted list from the iterable.
+
+reversed
+Returns a reverse iterator over a sequence.
+
+all
+Returns a Boolean value that indicates whether the collection contains only values that evaluate to True.
+
+any
+Returns a Boolean value that indicates whether the collection contains any values that evaluate to True.
+
+enumerate
+Returns an enumerate object.
+
+zip
+Returns a list of tuples, where the i-th tuple contains the i-th element from each of the argument sequences or iterables.
+
+Operators:
+
+- [] (index operator): Gives access to a sequence’s element;
+- [::] (slicing): Gives access to a specified range of sequence’s elements,
+- + (concatenation) - Returns a concatenation of two sequences,
+- * (multiple concatenation): Returns a sequence self-concatenated specified amount of times.
 
 ##
 
@@ -95,6 +138,6 @@ Conclusio.
 
 Useful links
 
-- []()
+- [Tuple](https://python-reference.readthedocs.io/en/latest/docs/tuple/)
 - []()
 
