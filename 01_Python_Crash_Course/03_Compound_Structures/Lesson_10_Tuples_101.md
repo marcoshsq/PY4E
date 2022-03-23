@@ -125,38 +125,27 @@ print(my_tuple[:])
 
 Functions: 
 
-len
-Returns an int type specifying number of elements in the collection.
+- len - Returns an int type specifying number of elements in the collection.
 
-min
-Returns the smallest item from a collection.
+- min - Returns the smallest item from a collection.
 
-max
-Returns the largest item in an iterable or the largest of two or more arguments.
+- max - Returns the largest item in an iterable or the largest of two or more arguments.
 
-cmp
-Compares two objects and returns an integer according to the outcome.
+- cmp - Compares two objects and returns an integer according to the outcome.
 
-sum
-Returns a total of the items contained in the iterable object.
+- sum - Returns a total of the items contained in the iterable object.
 
-sorted
-Returns a sorted list from the iterable.
+- sorted - Returns a sorted list from the iterable.
 
-reversed
-Returns a reverse iterator over a sequence.
+- reversed - Returns a reverse iterator over a sequence.
 
-all
-Returns a Boolean value that indicates whether the collection contains only values that evaluate to True.
+- all - Returns a Boolean value that indicates whether the collection contains only values that evaluate to True.
 
-any
-Returns a Boolean value that indicates whether the collection contains any values that evaluate to True.
+- any - Returns a Boolean value that indicates whether the collection contains any values that evaluate to True.
 
-enumerate
-Returns an enumerate object.
+- enumerate - Returns an enumerate object.
 
-zip
-Returns a list of tuples, where the i-th tuple contains the i-th element from each of the argument sequences or iterables.
+- zip - Returns a list of tuples, where the i-th tuple contains the i-th element from each of the argument sequences or iterables.
 
 Operators:
 
