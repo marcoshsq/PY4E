@@ -176,16 +176,14 @@ The mantra you must follow is: "I don't know how to do it, but i know how to goo
 
 ##
 
-Exercises u.u
+Now, is with you. Exercises u.u
 
-- 72. Exercise 072 -  - [Solution]()
-- 73. Exercise 073 -  - [Solution]()
-- 74. Exercise 074 -  - [Solution]()
-- 75. Exercise 075 -  - [Solution]()
-- 76. Exercise 076 -  - [Solution]()
-- 77. Exercise 077 -  - [Solution]()
-
-
+72. Exercise 072 -  - [Solution]()
+73. Exercise 073 -  - [Solution]()
+74. Exercise 074 -  - [Solution]()
+75. Exercise 075 -  - [Solution]()
+76. Exercise 076 -  - [Solution]()
+77. Exercise 077 -  - [Solution]()
 
 ---
 
