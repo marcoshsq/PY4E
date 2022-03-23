@@ -24,8 +24,12 @@ Basically compound structures, are structures... wait for it... compound by more
 ##
 
 ## Lesson 10 Content:
-1. []()
-2. []()
+1. [Tuples](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md#tuples)
+2. [What can I do with Tuples?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md#what-can-i-do-with-tuples)
+3. [Tuples Inception](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md#tuple-inception)
+4. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md#lesson-wrap-up)
+5. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md#conclusion)
+6. [More Content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md#more-content)
 
 ---
 
@@ -198,8 +202,6 @@ In this lesson we start our studies of composite structures with tuples, in the 
 ---
 
 ## More content:
-
-Useful links
 
 - [Tuple](https://python-reference.readthedocs.io/en/latest/docs/tuple/)
 - [Python Tuple](https://www.programiz.com/python-programming/tuple)
