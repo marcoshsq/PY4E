@@ -63,13 +63,17 @@ tuple1 = ("apple", "banana", "cherry")
 tuple2 = (1, 5, 7, 9, 3)
 tuple3 = (True, False, False)
 ```
-    
-    
+     
 ##
 
-### Topic one
+### What can I do with Tuples?
 
-Content
+Constructors: There's two way to create a tuple, you can either just assign a series of comma separeted values to a variable (in todays version of Python the parentheses aren't required anymore), or you can use the tuple() constructor.
+
+````python
+thistuple = tuple(("apple", "banana", "cherry")) # note the double round-brackets
+print(thistuple)
+````
 
 ##
 
