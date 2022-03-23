@@ -225,40 +225,33 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 110 - []()
 - Exercise 111 - []()
 - Exercise 112 - []()
-- Exercise 113 - []()
-- Exercise 114 - []()
+
 
 ### Level 15 - [Files]()
 
-- Exercise 01 - []()
-- Exercise 02 - []()
-- Exercise 03 - []()
-- Exercise 04 - []()
-- Exercise 05 - []()
-- Exercise 06 - []()
-- Exercise 07 - []()
-- Exercise 08 - []()
-- Exercise 09 - []()
-- Exercise 10 - []()
-- Exercise 11 - []()
-- Exercise 12 - []()
+- Exercise 113 - []()
+- Exercise 114 - []()
 
 ### Level 16 - [Classes]()
 
-- Exercise 01 - []()
-- Exercise 02 - []()
-- Exercise 03 - []()
-- Exercise 04 - []()
-- Exercise 05 - []()
-- Exercise 06 - []()
-- Exercise 07 - []()
-- Exercise 08 - []()
-- Exercise 09 - []()
-- Exercise 10 - []()
-- Exercise 11 - []()
-- Exercise 12 - []()
+- Exercise 115 - []()
+- Exercise 116 - []()
+- Exercise 117 - []()
+- Exercise 118 - []()
+- Exercise 119 - []()
+- Exercise 120 - []()
+- Exercise 121 - []()
+- Exercise 122 - []()
+- Exercise 123 - []()
+- Exercise 124 - []()
+- Exercise 125 - []()
+- Exercise 126 - []()
+- Exercise 127 - []()
+- Exercise 128 - []()
+- Exercise 129 - []()
+- Exercise 130 - []()
 
-## Final Level - [Projects]()
+## Final Level - [Projects](https://github.com/marcoshsq/Python_Crash_Course/tree/main/02_Final_Level_Projects)
 
 ### General list of [suggested projects](https://github.com/marcoshsq/Python_Crash_Course/edit/main/02_Final_Level_Projects/Suggested_projects.md) and it's descriptions.
 
@@ -276,30 +269,30 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 
 
-### Extra exercises 02 - Decision Structure - (xx exercises in total):
+### Extra exercises 02 - Decision Structure - (18 exercises in total):
 
-- List with the proposed exercises: [Extra List 02]()
-- List of solved exercises: [Solved List 02]()
+- List with the proposed exercises: [Extra List 02](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/02_decision_structure/01_Extra_List_02.md)
+- List of solved exercises: [Solved List 02](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/02_decision_structure)
 
-### Extra exercises 03 - Repetition Structure - (xx exercises in total):
+### Extra exercises 03 - Repetition Structure - (18 exercises in total):
 
-- List with the proposed exercises: [Extra List 03]()
-- List of solved exercises: [Solved List 03]()
+- List with the proposed exercises: [Extra List 03](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/03_Repetition_Structure/01_Extra_List_03.md)
+- List of solved exercises: [Solved List 03](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/03_Repetition_Structure)
 
-### Extra exercises 04 - Lists - (xx exercises in total):
+### Extra exercises 04 - Lists - (18 exercises in total):
 
-- List with the proposed exercises: [Extra List 04]()
-- List of solved exercises: [Solved List 04]()
+- List with the proposed exercises: [Extra List 04](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/04_Lists/01_Extra_List_04.md)
+- List of solved exercises: [Solved List 04](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/04_Lists)
 
-### Extra exercises 05 - Functions - (xx exercises in total):
+### Extra exercises 05 - Functions - (14 exercises in total):
 
-- List with the proposed exercises: [Extra List 05]()
-- List of solved exercises: [Solved List 05]()
+- List with the proposed exercises: [Extra List 05](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/05_Functions/01_Extra_List_05.md)
+- List of solved exercises: [Solved List 05](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/05_Functions)
 
-### Extra exercises 06 - Strings - (xx exercises in total):
+### Extra exercises 06 - Strings - (14 exercises in total):
 
-- List with the proposed exercises: [Extra List 06]()
-- List of solved exercises: [Solved List 06]()
+- List with the proposed exercises: [Extra List 06](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/06_Strings/01_Extra_List_06.md)
+- List of solved exercises: [Solved List 06](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/06_Strings)
 
 ---
 
