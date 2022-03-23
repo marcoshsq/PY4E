@@ -47,14 +47,14 @@ You're not required to memorize anything that's here, but if you ever need to us
     - 09.[Loops (while)](https://github.com/marcoshsq/Python_Crash_Course#level-09---making-python-sweat-with-while-loops)
 
 3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
-    - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10---tuples)
-    - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11---lists)
-    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12---dictionaries)
-    - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13---functions)
-    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization)
-    - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---files)
-    - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---classes)
-    - 17.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
+    - 10.[Tuples]()
+    - 11.[Lists]()
+    - 12.[Dictionaries]()
+    - 13.[Functions]()
+    - 14.[Modularization]()
+    - 15.[Files]()
+    - 16.[Classes]()
+    - 17.[Projects]()
 
 4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
  
@@ -179,7 +179,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 76 - []() 
 - Exercise 77 - []()
 
-### Level 11 - [Lists]()
+### Level 11 - [Lists FTW](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md)
 
 - Exercise 78 - []()
 - Exercise 79 - []()
@@ -194,7 +194,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 88 - []()
 - Exercise 89 - []()
 
-### Level 12 - [Dictionaries]()
+### Level 12 - [Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md)
 
 - Exercise 90 - []()
 - Exercise 91 - []()
@@ -203,7 +203,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 94 - []()
 - Exercise 95 - []()
 
-### Level 13 - [Functions]()
+### Level 13 - [Getting Serious with Functions](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_13_Getting_serious_with_Functions.md)
 
 - Exercise 96 - []()
 - Exercise 97 - []()
@@ -217,7 +217,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 105 - []()
 - Exercise 106 - []()
 
-### Level 14 - [Modularization]()
+### Level 14 - [Modularization till the End](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_14_Modularization_till_the_end.md)
 
 - Exercise 107 - []()
 - Exercise 108 - []()
@@ -227,12 +227,12 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 112 - []()
 
 
-### Level 15 - [Files]()
+### Level 15 - [A file about Files](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_15_A_file_about_files.md)
 
 - Exercise 113 - []()
 - Exercise 114 - []()
 
-### Level 16 - [Classes]()
+### Level 16 - [Let's finish with Classes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_16_Let's_finish_with_class.md)
 
 - Exercise 115 - []()
 - Exercise 116 - []()
