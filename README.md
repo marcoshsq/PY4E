@@ -26,11 +26,16 @@ Anyway, that's it. Again, welcome and I hope you enjoy what you find here.
 
 ## Course Syllabus:
 
-The purpose of this repository is to teach you the basics of the Python language (using Python 3) in the most practical way, offering you dozens of exercises to practice (because practice makes permanent).
+The purpose of this repository is to teach you the basics of the Python language (using Python 3) in the most practical way, offering you over 200 exercises to practice (because practice makes permanent), and some small projects to sharp your skills. (づ｡◕‿‿◕｡)づ
 
 But it is very important to point out, this is not a traditional course, and I do not intend to take you by hand and guide you, so I strongly encourage you to research, this is the reason why I listed so many materials, research, research and research.
 
-You're not required to memorize anything that's here, but if you ever need to use it, you need to know where to refresh your memory. That's it and good luck u.u
+You're not required to memorize anything that's here, but if you ever need to, you need to know where to refresh your memory. Remember:
+
+### You don't need to know how to do it, but you need to know how to google it!
+
+That's it and good luck u.u
+
 ### Course content:
 
 1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
