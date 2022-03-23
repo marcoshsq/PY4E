@@ -76,6 +76,49 @@ print(thistuple)
 ````
 Methods: index which returns the index of the first occurrence of the specified tuple item and count that returns the number of times the specified item appears in the tuple.
 
+````python
+# Accessing tuple elements using indexing
+my_tuple = ('p','e','r','m','i','t')
+
+print(my_tuple[0])   # 'p' 
+print(my_tuple[5])   # 't'
+
+# IndexError: list index out of range
+# print(my_tuple[6])
+
+# Index must be an integer
+# TypeError: list indices must be integers, not float
+# my_tuple[2.0]
+
+# nested tuple
+n_tuple = ("mouse", [8, 4, 6], (1, 2, 3))
+
+# nested index
+print(n_tuple[0][3])       # 's'
+print(n_tuple[1][1])       # 4
+````
+
+````python
+# Accessing tuple elements using slicing
+my_tuple = ('p','r','o','g','r','a','m','i','z')
+
+# elements 2nd to 4th
+# Output: ('r', 'o', 'g')
+print(my_tuple[1:4])
+
+# elements beginning to 2nd
+# Output: ('p', 'r')
+print(my_tuple[:-7])
+
+# elements 8th to end
+# Output: ('i', 'z')
+print(my_tuple[7:])
+
+# elements beginning to end
+# Output: ('p', 'r', 'o', 'g', 'r', 'a', 'm', 'i', 'z')
+print(my_tuple[:])
+````
+
 Functions: 
 
 len
@@ -131,19 +174,26 @@ The mantra you must follow is: "I don't know how to do it, but i know how to goo
 
 Exercises u.u
 
+- 72. Exercise 072 -  - [Solution]()
+- 73. Exercise 073 -  - [Solution]()
+- 74. Exercise 074 -  - [Solution]()
+- 75. Exercise 075 -  - [Solution]()
+- 76. Exercise 076 -  - [Solution]()
+- 77. Exercise 077 -  - [Solution]()
+
 
 
 ---
 
 ### Lesson Wrap Up:
 
-A summary of everything, or some important concept.
+Tuples are ordered sequences of values, where we can put different types of data inside. We can use various indexing and slicing methods with a tuple. And most importantly, tuples are immutable.
 
 ---
       
 ### Conclusion:
 
-Conclusio.
+In this lesson we start our studies of composite structures with tuples, in the next lesson we will talk about lists.
 
 ---
 
@@ -152,5 +202,5 @@ Conclusio.
 Useful links
 
 - [Tuple](https://python-reference.readthedocs.io/en/latest/docs/tuple/)
-- []()
+- [Python Tuple](https://www.programiz.com/python-programming/tuple)
 
