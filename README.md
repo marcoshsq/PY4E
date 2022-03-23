@@ -170,7 +170,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/03_Compound_Structures)
 
-### Level 10 - [Tuples]()
+### Level 10 - [Tuples 101](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md)
 
 - Exercise 72 - []()
 - Exercise 73 - []()
