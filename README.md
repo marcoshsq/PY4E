@@ -152,25 +152,25 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Level 09 - [Making Python sweat with while loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_09_While_(making%20Python_sweat_with_more_Loops).md)
 
-- Exercise 57 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex057.py)
-- Exercise 58 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex058.py)
-- Exercise 59 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex059.py)
-- Exercise 60 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex060.py)
-- Exercise 61 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex061.py)
-- Exercise 62 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex062.py)
-- Exercise 63 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex063.py)
-- Exercise 64 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex064.py)
-- Exercise 65 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex065.py)
-- Exercise 66 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex066.py)
-- Exercise 67 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex067.py)
-- Exercise 68 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex068.py)
-- Exercise 69 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex069.py)
-- Exercise 70 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex070.py)
-- Exercise 71 - [](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex071.py)
+- Exercise 57 - [Data Validation](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex057.py)
+- Exercise 58 - [Guessing Game v2.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex058.py)
+- Exercise 59 - [Creating an Options Menu](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex059.py)
+- Exercise 60 - [Factorial Calculation](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex060.py)
+- Exercise 61 - [Arithmetic Progression v2.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex061.py)
+- Exercise 62 - [Super Arithmetic Progression v3.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex062.py)
+- Exercise 63 - [Fibonacci Sequence v1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex063.py)
+- Exercise 64 - [Handling Multiple Values v1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex064.py)
+- Exercise 65 - [Largest and Smallest Values](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex065.py)
+- Exercise 66 - [Multiple numbers with flag](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex066.py)
+- Exercise 67 - [Multiplication table v3.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex067.py)
+- Exercise 68 - [Odd or Even Game](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex068.py)
+- Exercise 69 - [Group Data Analysis](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex069.py)
+- Exercise 70 - [Statistics on Products](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex070.py)
+- Exercise 71 - [ATM Simulator](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex071.py)
 
 ## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/03_Compound_Structures)
 
-### Level 10 - [Tuples]()
+### Level 10 - [Tuples 101](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md)
 
 - Exercise 72 - []()
 - Exercise 73 - []()
@@ -301,10 +301,13 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - List with the proposed exercises: [Extra List 06]()
 - List of solved exercises: [Solved List 06]()
 
+### Remade exercises: [Extre List 07]()
 ---
 
 ### Useful links:
 
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 - [Python Brasil](https://wiki.python.org.br/ListaDeExercicios) - The second extra list was acquired with the Python Brazil community;
 - [Think Python](https://greenteapress.com/wp/think-python/) - Think Python: How to Think Like a Computer Scientist by [Allen B. Downey](https://github.com/AllenDowney)
 - [Python for Everybody](https://www.py4e.com/) - Site and also the [Book](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) by Dr. Chuck, from the University of Michigan
