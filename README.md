@@ -260,7 +260,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 
 
-## Bonus Level - Extra Exercises
+## Bonus Level - Extra Exercises - (94 exercises in total)
 
 ### Extra exercises 01 - Sequential Structures - (12 exercises in total):
 
