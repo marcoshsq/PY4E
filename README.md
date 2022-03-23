@@ -301,7 +301,6 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - List with the proposed exercises: [Extra List 06]()
 - List of solved exercises: [Solved List 06]()
 
-### Remade exercises: [Extre List 07]()
 ---
 
 ### Useful links:
