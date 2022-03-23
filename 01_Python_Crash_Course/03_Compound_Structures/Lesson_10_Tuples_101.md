@@ -113,12 +113,25 @@ Returns a list of tuples, where the i-th tuple contains the i-th element from ea
 
 Operators:
 
-- [] (index operator): Gives access to a sequence’s element;
-- [::] (slicing): Gives access to a specified range of sequence’s elements,
-- + (concatenation) - Returns a concatenation of two sequences,
-- * (multiple concatenation): Returns a sequence self-concatenated specified amount of times.
+- index operator: Gives access to a sequence’s element;
+- slicing: Gives access to a specified range of sequence’s elements,
+- concatenation - Returns a concatenation of two sequences,
+- multiple concatenation: Returns a sequence self-concatenated specified amount of times.
+
+All these functions, methods and operators were introduced before, in case you forgot, you know, search, search, search.
+
+The mantra you must follow is: "I don't know how to do it, but i know how to google it."
+
+
+### Tuple Inception
+
+
 
 ##
+
+Exercises u.u
+
+
 
 ---
 
