@@ -26,7 +26,8 @@ The exercises vary in difficulty, some being trivial, others quite challenging.
 - Exercise 009 - Make a Program that reads a number and displays the corresponding day of the week. (1-Sunday, 2-Monday, etc.), if you enter another value, an invalid value should appear.
 - Exercise 010 - Write a program that calculates the roots of a quadratic equation in the form ax2 + bx + c. The program should ask for the values of a, b and c and make the consistencies, informing the user in the following situations:
 
-       - If the user informs the value of A equal to zero, the equation is not of the second degree and the program should not ask for the other values, being closed;
+       - If the user informs the value of A equal to zero, the equation is not of the second degree and the program 
+       should not ask for the other values, being closed;
        - If the calculated delta is negative, the equation has no real roots. Inform the user and close the program;
        - If the calculated delta is equal to zero the equation has only one real root; inform it to the user;
        - If the delta is positive, the equation has two real roots; inform them to the user;
