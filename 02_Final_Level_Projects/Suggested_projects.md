@@ -1,6 +1,6 @@
 # Here is a list of suggested projects:
 
-Whenever you are going to do a program that's bigger than usual, or that requires some more advanced logic, write a script of what you want to do, and if you are already a little more advanced in programming, create a general skeleton of the program, with the steps than you need to add.
+Quick tip: Whenever you are going to do a program that's bigger than usual, or that requires some more advanced logic, write a script of what you want to do, and if you are already a little more advanced in programming, create a general skeleton of the program, with the steps than you need to add. And always break it down, don't try to do everything, do piece by peace and see if it works, ok.
 
 ---
 
