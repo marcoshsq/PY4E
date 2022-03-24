@@ -1,8 +1,6 @@
 # Here is a list of suggested projects:
 
----
-
-Whenever you are going to do a program that requires many lines, or that requires some more advanced logic, write a script of what you want to do, and if you are already a little more advanced in programming, create a general skeleton of the program, with the steps than you need to add.
+Whenever you are going to do a program that's bigger than usual, or that requires some more advanced logic, write a script of what you want to do, and if you are already a little more advanced in programming, create a general skeleton of the program, with the steps than you need to add.
 
 ---
 
