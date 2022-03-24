@@ -38,6 +38,13 @@ Content
 
 ##
 
+90. Exercises 090 -  - [Solution]()
+91. Exercises 090 -  - [Solution]()
+92. Exercises 090 -  - [Solution]()
+93. Exercises 090 -  - [Solution]()
+94. Exercises 090 -  - [Solution]()
+95. Exercises 090 -  - [Solution]()
+
 ---
 
 ### Lesson Wrap Up:
@@ -56,5 +63,6 @@ Conclusio.
 
 Useful links
 
-- []()
-- []()
+- [Python Dictionary](https://www.programiz.com/python-programming/dictionary)
+- [Python Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
+- [Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
