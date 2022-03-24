@@ -12,6 +12,10 @@ But I don't wanna make you install anything, at least for now, so I'll recommend
 
 If you want to install an proper IDE, for Pycharm use [this video](https://www.youtube.com/watch?v=6VElWbND-zg), for VS Code [this one](https://www.youtube.com/watch?v=9o4gDQvVkLU), and for Atom use [this one](https://www.youtube.com/watch?v=Ei-G0fEOu9I), you have others IDE, text editors, environments and etc, which one to choose it's up to you.
 
+### Also, it's important to you to know HOW to write your code, right?
+
+As a programmer, most of the time you will be reading code rather than writing it. Therefore, it is important for you to know how to write beautiful code, throughout the lessons I will give some tips on this, but for now, know that there are several good practice manuals for writing python code, with [PEP 8](https://pep8.org/) probably the best known. It was written by Python creator Guido himself. But you don't need to read the whole guide now, know that it exists, and apply some concepts in your code, so you avoid creating bad habits ok, [here's a good summary](https://www.youtube.com/watch?v=D4_s3q038I0).
+
 ## Lesson 01 Content:
 1. [The Golden Rule](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-golden-rule)
 2. [The Zen of Python](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-zen-of-python)
