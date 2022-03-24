@@ -54,7 +54,7 @@ That's it and good luck u.u
 3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
     - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10---tuples-101)
     - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11---lists-ftw)
-    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12---dictionaries)
+    - 12.[Sets and Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12---dictionaries)
     - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13---getting-serious-with-functions)
     - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization-till-the-end)
     - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---a-file-about-files)
@@ -200,7 +200,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 88 - [Guesses for the Mega Sena](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex088.py)
 - Exercise 89 - [Bulletin with Composite Lists](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex089.py)
 
-### Level 12 - [Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md)
+### Level 12 - [Sets and Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md)
 
 - Exercise 90 - [Python Dictionary](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex090.py)
 - Exercise 91 - [Dice Game in Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex091.py)
