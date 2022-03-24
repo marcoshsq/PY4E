@@ -1,8 +1,8 @@
 # Exercise 065 - Largest and Smallest Values
 
-'''Create a program that reads several integers from the keyboard. At the end of execution,
+"""Create a program that reads several integers from the keyboard. At the end of execution,
 show the average of all values and what was the highest and lowest values read.
-The program should ask the user whether or not he wants to continue typing values.'''
+The program should ask the user whether or not he wants to continue typing values."""
 
 flag = False
 counter = sum = average = highest = lowest = 0
@@ -14,7 +14,7 @@ while flag == False:
     #  Average:
     sum += n
     counter += 1
-    average = (sum / counter)
+    average = sum / counter
 
     # highest/lowest:
     if n > highest:
@@ -28,5 +28,5 @@ while flag == False:
     if cont == "NO":
         flag = True
 
-print(f'Average: {average:.1f}')
-print(f'Highest {highest} / Lowest {lowest}')
+print(f"Average: {average:.1f}")
+print(f"Highest {highest} / Lowest {lowest}")
