@@ -33,7 +33,7 @@ product_list = (
 )
 
 print("=" * 39)
-print(f"{'PRICE TABLE'}:^40")
+print(f"{'PRICE TABLE'}:^39")
 print("=" * 39)
 
 for i in range(0, len(product_list)):

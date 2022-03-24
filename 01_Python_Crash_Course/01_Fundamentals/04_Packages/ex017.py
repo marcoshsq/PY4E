@@ -12,7 +12,7 @@ leg_a = float(input("Enter the value of leg a: "))
 leg_b = float(input("Enter the value of leg b: "))
 # Then we do the Pythagorean theorem: sqrt((leg_a^2)+(leg_b^2))
 hyp = ((leg_a**2) + (leg_b**2)) ** 0.5
-print(f"The triangle hypotenuse measures {hip:.2f} m.u. ")
+print(f"The triangle hypotenuse measures {hyp:.2f} m.u. ")
 
 # Method 02, with the module using pow function:
 hypo = math.sqrt(math.pow(leg_a, 2) + math.pow(leg_b, 2))
