@@ -59,7 +59,7 @@ That's it and good luck u.u
     - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization-till-the-end)
     - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---a-file-about-files)
     - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---lets-finish-with-classes)
-    - 17.[What's next]()
+    - 17.[What's next](https://github.com/marcoshsq/Python_Crash_Course#whats-next---if-you-got-here-and-wanna-know-the-next-steps)
     - 18.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 
 4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
@@ -259,6 +259,8 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### What's Next - If you got here and wanna know the [next steps](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/What's_Next.md)
 
+---
+
 ## Final Level - [Projects](https://github.com/marcoshsq/Python_Crash_Course/tree/main/02_Final_Level_Projects)
 
 ### Click [here](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/Suggested_projects.md) for a list of suggested projects with a short descriptions.
@@ -275,8 +277,6 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 - List with the proposed exercises: [Extra List 01](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/01_sequential_structure/01_Extra_List_01.md)
 - List of solved exercises: [Solved List 01](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/01_sequential_structure)
-
-
 
 ### Extra exercises 02 - Decision Structure - (18 exercises in total):
 
