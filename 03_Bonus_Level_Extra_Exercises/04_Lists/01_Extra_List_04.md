@@ -7,24 +7,40 @@ The exercises vary in difficulty, some being trivial, others quite challenging.
 ---
 
 - Exercise 001 - 
+ 
 - Exercise 002 - 
-- Exercise 003 - 
-- Exercise 004 - 
-- Exercise 005 - 
-- Exercise 006 - 
-- Exercise 007 - 
-- Exercise 008 - 
-- Exercise 009 - 
-- Exercise 010 - 
-- Exercise 011 - 
-- Exercise 012 - 
-- Exercise 013 - 
-- Exercise 014 - 
-- Exercise 015 - 
-- Exercise 016 - 
-- Exercise 017 - 
-- Exercise 018 - 
 
-    
+- Exercise 003 - 
+
+- Exercise 004 - 
+
+
+- Exercise 005 - 
+
+- Exercise 006 - 
+
+- Exercise 007 - 
+ 
+- Exercise 008 - 
+
+- Exercise 009 - 
+ 
+- Exercise 010 - 
+ 
+- Exercise 011 - 
+ 
+- Exercise 012 - 
+ 
+- Exercise 013 - 
+ 
+- Exercise 014 - 
+ 
+- Exercise 015 - 
+ 
+- Exercise 016 - 
+ 
+- Exercise 017 - 
+ 
+- Exercise 018 - 
 
     
