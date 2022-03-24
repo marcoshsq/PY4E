@@ -201,12 +201,12 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Level 12 - [Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md)
 
-- Exercise 90 - []()
-- Exercise 91 - []()
-- Exercise 92 - []()
-- Exercise 93 - []()
-- Exercise 94 - []()
-- Exercise 95 - []()
+- Exercise 90 - [Python Dictionary](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex090.py)
+- Exercise 91 - [Dice Game in Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex091.py)
+- Exercise 92 - [Worker Registration in Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex092.py)
+- Exercise 93 - [Football Player Registration](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex093.py)
+- Exercise 94 - [Joining Dictionaries and Lists](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex094.py)
+- Exercise 95 - [Improving Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex095.py)
 
 ### Level 13 - [Getting Serious with Functions](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_13_Getting_serious_with_Functions.md)
 
