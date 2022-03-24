@@ -257,7 +257,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 129 - []()
 - Exercise 130 - []()
 
-## What's Next - If you get here and wanna know the [next steps](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/What's_Next.md)
+### What's Next - If you got here and wanna know the [next steps](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/What's_Next.md)
 
 ## Final Level - [Projects](https://github.com/marcoshsq/Python_Crash_Course/tree/main/02_Final_Level_Projects)
 
