@@ -177,12 +177,12 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Level 10 - [Tuples 101](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md)
 
-- Exercise 72 - []()
-- Exercise 73 - []()
-- Exercise 74 - []()
-- Exercise 75 - []()
-- Exercise 76 - []() 
-- Exercise 77 - []()
+- Exercise 72 - [Number by Extension](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex072.py)
+- Exercise 73 - [Tuples with Soccer Teams](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex073.py)
+- Exercise 74 - [Largest and Smallest Tuple Values](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex074.py)
+- Exercise 75 - [Data Analysis in a Tuple](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex075.py)
+- Exercise 76 - [Tuple Price List](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex076.py) 
+- Exercise 77 - [Counting Vowels in Tuple](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex077.py)
 
 ### Level 11 - [Lists FTW](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md)
 
