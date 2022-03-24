@@ -210,32 +210,32 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ### Level 13 - [Getting Serious with Functions](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_13_Getting_serious_with_Functions.md)
 
-- Exercise 96 - []()
-- Exercise 97 - []()
-- Exercise 98 - []()
-- Exercise 99 - []()
-- Exercise 100 - []()
-- Exercise 101 - []()
-- Exercise 102 - []()
-- Exercise 103 - []()
-- Exercise 104 - []()
-- Exercise 105 - []()
-- Exercise 106 - []()
+- Exercise 96 - [Function that calculates area](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex096.py)
+- Exercise 97 - [A special print](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex097.py)
+- Exercise 98 - [Counter Function](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex098.py)
+- Exercise 99 - [Function that discovers the largest](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex099.py)
+- Exercise 100 - [Functions to sort and add](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex100.py)
+- Exercise 101 - [Functions for Voting](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex101.py)
+- Exercise 102 - [Function for Factorial](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex102.py)
+- Exercise 103 - [Player Sheet](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex103.py)
+- Exercise 104 - [Validating Data Input in Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex104.py)
+- Exercise 105 - [Parsing and Generating Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex105.py)
+- Exercise 106 - [Interactive Python Help System](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex106.py)
 
 ### Level 14 - [Modularization till the End](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_14_Modularization_till_the_end.md)
 
-- Exercise 107 - []()
-- Exercise 108 - []()
-- Exercise 109 - []()
-- Exercise 110 - []()
-- Exercise 111 - []()
-- Exercise 112 - []()
+- Exercise 107 - [Exercising Python modules](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex107.py)
+- Exercise 108 - [Formatting Coins in Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex108.py)
+- Exercise 109 - [Formatting Coins in Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex109.py)
+- Exercise 110 - [Shrinking your program even further](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex110.py)
+- Exercise 111 - [Turning modules into packages](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex111.py)
+- Exercise 112 - [Entering Monetary Data](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex112.py)
 
 
 ### Level 15 - [A file about Files](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_15_A_file_about_files.md)
 
-- Exercise 113 - []()
-- Exercise 114 - []()
+- Exercise 113 - [Analyzing IPs](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/15_Files/ex113.py)
+- Exercise 114 - [report.txt](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/15_Files/ex114.py)
 
 ### Level 16 - [Let's finish with Classes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_16_Let's_finish_with_class.md)
 
