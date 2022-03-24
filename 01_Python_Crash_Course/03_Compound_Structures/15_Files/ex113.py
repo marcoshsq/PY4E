@@ -1,4 +1,4 @@
-# Exercício Python 113 - Analyzing IPs
+# Exercise 113 - Analyzing IPs
 
 '''Write a program that reads a text file containing a list of IP addresses 
 and generates another file containing a report of valid and invalid 
