@@ -59,7 +59,8 @@ That's it and good luck u.u
     - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization-till-the-end)
     - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---a-file-about-files)
     - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---lets-finish-with-classes)
-    - 17.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
+    - 17.[What's next]()
+    - 18.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 
 4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
  
@@ -255,6 +256,8 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - Exercise 128 - []()
 - Exercise 129 - []()
 - Exercise 130 - []()
+
+## What's Next - If you get here and wanna know the [next steps](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/What's_Next.md)
 
 ## Final Level - [Projects](https://github.com/marcoshsq/Python_Crash_Course/tree/main/02_Final_Level_Projects)
 
