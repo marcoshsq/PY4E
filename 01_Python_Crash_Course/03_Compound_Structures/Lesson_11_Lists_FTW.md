@@ -70,5 +70,5 @@ Conclusio.
 
 Useful links
 
-- []()
-- []()
+- [Python List](https://www.programiz.com/python-programming/list)
+- [Lists](https://www.w3schools.com/python/python_lists.asp)
