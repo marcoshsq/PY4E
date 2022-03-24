@@ -1,4 +1,4 @@
-# Exercise 072: Number by Extension
+# Exercise 072 - Number by Extension
 
 ''' Create a program that has a fully populated 
 Tuple with a count in words,from zero to twenty. 
