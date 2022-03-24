@@ -161,7 +161,51 @@ The mantra you must follow is: "I don't know how to do it, but i know how to goo
 
 ### Tuple Inception
 
+This concept is simple, but at the same time a bit trick to catch. But we can put tuples inside tuples, and keep this forever and ever:
 
+````python
+    a = 'potato', 'tomato'
+    b = 'orange', 'banana', 'strawberry'
+    print(a)
+    print(b)
+    # Output: ('potato', 'tomato')
+    # Output: ('orange', 'banana', 'strawberry')
+    
+    c = '1', '1.5', a, 'monkey', '25', b, 'car'
+    print(c)
+    # Output: ('1', '1.5', ('potato', 'tomato'), 'monkey', '25', ('orange', 'banana', 'strawberry'), 'car')
+    
+    d = 5, 3.1415, a, 'airplane', b, 'Michael Jackson', c, 3
+    e = a, 25, 'Super Mario', 'coca cola', b, c, 2.72, d
+    print(e)
+    # Output: (('potato', 'tomato'), 25, 'Super Mario', 'coca cola', ('orange',...,'strawberry'), 'car'), 3))
+````
+
+Yeah, it's really weird, hahaa, at least for me. What you need to take away from here for now is how to access specific data inside the tuple. For this we use indexing, it's even quite simple, check it out:
+
+````python
+    
+    # For a simple Tuple:
+    a = 'potato', 'tomato'
+    b = 'orange', 'banana', 'strawberry'
+    print(a[0])
+    print(b[2])
+    # Output: potato
+    # Output: strawberry
+    
+    # For a tuple inside another tuple:
+    c = '1', '1.5', a, 'monkey', '25', b, 'car'
+    print(c[2][0])
+    # Output: potato
+    
+    # For a tuple inside another tuple inside anoter tuple:
+    d = 5, 3.1415, a, 'airplane', b, 'Michael Jackson', c, 3
+    print(d[6][2][0])
+    # Output: potato
+    
+    # For a tuple inside anot... alright stop!
+````
+For each tuple we add other square brackets and so on. It's not that hard right, just think of a tree, like the end of Attack on Titan.
 
 ##
 
