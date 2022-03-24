@@ -10,6 +10,8 @@ If you are interested in installing Python on your computer, along with an [IDE]
 
 But I don't wanna make you install anything, at least for now, so I'll recommend you use [Jupyter notebook](https://jupyter.org/) which is a web-based interactive computing platform, or if you have a Google account, you can use the [Google Colab](https://colab.research.google.com/), which is basically, Google's jupyter notebook, but you can save it on Google Drive. If you need a tutorial to get started with Google Colab use this [video](https://www.youtube.com/watch?v=RLYoEyIHL6A).
 
+If you want to install an proper IDE, for Pycharm use [this video](https://www.youtube.com/watch?v=6VElWbND-zg), for VS Code [this one](https://www.youtube.com/watch?v=9o4gDQvVkLU), and for Atom use [this one](https://www.youtube.com/watch?v=Ei-G0fEOu9I), you have others IDE, text editors, environments and etc, which one to choose it's up to you.
+
 ## Lesson 01 Content:
 1. [The Golden Rule](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-golden-rule)
 2. [The Zen of Python](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md#the-zen-of-python)
