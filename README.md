@@ -52,14 +52,14 @@ That's it and good luck u.u
     - 09.[Loops (while)](https://github.com/marcoshsq/Python_Crash_Course#level-09---making-python-sweat-with-while-loops)
 
 3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
-    - 10.[Tuples]()
-    - 11.[Lists]()
-    - 12.[Dictionaries]()
-    - 13.[Functions]()
-    - 14.[Modularization]()
-    - 15.[Files]()
-    - 16.[Classes]()
-    - 17.[Projects]()
+    - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10---tuples-101)
+    - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11---lists-ftw)
+    - 12.[Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12---dictionaries)
+    - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13---getting-serious-with-functions)
+    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization-till-the-end)
+    - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---a-file-about-files)
+    - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---lets-finish-with-classes)
+    - 17.[Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 
 4. [Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
  
