@@ -304,14 +304,14 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 ### Useful links:
 
 
-- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo) - One of the best courses on the Brazilian Youtube;
 - [Python Brasil](https://wiki.python.org.br/ListaDeExercicios) - The second extra list was acquired with the Python Brazil community;
 - [Think Python](https://greenteapress.com/wp/think-python/) - Think Python: How to Think Like a Computer Scientist by [Allen B. Downey](https://github.com/AllenDowney)
 - [Python for Everybody](https://www.py4e.com/) - Site and also the [Book](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) by Dr. Chuck, from the University of Michigan
 - [Welcome to Python Cheatsheet!](https://www.pythoncheatsheet.org/) - This cheat sheet tries to provide a basic reference for beginner and advanced developers, lower the entry barrier for newcomers and help veterans refresh the old tricks.
-- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-- [Python SpeedSheet](https://speedsheet.io/s/python?select=gcez)
-- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html) - From Python Org;
+- [Python SpeedSheet](https://speedsheet.io/s/python?select=gcez) - A good guide to always keep close;
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html) - Another good guide to always keep close;
 - [Python tutor](https://pythontutor.com/visualize.html#mode=edit) - A way to visualize your code.
 
 ---
