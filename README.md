@@ -317,6 +317,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 - [Python SpeedSheet](https://speedsheet.io/s/python?select=gcez) - A good guide to always keep close;
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html) - Another good guide to always keep close;
 - [Python tutor](https://pythontutor.com/visualize.html#mode=edit) - A way to visualize your code.
+- [PEP 8](https://peps.python.org/pep-0008/) - Style Guide for Python Code.
 
 ---
 "For those who prove worthy... Paradise awaits!!"
