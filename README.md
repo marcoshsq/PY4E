@@ -258,7 +258,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 ## Final Level - [Projects](https://github.com/marcoshsq/Python_Crash_Course/tree/main/02_Final_Level_Projects)
 
-### General list of [suggested projects](https://github.com/marcoshsq/Python_Crash_Course/edit/main/02_Final_Level_Projects/Suggested_projects.md) and it's descriptions.
+### Click [here](https://github.com/marcoshsq/Python_Crash_Course/edit/main/02_Final_Level_Projects/Suggested_projects.md) for a list of suggested projects with a short descriptions.
 
 - [Odd or Even Game](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/odd_or_even_game.py)
 
