@@ -211,12 +211,23 @@ For each tuple we add other square brackets and so on. It's not that hard right,
 
 Now, is with you. Exercises u.u
 
-72. Exercise 072 -  - [Solution]()
-73. Exercise 073 -  - [Solution]()
-74. Exercise 074 -  - [Solution]()
-75. Exercise 075 -  - [Solution]()
-76. Exercise 076 -  - [Solution]()
-77. Exercise 077 -  - [Solution]()
+72. Exercise 072 - Create a program that has a fully populated Tuple with a count in words,from zero to twenty. Your program should read a number from the keyboard  (between 0 and 20) and display it in full. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex072.py)
+73. Exercise 073 - Create a tuple filled with the top 20 of the Brazilian Football Championship Table,in order of placement. Then show: - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex073.py)
+
+        a) The first 5 teams.
+        b) The last 4 placed.
+        c) Teams in alphabetical order.
+        d) What position is the Chapecoense team in. 
+
+74. Exercise 074 - Create a program that will generate five random numbers and put them in a tuple.After that, show the list of generated numbers and also indicate the smallest and largest value that are in the tuple. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex074.py)
+75. Exercise 075 - Develop a program that reads four values from the keyboard and stores them in a tuple. At the end, show:  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex075.py)
+
+        A) How many times did the value 9 appear.
+        B) In which position was the first value entered 3.
+        C) What were the even numbers.
+
+76. Exercise 076 - Create a program that has a single tuple with product names and their respective prices, in sequence. At the end, show a price listing, organizing the data in tabular form. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex076.py)
+77. Exercise 077 - Create a program that has a multi-word tuple (don't use accents). After that, you must show, for each word, what its vowels are. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex077.py)
 
 ---
 
