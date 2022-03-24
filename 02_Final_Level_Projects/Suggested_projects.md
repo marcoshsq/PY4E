@@ -10,7 +10,7 @@ For this project you will only need the random library, and if you want to add a
 
 ### Rock, paper, scissors game:
 
-You'll need random.choice(), if statements, and  user inputs. This is a great project to help you build on the fundamentals like conditionals and functions.
+You'll need random.choice(), if statements, and  user inputs. This is a great project to help you build on the fundamentals like conditionals and functions. [Here's an example](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/rock_paper_scissors.py)
 
 ### Hangman game:
 
