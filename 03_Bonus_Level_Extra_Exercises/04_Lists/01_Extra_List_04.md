@@ -74,23 +74,111 @@ Challenge: Create a formula to get to the list position from salary, without doi
  
 - Exercise 015 - In a long jump competition each athlete is entitled to five jumps. The athlete's result will be determined by the average of the remaining five values. You must make a program that receives the name and the five distances reached by the athlete in his jumps and then informs the name, the jumps and the average of the jumps. The program must be closed when the athlete's name is not informed. The program output should look like the example below:
 
-Athlete: Rodrigo Curvello
- 
-First Jump: 6.5m
-Second Jump: 6.1 m
-Third Jump: 6.2 m
-Fourth Jump: 5.4 m
-Fifth Jump: 5.3 m
+       Athlete: Rodrigo Curvello
 
-Final result:
-Athlete: Rodrigo Curvello
-Jumps: 6.5 - 6.1 - 6.2 - 5.4 - 5.3
-Average jumps: 5.9 m
+       First Jump: 6.5m;
+       Second Jump: 6.1 m;
+       Third Jump: 6.2 m;
+       Fourth Jump: 5.4 m;
+       Fifth Jump: 5.3 m;
+
+       Final result:
+       Athlete: Rodrigo Curvello
+       Jumps: 6.5 - 6.1 - 6.2 - 5.4 - 5.3;
+       Average jumps: 5.9 m
  
-- Exercise 016 - 
+- Exercise 016 - A major television station wants to make a poll among its viewers to find out who is the best player after each game. For this, it is necessary to develop a program, which will be used by the operators, to compute the votes. Your team was hired to develop this program, using the C++ programming language. To compute each vote, the operator will enter a number, between 1 and 23, corresponding to the player's shirt number. A player number equal to zero, indicates that voting has ended. If an invalid number is entered, the program should ignore it, display a brief warning message, and re-ask for another number. After voting is over, the program should display:
+
+      The total votes cast;
+      The numbers and respective votes of all players who received votes;
+      The percentage of votes of each of these players;
+      The number of the player chosen as the best player in the match, along with the number of votes and percentage of votes given to him.
+
+Note that invalid votes and the trailing zero should not count as votes. The result appears ordered by player number. The program must make use of arrays. The program should perform the calculation of the percentage of each player through a function. This function will receive two parameters: the number of votes of a player and the total votes. The function will calculate the percentage and return the calculated value. Below is an example screen. The arrangement of information should be as close to the example as possible. The data is fictitious and may change with each execution of the program. At the end, the program must also record the data referring to the voting result in a text file on the disk, following the same arrangement shown on the screen.
+
+     Poll: Who was the best player?
+
+     Player number (0=end): 9
+     Player number (0=end): 10
+     Player number (0=end): 9
+     Player number (0=end): 10
+     Player number (0=end): 11
+     Player number (0=end): 10
+     Player number (0=end): 50
+     Enter a value between 1 and 23 or 0 to exit!
+     Player number (0=end): 9
+     Player number (0=end): 9
+     Player number (0=end): 0
+
+     Voting result:
+
+     8 votes were counted.
+
+     Player Votes %
+     9 4 50.0%
+     10 3 37.5%
+     11 1 12.5%
+     The best player was number 9, with 4 votes, corresponding to 50% of the total votes.
  
-- Exercise 017 - 
+- Exercise 017 - A research company needs to tabulate the results of the following survey taken from a large number of organizations:
+
+"What is the best Operating System for use on servers?"
+
+Possible answers are:
+
+    1- Windows Server
+    2- Unix
+    3- Linux
+    4- Netware
+    5- Mac OS
+    6- Other
+
+You were hired to develop a program that reads the results of the poll and reports the result of the poll at the end. The program should read the values ​​until the value 0 is informed, which ends the data entry. Values ​​other than those valid for the program (0 to 6) should not be accepted. The values ​​referring to each of the options must be stored in an array. After the data have been completely informed, the program must calculate the percentage of each of the competitors and inform the winner of the poll. The output format was given by the company, and is as follows:
+Operating System Votes %
+
+     ------------------- ----- ---
+     Windows Server 1500 17%
+     Unix 3500 40%
+     Linux 3000 34%
+     Netware 500 5%
+     Mac OS 150 2%
+     Other 150 2%
+     ------------------- -----
+     Total 8800
+
+The most voted Operating System was Unix, with 3500 votes, corresponding to 40% of the votes.
  
-- Exercise 018 - 
+- Exercise 018 - The Tabajara Organizations decided to give a bonus to their employees in recognition of the good results achieved during the past year. For this, it hired you to develop the application that will serve as a projection of how much will be spent with the payment of this allowance.
+
+After meetings involving the executive board, the financial board and representatives of the labor union, the following form of calculation was arrived at:
+a.Each employee will receive the equivalent of 20% of their gross December salary; a.The floor allowance will be 100 reais, that is, those employees whose salary is very low receive this minimum amount; At this time, there should be no concern with employees with shorter tenure, discounts, taxes or other particularities. Your program should allow you to enter the salary of an indefinite (unknown) number of salaries. A salary value of 0 (zero) ends typing. After entering all the data, the program must calculate the amount of the allowance granted to each employee, according to the rule defined above. At the end, the program must present:
+
+    The salary of each employee, together with the amount of the allowance;
+    The total number of employees processed;
+    The total amount to be spent on the payment of the allowance;
+    The number of employees who will receive the minimum amount of 100 reais;
+    The highest amount paid as an allowance; The screen below is an example of running the program, for illustrative purposes only. The values ​​can change with each execution of the program.
+
+    Projection of Expenses with Allowance
+    ==================================
+
+    Salary: 1000
+    Salary: 300
+    Salary: 500
+    Salary: 100
+    Salary: 4500
+    Salary: 0
+
+    Salary - Allowance
+    BRL 1000.00 - BRL 200.00
+    BRL 300.00 - BRL 100.00
+    BRL 500.00 - BRL 100.00
+    BRL 100.00 - BRL 100.00
+    BRL 4500.00 - BRL 900.00
+
+    5 employees were processed
+    Total spent on allowances: BRL 1400.00
+    Minimum amount paid to 3 employees
+    Highest amount of allowance paid: BRL 900.00
 
     
