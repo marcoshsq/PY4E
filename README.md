@@ -6,7 +6,7 @@
     
 </div>
 
-## (Work in progress - Until the moment I wrote until the pert 03 tuples. But I intend to rewrite the lessons by adding more content, especially about good practices (PEP8), and more examples. But all the exercises are spelled out, so you can do it if you like.)
+## (Work in progress - Until the moment I wrote until the part 03 tuples. But I intend to rewrite the lessons by adding more content, especially about good practices (PEP8), and more examples. But all the exercises are available, so you can do it if you like.)
 
 If you found this repository, first of all welcome, I hope that some of the materials present here can help you in your studies.
 
