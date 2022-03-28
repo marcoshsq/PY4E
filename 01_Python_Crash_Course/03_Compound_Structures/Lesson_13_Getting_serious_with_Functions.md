@@ -14,13 +14,13 @@
 
 ---
 
-### Topic one
+### Built-in Functions:
 
 Content
 
 ##
 
-### Topic one
+### Making your own Functions
 
 Content
 
