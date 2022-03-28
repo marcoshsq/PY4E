@@ -59,16 +59,11 @@ That's it and good luck u.u
     - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization-till-the-end)
     - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---a-file-about-files)
     - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---lets-finish-with-classes)
-    - 17.[What's next](https://github.com/marcoshsq/Python_Crash_Course#whats-next---if-you-got-here-and-wanna-know-the-next-steps)
-    
-4.[Final Level - Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 
-5. [Bonus Level - Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
-
+4. [Final Level - Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
+5. [Bonus Level](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises---94-exercises-in-total)
 6. [Lost Levels](https://github.com/marcoshsq/Python_Crash_Course#lost-levels---extra-material)
-
 7. [What's Next](https://github.com/marcoshsq/Python_Crash_Course#whats-next)
- 
 8. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
 
 ---
