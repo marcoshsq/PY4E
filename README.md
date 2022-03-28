@@ -65,9 +65,9 @@ That's it and good luck u.u
 
 5. [Bonus Level - Extra Exercises](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises)  
 
-6. [Lost Levels](https://github.com/marcoshsq/Python_Crash_Course/edit/main/README.md#lost-levels---extra-material)
+6. [Lost Levels](https://github.com/marcoshsq/Python_Crash_Course#lost-levels---extra-material)
 
-7. [What's Next]()
+7. [What's Next](https://github.com/marcoshsq/Python_Crash_Course#whats-next)
  
 8. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
 
