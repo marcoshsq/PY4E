@@ -19,7 +19,7 @@ A compound structure is something quite simple to understand. Until now, we've b
     # With compound structures we can do this:
     today_lunch = ('Steak', 'Orange juice', 'Ice Cream') # This is a Tuple btw
 ````
-Basically compound structures, are structures... wait for it... compound by more than one variable. TOday we're gonna star learnig about then and we're gonna start with the Tuple, but know that Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+Basically compound structures, are structures... wait for it... compound by more than one variable. Today we're gonna star learnig about then and we're gonna start with the Tuple, but know that Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are Lists, Sets, and Dictionaries, all with different qualities and usage.
 
 ##
 
