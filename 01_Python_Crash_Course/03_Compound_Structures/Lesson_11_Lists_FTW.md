@@ -316,10 +316,10 @@ print(my_list.count(8))  # Output: 3
 
 ##
 
-78. Exercise 78 -  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex078.py)
-79. Exercise 79 -  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex079.py)
-80. Exercise 80 -  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex080.py)
-81. Exercise 81 -  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex081.py)
+78. Exercise 78 - Write a program that reads 5 numeric values and stores them in a list. At the end, show which was the highest and lowest value entered, and their respective positions in the list. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex078.py)
+79. Exercise 79 - Create a program where the user can enter several numeric values and register them in a list. If the number already exists in there, it will not be added. At the end, all unique values entered will be displayed, in ascending order. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex079.py)
+80. Exercise 80 - Create a program where the user can type five numeric values and register them in a list, already in the correct insertion position (without using sort()). At the end, show the sorted list on the screen. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex080.py)
+81. Exercise 81 - Create a program that will read several numbers and put them in a list. After that, show: A) How many numbers were entered; B) The list of values, sorted in descending order; C) Whether the value 5 was entered and is or is not in the list. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex081.py)
 82. Exercise 82 -  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex082.py)
 83. Exercise 83 -  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex083.py)
 84. Exercise 84 -  - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex084.py)
@@ -342,7 +342,7 @@ Lists are one of 4 built-in data types in Python used to store collections of da
       
 ### Conclusion:
 
-Conclusio.
+In this lesson we talked about Lists a built-in data type python has to store data, in the next lesson we'll talk about the other two, sets and dictionaries
 
 ---
 
