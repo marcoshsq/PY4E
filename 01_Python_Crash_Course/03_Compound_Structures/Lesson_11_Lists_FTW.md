@@ -1,10 +1,23 @@
 <div align="center">
   
-# Lists For THE WIN
+# Lists For the WIN!!!
 
 </div>
 
-### Introduction if necessary
+### Why do I need a List if I have a Tuple?
+
+Because lists are mutable u.u
+
+Actually, there are a few more differences between lists and tuples, but basically, almost all of them occur because of this mutability rule. I'll give you a few examples:
+
+| LIST |	TUPLE |
+| :-- | :-- |
+| Lists are mutable |	Tuples are immutable |
+| Implication of iterations is Time-consuming |	The implication of iterations is comparatively Faster |
+| The list is better for performing operations, such as insertion and deletion. |	Tuple data type is appropriate for accessing the elements |
+| Lists consume more memory |	Tuple consume less memory as compared to the list |
+| Lists have several built-in methods |	Tuple does not have many built-in methods. |
+| The unexpected changes and errors are more likely to occur |	In tuple, it is hard to take place. |
 
 ##
 
