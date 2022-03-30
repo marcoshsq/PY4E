@@ -23,8 +23,17 @@ Later, when you, and me as well, get more proficient with python, we'll learn a 
 ##
 
 ## Lesson xx Content:
-1. []()
-2. []()
+1. [Creating lists](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#creating-lists)
+2. [Accessing List Elements](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#accessing-list-elements)
+3. [List Slicing](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#list-slicing)
+4. [Add/Change List Elements](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#addchange-list-elements)
+5. [Delete List Elements](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#delete-list-elements)
+6. [Iterating Through a List](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#iterating-through-a-list)
+7. [Python List Methods](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#python-list-methods)
+8. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#lesson-wrap-up)
+9. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#conclusion)
+10. [More content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#more-content)
+
 
 ---
 
