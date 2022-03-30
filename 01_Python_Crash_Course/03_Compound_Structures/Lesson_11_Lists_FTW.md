@@ -19,6 +19,7 @@ Actually, there are a few more differences between lists and tuples, but basical
 | Lists have several built-in methods |	Tuple does not have many built-in methods. |
 | The unexpected changes and errors are more likely to occur |	In tuple, it is hard to take place. |
 
+Later, when you, and me as well, get more proficient with python, we'll learn a few more applications with these Data Structures, for example, we use tuples to create tables using pandas... but this is a spoiler. Lists!
 ##
 
 ## Lesson xx Content:
