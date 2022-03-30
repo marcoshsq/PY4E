@@ -38,7 +38,7 @@ for i in range(0, 5):
     else:
         if number < list_numbers[0]:  # The firs number of the list.
             list_numbers.insert(0, number)
-            print(f"Number {num} added to the beginning of the list.")
+            print(f"Number {number} added to the beginning of the list.")
 
         elif number > list_numbers[-1]:  # The last number of the list.
             list_numbers.append(number)
