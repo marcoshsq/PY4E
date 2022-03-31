@@ -151,12 +151,12 @@ We can verify if an element is in the dictionary:
 
 ##
 
-90. Exercises 090 -  - [Solution]()
-91. Exercises 090 -  - [Solution]()
-92. Exercises 090 -  - [Solution]()
-93. Exercises 090 -  - [Solution]()
-94. Exercises 090 -  - [Solution]()
-95. Exercises 090 -  - [Solution]()
+90. Exercises 090 - Make a program that reads a student's name and average, also storing the situation in a dictionary. At the end, show the content of the structure on the screen. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex090.py)
+91. Exercises 091 - Create a program where 4 players roll a dice and get random results. Store these results in a Python dictionary. In the end, put that dictionary in order, knowing that the winner rolled the highest number on the dice. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex091.py)
+92. Exercises 092 - Create a program that reads name, year of birth and work card and registers it (with age) in a dictionary. If the CTPS is different from ZERO, the dictionary will also receive the year of employment and salary. Calculate and add, in addition to age, how old the person will retire. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex092.py)
+93. Exercises 093 - Create a program that manages the performance of a football player. The program will read the player's name and how many matches he played. Then you will read the number of goals scored in each match. In the end, all this will be stored in a dictionary, including the total goals scored during the championship. - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex093.py)
+94. Exercises 094 - Create a program that reads the name, sex and age of several people, storing each person's data in a dictionary and all dictionaries in a list. At the end, show: A) How many people were registered; B) The average age; C) A list of women; D) A list of people who are above average age - [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex094.py)
+95. Exercises 095 -  - [Solution]()
 
 ---
 
