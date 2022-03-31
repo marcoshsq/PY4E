@@ -250,7 +250,7 @@ That's it and good luck u.u
 
 ## Final Level - [Projects](https://github.com/marcoshsq/Python_Crash_Course/tree/main/02_Final_Level_Projects)
 
-### Click [here](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/Suggested_projects.md) for a list of suggested projects with a short descriptions.
+### Click [here](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/01_Suggested_projects.md) for a list of suggested projects with a short descriptions.
 
 - [Odd or Even Game](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/odd_or_even_game.py)
 - [Rock Paper Scissors](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/rock_paper_scissors_game.py)
