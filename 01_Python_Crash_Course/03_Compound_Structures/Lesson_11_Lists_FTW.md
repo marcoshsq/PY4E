@@ -22,7 +22,7 @@ Actually, there are a few more differences between lists and tuples, but basical
 Later, when you, and me as well, get more proficient with python, we'll learn a few more applications with these Data Structures, for example, we use tuples to create tables using pandas... but this is a spoiler. Lists!
 ##
 
-## Lesson xx Content:
+## Lesson 11 Content:
 1. [Creating lists](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#creating-lists)
 2. [Accessing List Elements](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#accessing-list-elements)
 3. [List Slicing](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md#list-slicing)
