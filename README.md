@@ -56,8 +56,7 @@ That's it and good luck u.u
 
 4. [Final Level - Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 5. [Bonus Level](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises---94-exercises-in-total)
-6. [What's Next](https://github.com/marcoshsq/Python_Crash_Course#whats-next)
-7. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
+6. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
 
 ---
 
@@ -288,12 +287,6 @@ That's it and good luck u.u
 
 - List with the proposed exercises: [Extra List 06](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/06_Strings/01_Extra_List_06.md)
 - List of solved exercises: [Solved List 06](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/06_Strings)
-
----
-
-## What's Next
-
-If you've come this far, first of all, congrats, you're awesome, if you followed all this curriculum and done all exercises, hats off for you. Now if you want to know what to do now, [click here u.u](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/What's_Next.md)
 
 ---
 
