@@ -1,22 +1,22 @@
 <div align="center">
   
-# Dictionary
+# Dictionaries
 
 </div>
 
-### Introduction if necessary
-
-##
-
-## Lesson xx Content:
+## Lesson 12 Content:
 1. []()
 2. []()
 
 ---
 
-### Topic one
+### Dictionaries
 
-Content
+
+A dictionary consists of keys and values. It is helpful to compare a dictionary to a list. Instead of being indexed numerically like a list, dictionaries have keys. These keys are the keys that are used to access values within a dictionary.
+
+![image](https://user-images.githubusercontent.com/64812097/160974726-aeb91fcd-3d8e-4cef-92f2-2c3a03699642.png)
+
 
 ##
 
