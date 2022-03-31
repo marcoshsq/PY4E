@@ -5,8 +5,11 @@
 </div>
 
 ## Lesson 12 Content:
-1. []()
-2. []()
+1. [Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md#dictionaries-1)
+2. [Keys](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md#keys)
+3. [Lesson Wrap Up](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md#lesson-wrap-up)
+4. [Conclusion](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md#conclusion)
+5. [More Content](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_12_Dictionaries.md#more-content)
 
 ---
 
