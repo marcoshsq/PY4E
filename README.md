@@ -2,11 +2,7 @@
 
 # Welcome to Python! 
     
-![Python](https://user-images.githubusercontent.com/64812097/159325762-5ccedc24-f4dd-4907-8f81-22b1c1142fc1.png)
-    
 </div>
-
-## (Work in progress - Writen until the part 03 Sets.
 
 If you found this repository, first of all welcome, I hope that some of the materials present here can help you in your studies.
 
