@@ -30,9 +30,7 @@ That's it and good luck u.u
 
 ---
 
-## Course Syllabus:
-
-### Course content:
+## Repository Syllabus:
 
 1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
     - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
