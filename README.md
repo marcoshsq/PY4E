@@ -65,8 +65,6 @@ That's it and good luck u.u
 
 ## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/01_Fundamentals)
 
-In the first part, we'll talk about Python basics, variable types, getting user data, and then we'll make python your favorite calculator. After that I'll show you why python is one of the best languages (spoiler, packages). Then we'll talk about strings and close the part one with if statement.
-
 ### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md):
 
 - Exercise 01 - [Let's get started](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex001.py)
@@ -121,8 +119,6 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 35 - [Analyzing Triangle v1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
 
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/02_Control_Structures)
-
-So far we've been doing several challenges, some easier, some more difficult, but overall nothing too complex, and you might be asking yourself: "Okay, but when do I start doing something useful". Calm down young man, because we're going to start doing this now uhuuu. Computers are good when they do repetitive tasks that we don't like, and we're going to learn how to do that now, in part two, first we're going to talk a little more about the if statement, using nested conditions (if, elif and else). Then we'll talk about loops of repetition (for and while) and how not to crash your pc by falling into an infinite loop.
 
 ### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md)
 
