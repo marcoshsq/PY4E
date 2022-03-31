@@ -2,11 +2,7 @@
 
 # Welcome to Python! 
     
-![Python](https://user-images.githubusercontent.com/64812097/159325762-5ccedc24-f4dd-4907-8f81-22b1c1142fc1.png)
-    
 </div>
-
-## (Work in progress - Writen until the part 03 Sets.
 
 If you found this repository, first of all welcome, I hope that some of the materials present here can help you in your studies.
 
@@ -34,9 +30,7 @@ That's it and good luck u.u
 
 ---
 
-## Course Syllabus:
-
-### Course content:
+## Repository Syllabus:
 
 1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
     - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
@@ -62,15 +56,12 @@ That's it and good luck u.u
 
 4. [Final Level - Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
 5. [Bonus Level](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises---94-exercises-in-total)
-6. [Lost Levels](https://github.com/marcoshsq/Python_Crash_Course#lost-levels---extra-material)
-7. [What's Next](https://github.com/marcoshsq/Python_Crash_Course#whats-next)
-8. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
+6. [What's Next](https://github.com/marcoshsq/Python_Crash_Course#whats-next)
+7. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
 
 ---
 
 ## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/01_Fundamentals)
-
-In the first part, we'll talk about Python basics, variable types, getting user data, and then we'll make python your favorite calculator. After that I'll show you why python is one of the best languages (spoiler, packages). Then we'll talk about strings and close the part one with if statement.
 
 ### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md):
 
@@ -126,8 +117,6 @@ In the first part, we'll talk about Python basics, variable types, getting user 
 - Exercise 35 - [Analyzing Triangle v1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
 
 ## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/02_Control_Structures)
-
-So far we've been doing several challenges, some easier, some more difficult, but overall nothing too complex, and you might be asking yourself: "Okay, but when do I start doing something useful". Calm down young man, because we're going to start doing this now uhuuu. Computers are good when they do repetitive tasks that we don't like, and we're going to learn how to do that now, in part two, first we're going to talk a little more about the if statement, using nested conditions (if, elif and else). Then we'll talk about loops of repetition (for and while) and how not to crash your pc by falling into an infinite loop.
 
 ### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md)
 
@@ -264,7 +253,7 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 ### Click [here](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/Suggested_projects.md) for a list of suggested projects with a short descriptions.
 
 - [Odd or Even Game](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/odd_or_even_game.py)
-- [Rock Paper Scissors](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/rock_paper_scissors.py)
+- [Rock Paper Scissors](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/rock_paper_scissors_game.py)
 
 ---
 
@@ -299,12 +288,6 @@ So far we've been doing several challenges, some easier, some more difficult, bu
 
 - List with the proposed exercises: [Extra List 06](https://github.com/marcoshsq/Python_Crash_Course/blob/main/03_Bonus_Level_Extra_Exercises/06_Strings/01_Extra_List_06.md)
 - List of solved exercises: [Solved List 06](https://github.com/marcoshsq/Python_Crash_Course/tree/main/03_Bonus_Level_Extra_Exercises/06_Strings)
-
----
-
-## Lost Levels - Extra Material 
-
-### Add description
 
 ---
 
