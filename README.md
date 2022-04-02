@@ -140,7 +140,7 @@ Repository with my notes, and solved exercises done during my studies on Python.
 - Exercise 94 - [Joining Dictionaries and Lists](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex094.py)
 - Exercise 95 - [Improving Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex095.py)
 
-## Part 04 - [Routine Structures]
+## Part 04 - [Routine Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/03_Compound_Structures)
 
 ### Level 13 - [Functions](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_13_Getting_serious_with_Functions.md)
 
