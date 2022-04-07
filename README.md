@@ -1,73 +1,19 @@
-<div align="center">
-
 # Welcome to Python! 
     
-</div>
-
-If you found this repository, first of all welcome, I hope that some of the materials present here can help you in your studies.
-
-Like you, I'm also learning python, and I'm studying with different materials (books, websites, courses, youtube and etc.), and I had created this repository just to store the exercises that I was solving during my studies, and also to learn some code versioning using git and github.
-
-However, looking at my notebooks, and all the exercises that I was solving, I thought that, instead of just putting the solved exercises here, why not contextualize them. That's where the idea for this repository came from, which I'm calling Python Crash Course. Where I basically put dozens of notes I made during my studies, plus all the exercises I solved and a series of useful links that if you, like me, are also learning Python, you'll want to keep some of this material saved. Anyway, knowledge only exists when it is shared and if this repository helps someone I will feel super accomplished.
-
-In summary what you will find here is: A lesson, where I explain a little theory, after that a series of exercises, which were solved by me, so if you have any doubts, you can send me a message, but the most difficult ones are well explained step by step. And in each lesson, I made sure to put one or more links to materials that I found relevant.
-
-This is an introductory course and the concepts covered range from Python 3 basics to composite structures. In all, there will be more than 150 exercises solved and at the end there will be some larger projects applying all the knowledge acquired.
-
-Anyway, that's it. Again, welcome and I hope you enjoy what you find here.
-
-The purpose of this repository is to teach you the basics of the Python language (using Python 3) in the most practical way, offering you over 200 exercises to practice (because practice makes permanent), and some small projects to sharp your skills. (づ｡◕‿‿◕｡)づ
-
-But it is very important to point out, this is not a traditional course, and I do not intend to take you by hand and guide you, so I strongly encourage you to research, this is the reason why I listed so many materials, research, research and research.
-
-You're not required to memorize anything that's here, but if you ever need to, you need to know where to refresh your memory. Remember:
-
-### You don't need to know how to do it, but you need to know how to google it!
-
-That's it and good luck u.u
-
-ヽ(^◇^*)/
-
 ---
 
-## Repository Syllabus:
-
-1. [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course#part-01---fundamentals)
-    - 01.[Intro](https://github.com/marcoshsq/Python_Crash_Course#level-01---hello-python)
-    - 02.[First Steps](https://github.com/marcoshsq/Python_Crash_Course#level-02---knowing-your-variable)
-    - 03.[Calculation](https://github.com/marcoshsq/Python_Crash_Course#level-03---python-can-be-your-calculator)
-    - 04.[Packages](https://github.com/marcoshsq/Python_Crash_Course#level-04---leveling-up-with-upgrades)
-    - 05.[Strings](https://github.com/marcoshsq/Python_Crash_Course#level-05---there-are-no-strings-on-me)
-    - 06.[Conditionals (If)](https://github.com/marcoshsq/Python_Crash_Course#level-06---what-if)
-
-2. [Control Structures](https://github.com/marcoshsq/Python_Crash_Course#part-02---control-structures)
-    - 07.[Conditionals (If, elif, else)](https://github.com/marcoshsq/Python_Crash_Course#level-07---what-ifs)
-    - 08.[Loops (for)](https://github.com/marcoshsq/Python_Crash_Course#level-08---making-python-sweat-with-for-loops)
-    - 09.[Loops (while)](https://github.com/marcoshsq/Python_Crash_Course#level-09---making-python-sweat-with-while-loops)
-
-3. [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course#part-03---compound-structures)
-    - 10.[Tuples](https://github.com/marcoshsq/Python_Crash_Course#level-10---tuples-101)
-    - 11.[Lists](https://github.com/marcoshsq/Python_Crash_Course#level-11---lists-ftw)
-    - 12.[Sets and Dictionaries](https://github.com/marcoshsq/Python_Crash_Course#level-12---sets-and-dictionaries)
-    - 13.[Functions](https://github.com/marcoshsq/Python_Crash_Course#level-13---getting-serious-with-functions)
-    - 14.[Modularization](https://github.com/marcoshsq/Python_Crash_Course#level-14---modularization-till-the-end)
-    - 15.[Files](https://github.com/marcoshsq/Python_Crash_Course#level-15---a-file-about-files)
-    - 16.[Classes](https://github.com/marcoshsq/Python_Crash_Course#level-16---lets-finish-with-classes)
-
-4. [Final Level - Projects](https://github.com/marcoshsq/Python_Crash_Course#final-level---projects)
-5. [Bonus Level](https://github.com/marcoshsq/Python_Crash_Course#bonus-level---extra-exercises---94-exercises-in-total)
-6. [Useful links](https://github.com/marcoshsq/Python_Crash_Course#useful-links)
+Repository with my notes, and solved exercises done during my studies on Python.
 
 ---
 
 ## Part 01 - [Fundamentals](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/01_Fundamentals)
 
-### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md):
+### Level 01 - [Hello Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_01_Hello_Python.md)
 
 - Exercise 01 - [Let's get started](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex001.py)
 - Exercise 02 - [Answering the User](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/01_Intro/ex002.py)
 
-### Level 02 - [Knowing Your Variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md):
+### Level 02 - [Variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md):
 
 - Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex003.py)
 - Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
@@ -86,7 +32,7 @@ That's it and good luck u.u
 - Exercise 14 - [Temperature converter](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex014.py)
 - Exercise 15 - [Car rent](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex015.py)
 
-### Level 04 - [Leveling up with upgrades](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
+### Level 04 - [Packages](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_04_Leveling_up_with_upgrades.md)
 
 - Exercise 16 - [Cracking a number](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex016.py)
 - Exercise 17 - [Right Triangle](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex017.py) 
@@ -95,7 +41,7 @@ That's it and good luck u.u
 - Exercise 20 - [Sorting an order in the list](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex020.py)
 - Exercise 21 - [Playing a song](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/04_Packages/ex021.py)
 
-### Level 05 - [There are no Strings on me](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
+### Level 05 - [Strings](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_05_There_are_no_strings_on_me.md)
 
 - Exercise 22 - [Text Analyzer](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex022.py)
 - Exercise 23 - [Separating digits of a number](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex023.py)
@@ -104,7 +50,7 @@ That's it and good luck u.u
 - Exercise 26 - [First and last occurrence of a string](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex026.py)
 - Exercise 27 - [A person's first and last name](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/05_Strings/ex027.py)
 
-### Level 06 - [What if?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md)
+### Level 06 - [If Statement](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_06_What_if.md)
 
 - Exercise 28 - [Guessing Game v.1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex028.py)
 - Exercise 29 - [Electronic Radar](https://github.com/marcoshsq/Python_Crash_Course/edit/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex029.py)
@@ -114,11 +60,6 @@ That's it and good luck u.u
 - Exercise 33 - [Largest and smallest](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex033.py)
 - Exercise 34 - [Multiple increases](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex034.py)
 - Exercise 35 - [Analyzing Triangle v1.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/06_Conditionals/ex035.py)
-
-## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/02_Control_Structures)
-
-### Level 07 - [What ifs?](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_07_What_ifs.md)
-
 - Exercise 36 - [Approving Loan](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex036.py)
 - Exercise 37 - [Numerical Base Converter](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex037.py)
 - Exercise 38 - [Comparing numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex038.py)
@@ -130,7 +71,9 @@ That's it and good luck u.u
 - Exercise 44 - [Payment Manager](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex044.py)
 - Exercise 45 - [Rock Paper and Scissors](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex045.py)
 
-### Level 08 - [Making Python sweat with for loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md)
+## Part 02 - [Control Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/02_Control_Structures)
+
+### Level 08 - [For loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_08_For_(making%20Python_sweat_with_Loops).md)
 
 - Exercise 46 - [Countdown](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex046.py)
 - Exercise 47 - [Counting evens](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex047.py)
@@ -144,7 +87,7 @@ That's it and good luck u.u
 - Exercise 55 - [Highest and lowest of the Sequence](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex055.py)
 - Exercise 56 - [Complete analyzer](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/08_Repetitions_(for)/ex056.py)
 
-### Level 09 - [Making Python sweat with while loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_09_While_(making%20Python_sweat_with_more_Loops).md)
+### Level 09 - [While loops](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/Lesson_09_While_(making%20Python_sweat_with_more_Loops).md)
 
 - Exercise 57 - [Data Validation](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex057.py)
 - Exercise 58 - [Guessing Game v2.0](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/09_Repetitions_(While)/ex058.py)
@@ -164,7 +107,7 @@ That's it and good luck u.u
 
 ## Part 03 - [Compound Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/03_Compound_Structures)
 
-### Level 10 - [Tuples 101](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md)
+### Level 10 - [Tuples](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_10_Tuples_101.md)
 
 - Exercise 72 - [Number by Extension](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex072.py)
 - Exercise 73 - [Tuples with Soccer Teams](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex073.py)
@@ -173,7 +116,7 @@ That's it and good luck u.u
 - Exercise 76 - [Tuple Price List](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex076.py) 
 - Exercise 77 - [Counting Vowels in Tuple](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/10_Tuples/ex077.py)
 
-### Level 11 - [Lists FTW](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md)
+### Level 11 - [Lists](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_11_Lists_FTW.md)
 
 - Exercise 78 - [Largest and Smallest Values in the List](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex078.py)
 - Exercise 79 - [Single Values in a List](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/11_Lists/ex079.py)
@@ -197,7 +140,9 @@ That's it and good luck u.u
 - Exercise 94 - [Joining Dictionaries and Lists](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex094.py)
 - Exercise 95 - [Improving Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/12_Dictionaries/ex095.py)
 
-### Level 13 - [Getting Serious with Functions](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_13_Getting_serious_with_Functions.md)
+## Part 04 - [Routine Structures](https://github.com/marcoshsq/Python_Crash_Course/tree/main/01_Python_Crash_Course/03_Compound_Structures)
+
+### Level 13 - [Functions](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_13_Getting_serious_with_Functions.md)
 
 - Exercise 96 - [Function that calculates area](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex096.py)
 - Exercise 97 - [A special print](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex097.py)
@@ -211,7 +156,7 @@ That's it and good luck u.u
 - Exercise 105 - [Parsing and Generating Dictionaries](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex105.py)
 - Exercise 106 - [Interactive Python Help System](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/13_Functions/ex106.py)
 
-### Level 14 - [Modularization till the End](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_14_Modularization_till_the_end.md)
+### Level 14 - [Modularization](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_14_Modularization_till_the_end.md)
 
 - Exercise 107 - [Exercising Python modules](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex107.py)
 - Exercise 108 - [Formatting Coins in Python](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex108.py)
@@ -221,12 +166,12 @@ That's it and good luck u.u
 - Exercise 112 - [Entering Monetary Data](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/14_Modularization%20in%20Python/ex112.py)
 
 
-### Level 15 - [A file about Files](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_15_A_file_about_files.md)
+### Level 15 - [Files](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_15_A_file_about_files.md)
 
 - Exercise 113 - [Analyzing IPs](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/15_Files/ex113.py)
 - Exercise 114 - [report.txt](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/15_Files/ex114.py)
 
-### Level 16 - [Let's finish with Classes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_16_Let's_finish_with_class.md)
+### Level 16 - [Classes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/Lesson_16_Let's_finish_with_class.md)
 
 - Exercise 115 - [Ball Class](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/16_Classes/ex115.py)
 - Exercise 116 - [Square Class](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/16_Classes/ex116.py)
@@ -246,17 +191,6 @@ That's it and good luck u.u
 - Exercise 130 - [Pet Farm](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/03_Compound_Structures/16_Classes/ex130.py)
 
 ---
-
-## Final Level - [Projects](https://github.com/marcoshsq/Python_Crash_Course/tree/main/02_Final_Level_Projects)
-
-### Click [here](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/01_Suggested_projects.md) for a list of suggested projects with a short descriptions.
-
-- [Odd or Even Game](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/odd_or_even_game.py)
-- [Rock Paper Scissors](https://github.com/marcoshsq/Python_Crash_Course/blob/main/02_Final_Level_Projects/rock_paper_scissors_game.py)
-
----
-
-## Bonus Level - Extra Exercises - (94 exercises in total)
 
 ### Extra exercises 01 - Sequential Structures - (12 exercises in total):
 
