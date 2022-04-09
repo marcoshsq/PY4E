@@ -151,7 +151,7 @@ if x > 10:
     print("and also above 20!")
   else:
     print("but not above 20.")
-
+````
 
 ##
 
@@ -188,11 +188,10 @@ The monthly installment cannot exceed 30% of the salary or else the loan will be
 45. Exercise 045 - Create a program that makes the computer play Jokenpo with you. [Solution](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/02_Control_Structures/07_Conditionals_II_(If%2C%20Elif%2C%20Else)/ex045.py)
 
 ---
----
 
 ### Lesson Wrap Up:
 
-````python
+```python
 
 name = input('Enter your name')
 if name == 'Alice':
@@ -201,7 +200,7 @@ elif name == 'Joe':
     print('Hi, Alice.')
 else:
     print('Hello, stranger.')
-````
+```
 
 ---
 
