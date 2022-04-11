@@ -17,14 +17,14 @@ Repository with my notes, and solved exercises done during my studies on Python.
 
 ### Level 02 - Variable.
 
-- [Notes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md):
+- [Notes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_02_knowing_your_variable.md)
 
 - Exercise 03 - [Adding two numbers](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex003.py)
 - Exercise 04 - [knowing a variable](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/02_First_steps/ex004.py)
 
 ### Level 03 - Python can be your calculator!
 
-- [Notes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md):
+- [Notes](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/Lesson_03_Python_can_be_your_calculator.md)
 
 - Exercise 05 - [Before and After](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex005.py)
 - Exercise 06 - [Double, Triple, Square Root](https://github.com/marcoshsq/Python_Crash_Course/blob/main/01_Python_Crash_Course/01_Fundamentals/03_Calculation/ex006.py)
