@@ -3,7 +3,16 @@
 
 
 # Solution
+from os import sep
+
+
 print("Hello, World!")
+
+# Other things we can do
+print("Hello ", "World!", sep=",")
+print("Hello", "World", sep="**")
+print("Hello", "World", sep="//")
+print("Hello", end="*-*-*")
 
 """Fun trivia
 Brian Kernighan, authored one of the most widely read programming books, C Programming Language. 
