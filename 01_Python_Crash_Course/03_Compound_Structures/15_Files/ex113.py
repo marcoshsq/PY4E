@@ -1,6 +1,6 @@
 # Exercise 113 - Analyzing IPs
 
-'''Write a program that reads a text file containing a list of IP addresses 
+"""Write a program that reads a text file containing a list of IP addresses 
 and generates another file containing a report of valid and invalid 
 IP addresses. The input file has the following format:
 
@@ -28,4 +28,10 @@ The output file has the following format:
 9.8.234.5
 192.168.0.256
 
-'''
+"""
+
+with open("ex113.txt", "r") as f:
+    pass
+
+print(f.close())
+
