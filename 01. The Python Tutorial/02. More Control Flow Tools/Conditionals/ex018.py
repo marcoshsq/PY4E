@@ -2,7 +2,7 @@
 from random import randint
 import time
 
-# Exercise 045 - GAME: Rock Paper and Scissors
+# Exercise 018 - GAME: Rock Paper and Scissors
 """Create a program that makes the computer play Jokenpo with you."""
 
 """ This program is going to be long

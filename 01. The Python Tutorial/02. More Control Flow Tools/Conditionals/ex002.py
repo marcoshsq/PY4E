@@ -1,4 +1,4 @@
-# Exercise 029 - Electronic Radar
+# Exercise 002 - Electronic Radar
 """Write a program that reads the speed of a car. If he has 80 km,
 show a message saying he has been fined.
 The fine will cost R$7.00 for each km over the limit."""

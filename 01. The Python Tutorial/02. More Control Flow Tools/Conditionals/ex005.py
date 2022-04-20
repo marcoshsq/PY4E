@@ -1,6 +1,6 @@
 from datetime import date
 
-# Exercise 032 - Leap Year
+# Exercise 005 - Leap Year
 """Make a program that reads any year and shows if it is a leap year."""
 
 year = int(input("Insert the year to be analysed, or zero for current year: "))

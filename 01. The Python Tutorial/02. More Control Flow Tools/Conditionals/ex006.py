@@ -1,4 +1,4 @@
-# Exercise 033 - Largest and smallest.
+# Exercise 006 - Largest and smallest.
 """Create a program that reads three values and says which is the largest and which is the smallest."""
 
 a, b, c = [int(x) for x in input("Please enter the numbers: ").split()]

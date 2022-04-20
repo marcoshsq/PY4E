@@ -1,4 +1,4 @@
-# Exercise 034 - Multiple increases
+# Exercise 007 - Multiple increases
 """ Write a program that asks for an employee's salary and calculates the amount of his raise:
 For salaries greater than R$1250.00, calculate a 10% increase.
 For those below or equal, the increase is 15%."""

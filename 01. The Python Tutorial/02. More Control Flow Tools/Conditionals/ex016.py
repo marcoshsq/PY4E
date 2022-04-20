@@ -1,4 +1,4 @@
-# Exercise 043 - Body Mass Index
+# Exercise 016 - Body Mass Index
 
 """
 Develop a logic that reads a person's weight and height, calculates their

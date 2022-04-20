@@ -1,4 +1,4 @@
-# Exercise 031 - Travel Cost
+# Exercise 004 - Travel Cost
 """Develop a program that asks the distance of a trip in Km.
 Calculate the ticket price, charging R$0.50 per km for travel
 of up to 200Km and R$0.45 for longer trips."""

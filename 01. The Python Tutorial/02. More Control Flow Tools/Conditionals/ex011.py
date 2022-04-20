@@ -1,4 +1,4 @@
-# Exercise 038 - Comparing numbers
+# Exercise 011 - Comparing numbers
 
 """Write a program that reads two integers and compares them. displaying a message on the screen: The first value is higher"""
 

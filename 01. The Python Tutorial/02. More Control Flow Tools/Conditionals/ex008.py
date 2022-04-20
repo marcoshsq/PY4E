@@ -1,4 +1,4 @@
-# Exercise 035 - Analyzing Triangle v1.0
+# Exercise 008 - Analyzing Triangle v1.0
 """Develop a program that reads the length of three lines and
 tell the user whether or not they can form a triangle."""
 

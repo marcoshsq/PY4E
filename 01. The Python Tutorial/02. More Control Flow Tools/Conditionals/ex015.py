@@ -1,4 +1,4 @@
-# Exercise 042 - Analyzing Triangles v2.0
+# Exercise 015 - Analyzing Triangles v2.0
 
 """Redo Exercise 035, the one of triangles, 
 adding the feature to show what type of triangle will be formed:

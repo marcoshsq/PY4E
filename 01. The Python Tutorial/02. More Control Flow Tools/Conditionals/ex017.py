@@ -1,4 +1,4 @@
-# Exercise 044 - Payment Manager
+# Exercise 017 - Payment Manager
 
 """ 
     Develop a program that calculates the amount to be paid for a product,

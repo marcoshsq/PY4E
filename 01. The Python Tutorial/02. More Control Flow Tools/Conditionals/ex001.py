@@ -1,7 +1,7 @@
 import random
 import time
 
-# Exercise 028 - Guessing Game v.1.0
+# Exercise 001 - Guessing Game v.1.0
 """Write a program that makes the computer "think" of an integer between 0 and 5
 and ask the user to try to find out which number was chosen by the computer.
 The program should write on the screen if the user won or lost."""

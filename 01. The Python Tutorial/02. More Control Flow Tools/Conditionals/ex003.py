@@ -1,4 +1,4 @@
-# Exercise 030 - Odd or Even?
+# Exercise 003 - Odd or Even?
 """Create a program that reads an integer and shows on the screen whether it is ODD or EVEN."""
 
 number = int(input("Insert a value: "))

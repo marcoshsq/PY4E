@@ -1,4 +1,4 @@
-# Exercise 037 - Numerical Base Converter
+# Exercise 010 - Numerical Base Converter
 
 """Write a Python program that reads any integer and asks it to the user to choose what the conversion base will be: 1 for binary, 2 for octal and 3 for hexadecimal."""
 

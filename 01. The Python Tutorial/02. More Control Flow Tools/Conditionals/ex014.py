@@ -1,4 +1,4 @@
-# Exercise 041 - Classifying Athletes
+# Exercise 014 - Classifying Athletes
 
 """ The National Swimming Confederation needs a program that reads the year of
     birth of an athlete and show their category, according to age:

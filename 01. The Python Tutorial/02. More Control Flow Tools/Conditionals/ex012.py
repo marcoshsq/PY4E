@@ -1,6 +1,6 @@
 from datetime import date
 
-# Exercise 039 - Military Enlistment
+# Exercise 012 - Military Enlistment
 
 """Make a program that reads a young person's year of birth and reports, according to their age,whether he is still going to enlist in the military, 
 whether it's the exact time to enlist or whether it's past the time of enlistment. Your program should also show the time remaining or overdue.."""
