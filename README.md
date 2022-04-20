@@ -4,7 +4,7 @@
 
 Esse repositório contém minhas anotações e exercícios resolvidos usando a linguagem Python.
 
-Basicamente, estou seguind a documentação oficial, do Python org, e resolvendo execícios que coletei na internet.
+
 
 ---
 
