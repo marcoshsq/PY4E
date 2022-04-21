@@ -4,9 +4,21 @@ Esse ``README`` serve mais como um guia, para eu mesmo me achar, caso precise en
 
 ---
 
+## Sumário.
+
+- [Pasta 01]()
+- [Pasta 02]()
+- [Pasta 03]()
+- [Pasta 04]()
+- [Pasta 05]()
+
+---
+
+## Pasta 01.
+
 - 01. [Problem 01]() - Como obter a média de N números em Python.
 
-- 02. [Problem 02]() - 
+- 02. [Problem 02]() - Como somar os primeiros N inteiros positivos em Python. (Progressão Aritmética)
 
 - 03. [Problem 03]() - 
 
@@ -23,4 +35,8 @@ Esse ``README`` serve mais como um guia, para eu mesmo me achar, caso precise en
 - 09. [Problem 09]() - 
 
 - 10. [Problem 10]() - 
+
+---
+
+## Pasta 02.
 
