@@ -42,7 +42,12 @@
 
 ### [Course 03](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2003%20-%20Using%20Python%20to%20Access%20Web%20Data).
 
-Work in Progress...
+    Chapter Eleven: Regular Expressions;
+    Chapter Twelve: Networks and Sockets;
+    Chapter Twelve: Programs that Surf the Web;
+    Chapter Thirteen: Web Services and XML;
+    Chapter Thirteen: JSON and the REST Architecture.
+
 
 ### [Course 04](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2004%20-%20Using%20Databases%20with%20Python).
 
