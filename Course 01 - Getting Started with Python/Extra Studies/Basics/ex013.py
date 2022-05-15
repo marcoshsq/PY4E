@@ -1,6 +1,8 @@
-# Exercise 013: Salary readjustment
-"""Make an algorithm that reads an employee's salary and displays their new salary, with a 15% increase."""
+# Extra Exercise 002
 
-salary = float(input("Salary: "))
-increase = salary * 1.15
-print(f"After the 15% increase, the salary of R${salary} became R${increase:.2f} ")
+"""Write a program that prompts the user for the hours and fee amount
+per hours to calculate the amount to be paid for hours of service."""
+
+hours = float(input("Enter the number of hours: "))
+fee = float(input("Enter the fee amount: "))
+print("The amount to be paid is: US$", hours * fee)

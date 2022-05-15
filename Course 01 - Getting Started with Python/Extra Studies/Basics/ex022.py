@@ -1,25 +1,23 @@
-# Exercise 022 - Text Analyzer
-"""Create a program that reads a person's full name and displays:
-- The name in all uppercase and lowercase letters.
-- How many letters in total (without considering spaces).
-- How many letters are in the first name."""
+import math
 
-name = str(input("Enter your full name: ")).strip()
-name_up = name.upper()  # The name in all capital letters
-name_low = name.lower()  # The name in all lowercase letters
-number_name = len(name) - name.count(
-    " "
-)  # How many letters in total (not including spaces)
-find_the_space = name.find(
-    " "
-)  # Find the first space to use as a reference when slicing the first name
-first_name = name[:find_the_space]
-number_first_name = len(first_name)
+# Exercise 017: Right Triangle
+"""Write a program that reads the length of the opposite side and the adjacent side of a right triangle.
+Calculate and display the length of the hypotenuse."""
 
-print(
-    f"Analyzing your name... \n"
-    f"Your capitalized name is: {name_up} \n"
-    f"Your name in lowercase is: {name_low} \n"
-    f"Your name has {number_name} letters \n"
-    f"Your name is {first_name} \nand it has {number_first_name} letters"
-)
+# To do this we will use the Pythagorean theorem: a^2 = b^2 + c^2
+
+# Method 01, without the module Math:
+# First we ask for the leg values
+leg_a = float(input("Enter the value of leg a: "))
+leg_b = float(input("Enter the value of leg b: "))
+# Then we do the Pythagorean theorem: sqrt((leg_a^2)+(leg_b^2))
+hyp = ((leg_a**2) + (leg_b**2)) ** 0.5
+print(f"The triangle hypotenuse measures {hyp:.2f} m.u. ")
+
+# Method 02, with the module using pow function:
+hypo = math.sqrt(math.pow(leg_a, 2) + math.pow(leg_b, 2))
+print(f"The triangle hypotenuse measures {hypo:.2f} m.u. ")
+
+# Method 03 using the module with the hypotenuse function u.u
+hypot = math.hypot(leg_a, leg_b)
+print(f"The triangle hypotenuse measures {hypot:.2f} m.u. ")

@@ -1,13 +1,33 @@
-# Exercise 011: Painting a wall
-"""Write a program that reads the width and height of a wall in meters,
-calculate its area and the amount of paint needed to paint it,
-knowing that each liter of paint paints an area of 2 square meters."""
+# Extra Exercise 010
 
-height = float(input("What is the height of the wall? "))
-width = float(input("What is the width of the wall? "))
-area = height * width
-paint = area / 2
+"""Make a program that asks how much you earn per hour and the number of hours worked in the month.
+Calculate and show the total of your salary in that month, knowing that 11% is deducted for Income Tax,
+8% for the INSS and 5% for the union, make a program that gives us:
+
+a) gross salary.
+b) how much you paid to the INSS.
+c) how much he paid to the union.
+d) the net salary.
+e) calculate the discounts and the net salary, according to the table below:
+
++ Gross Salary: R$
+- Income Tax (11%): BRL
+- INSS (8%): BRL
+- Union (5%): BRL
+= Net Salary: R$
+
+Obs.: Gross Salary - Discounts = Net Salary."""
+
+
+hour_pay = float(input("Earning per hour: "))
+worked_hour = float(input("Hours of work: "))
+gross_salary = hour_pay * worked_hour
+ir = gross_salary * 0.11
+inss = gross_salary * 0.08
+sindicate = gross_salary * 0.05
+net_salary = gross_salary - (ir + inss + sindicate)
+print(f"O seu salário bruto é: R${gross_salary}")
 print(
-    f"Your wall has the following dimensions: {height}m x {width}m and has an area of: {area}m²"
+    f"Foram descontados R${ir} de IR(11%), R${inss} de INSS(8%) e R${sindicate} do sindicato"
 )
-print(f"To paint this wall, you will need {paint}L of paint")
+print(f"O seu salário liquido é R${net_salary}")

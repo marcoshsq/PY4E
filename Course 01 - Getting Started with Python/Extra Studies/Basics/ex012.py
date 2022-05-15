@@ -1,10 +1,7 @@
-# Exercise 012: Calculating discounts
-"""Make an algorithm that reads the price of a product and displays its new price, with a 5% discount."""
+# Exercise 010: Currency Converter
+"""Create a program that reads how much money a person has in their wallet,
+then show how many dollars he can buy."""
 
-price = float(input("Product's price: "))
-discount = price * 0.95
-print(
-    f"The product that cost R${price}, in the promotion, with 5% off, is R${discount:.2f}"
-)
-
-# This (:.2f) limits the number of places after the comma u.u
+money_real = float(input("How much money do you have: "))
+dolar = money_real / 5.10
+print(f"With R${money_real} you can buy US${dolar:.2f} ")

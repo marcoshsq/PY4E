@@ -1,12 +1,14 @@
-# Exercise 026 - First and last occurrence of a string
-"""Make a program that reads a sentence on the keyboard and shows how many times the letter "A" appears,
-what position it first appears in and what position it appears last time."""
+import random
 
-name = input("Insert name: ").casefold().strip()
-num_a = name.count("a")
-first_a = name.find("a")
-last_a = name.rfind("a")
+# Exercise 020 - Sorting an order in the list
+"""The same teacher from challenge 019 wants to draw the order of presentation of student work.
+Make a program that reads the names of the four students and shows a random order."""
 
-print(f"The letter a appears {num_a} times")
-print(f"The first appearence is at {first_a + 1}")
-print(f"The last is at {last_a + 1}")
+name_01 = str(input("Enter the first student's name: "))
+name_02 = str(input("Enter the second student's name: "))
+name_03 = str(input("Enter the third student's name: "))
+name_04 = str(input("Enter the fourth student's name: "))
+
+students = [name_01, name_02, name_03, name_04]
+random.shuffle(students)
+print(f"The order of presentation will be: {students}")

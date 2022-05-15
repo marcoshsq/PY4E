@@ -1,15 +1,36 @@
-# Exercise 023 - Separating digits of a number
-"""Write a program that reads a number from 0 to 9999 and
-display each of the separate digits on the screen."""
+import math
 
-number = int(input("Enter a number: "))
-unity = (number // 1) % 10
-ten = (number // 10) % 10
-hundred = (number // 100) % 10
-thousand = (number // 1000) % 100
+# Exercise 018 - Sine, Cosine and Tangent
+""" Write a program that reads any angle and displays the sine, cosine and tangent value on the screen of this angle."""
 
-print(f"Analyzing the number {number} it is composed of: ")
-print(f"Unit: {unity}")
-print(f"ten: {ten}")
-print(f"Hundred: {hundred}")
-print(f"thousand: {thousand}")
+# in degrees radians
+
+an = float(input("Enter the angle: "))
+ang = math.radians(an)
+sen_rad = math.sin(ang)
+cos_rad = math.cos(ang)
+tan_rad = math.tan(ang)
+
+print(
+    f"The Sine is: {sen_rad:.2f}. The Cosine is: {cos_rad:.2f} and the Tangent is: {tan_rad:.2f}"
+)
+
+# in degrees centigrade
+
+sen_deg = sen_rad * (180 / math.pi)
+cos_deg = cos_rad * (180 / math.pi)
+tan_deg = tan_rad * (180 / math.pi)
+
+print(
+    f"The Sine is: {sen_deg:.2f}. The Cosine is: {cos_deg:.2f} and the Tangent is: {tan_deg:.2f}"
+)
+
+# or
+
+seno = math.degrees(sen_rad)
+cosen = math.degrees(cos_rad)
+tang = math.degrees(tan_rad)
+
+print(
+    f"The Sine is: {seno:.2f}. The Cosine is: {cosen:.2f} and the Tangent is: {tang:.2f}"
+)

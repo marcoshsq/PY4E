@@ -1,14 +1,9 @@
-import random
+# Exercise 015: Car rent
+"""Write a program that asks the number of kilometers traveled by a rental car
+and the number of days for which it was rented. Calculate the price to pay, 
+knowing that the car costs R$60 per day and R$0.15 per km driven."""
 
-# Exercise 020 - Sorting an order in the list
-"""The same teacher from challenge 019 wants to draw the order of presentation of student work.
-Make a program that reads the names of the four students and shows a random order."""
-
-name_01 = str(input("Enter the first student's name: "))
-name_02 = str(input("Enter the second student's name: "))
-name_03 = str(input("Enter the third student's name: "))
-name_04 = str(input("Enter the fourth student's name: "))
-
-students = [name_01, name_02, name_03, name_04]
-random.shuffle(students)
-print(f"The order of presentation will be: {students}")
+number_days = float(input("Number of rental days: "))
+km_used = float(input("Number of kilometers traveled: "))
+payment = (number_days * 60) + (km_used * 0.15)
+print(f"The fee is R${payment}")
