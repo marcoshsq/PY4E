@@ -48,10 +48,13 @@
     Chapter Thirteen: Web Services and XML;
     Chapter Thirteen: JSON and the REST Architecture.
 
-
 ### [Course 04](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2004%20-%20Using%20Databases%20with%20Python).
 
-Work in Progress...
+    Chapter Fourteen: Object-oriented programming;
+    Chapter Fifteen: Basic Structured Query Language;
+    Chapter Fifteen: Data Models and Relational SQL;
+    Chapter Fifteen: Many-to-Many Relationships in SQL
+    Chapter Fifteen: Databases and Visualization.
 
 ### [Course 05](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2005%20-%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python).
 
