@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Google_IT_Automation_with_Python_Projects">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face" height="250" width="250">
+    <img src="https://thecombx.files.wordpress.com/2020/02/unnamed.jpg" alt="Michigan" height="150" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face" height="150" width="150">
   </a>
 </p>
   <h1 align="center">Python for Everybody</h1>
@@ -23,23 +24,23 @@
 
 ## Projects, assignments and exercises:
 
-## [Course 01]().
+### [Course 01]().
 
 
 
-## [Course 02]().
-
-Work in Progress...
-
-## [Course 03]().
+### [Course 02]().
 
 Work in Progress...
 
-## [Course 04]().
+### [Course 03]().
 
 Work in Progress...
 
-## [Course 05]().
+### [Course 04]().
+
+Work in Progress...
+
+### [Course 05]().
 
 
 ---
