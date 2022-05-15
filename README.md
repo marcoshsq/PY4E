@@ -24,23 +24,31 @@
 
 ## Projects, assignments and exercises:
 
-### [Course 01]().
+### [Course 01](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2001%20-%20Getting%20Started%20with%20Python).
 
+    Chapter One - Why we Program?
+    Chapter Two: Variables and Expressions;
+    Chapter Three: Conditional Code;
+    Chapter Four: Functions;
+    Chapter Five: Loops and Iteration.
 
+### [Course 02](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2002%20-%20Python%20Data%20Structures).
 
-### [Course 02]().
+    Chapter Six: Strings;
+    Chapter Seven: Files;
+    Chapter Eight: Lists;
+    Chapter Nine: Dictionaries;
+    Chapter Ten: Tuples.
+
+### [Course 03](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2003%20-%20Using%20Python%20to%20Access%20Web%20Data).
 
 Work in Progress...
 
-### [Course 03]().
+### [Course 04](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2004%20-%20Using%20Databases%20with%20Python).
 
 Work in Progress...
 
-### [Course 04]().
-
-Work in Progress...
-
-### [Course 05]().
+### [Course 05](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2005%20-%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python).
 
 
 ---
