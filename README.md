@@ -84,4 +84,3 @@
 - [PEP 8](https://peps.python.org/pep-0008/) - Style Guide for Python Code.
 
 ---
-[Go back to the top](https://github.com/marcoshsq/Python_for_Everybody#python-for-everybody)
