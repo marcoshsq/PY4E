@@ -24,7 +24,7 @@
 
 ## Projects, assignments and exercises:
 
-### [Course 01](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2001%20-%20Getting%20Started%20with%20Python).
+### [Course 01](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2001%20-%20Getting%20Started%20with%20Python) - Getting Started w/ Python.
 
     Chapter One - Why we Program?
     Chapter Two: Variables and Expressions;
@@ -32,7 +32,7 @@
     Chapter Four: Functions;
     Chapter Five: Loops and Iteration.
 
-### [Course 02](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2002%20-%20Python%20Data%20Structures).
+### [Course 02](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2002%20-%20Python%20Data%20Structures) - Python Data Structures.
 
     Chapter Six: Strings;
     Chapter Seven: Files;
@@ -40,7 +40,7 @@
     Chapter Nine: Dictionaries;
     Chapter Ten: Tuples.
 
-### [Course 03](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2003%20-%20Using%20Python%20to%20Access%20Web%20Data).
+### [Course 03](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2003%20-%20Using%20Python%20to%20Access%20Web%20Data) - Using Python to Access Web Data.
 
     Chapter Eleven: Regular Expressions;
     Chapter Twelve: Networks and Sockets;
@@ -48,7 +48,7 @@
     Chapter Thirteen: Web Services and XML;
     Chapter Thirteen: JSON and the REST Architecture.
 
-### [Course 04](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2004%20-%20Using%20Databases%20with%20Python).
+### [Course 04](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2004%20-%20Using%20Databases%20with%20Python) - Using Databases with Python.
 
     Chapter Fourteen: Object-oriented programming;
     Chapter Fifteen: Basic Structured Query Language;
@@ -56,8 +56,14 @@
     Chapter Fifteen: Many-to-Many Relationships in SQL
     Chapter Fifteen: Databases and Visualization.
 
-### [Course 05](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2005%20-%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python).
+### [Course 05](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2005%20-%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python) - Capstone.
 
+    Building a Search Engine;
+    Exploring Data Sources (Project);
+    Spidering and Modeling Email Data;
+    Accessing New Data Sources (Project);
+    Visualizing Email Data;
+    Visualizing new Data Sources (Project).
 
 ---
 
