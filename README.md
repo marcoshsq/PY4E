@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/marcoshsq/Google_IT_Automation_with_Python_Projects">
+  <a href="https://github.com/marcoshsq/Python4Everybody">
     <img src="https://thecombx.files.wordpress.com/2020/02/unnamed.jpg" alt="Michigan" height="150" width="150">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face" height="150" width="150">
   </a>
@@ -63,3 +63,10 @@ For more material, references and exercises this course is also available for fr
     Building a Search Engine.
 
 ---
+
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2T9578E32DVB">
+    <img src="https://github.com/marcoshsq/Python4Everybody/blob/main/PY4E%20-%20Certificates/Python%20for%20Everybody.jpg" alt="Michigan">
+  </a>
+</p>
