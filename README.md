@@ -60,11 +60,6 @@ For more material, references and exercises this course is also available for fr
 
 ### [Course 05](https://github.com/marcoshsq/Python_for_Everybody/tree/main/Course%2005%20-%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python) - Capstone.
 
-    Building a Search Engine;
-    Exploring Data Sources (Project);
-    Spidering and Modeling Email Data;
-    Accessing New Data Sources (Project);
-    Visualizing Email Data;
-    Visualizing new Data Sources (Project).
+    Building a Search Engine.
 
 ---
