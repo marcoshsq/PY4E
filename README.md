@@ -1,14 +1,13 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Python4Everybody">
-    <img src="https://thecombx.files.wordpress.com/2020/02/unnamed.jpg" alt="Michigan" height="150" width="150">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face" height="150" width="150">
+    <img src="https://thecombx.files.wordpress.com/2020/02/unnamed.jpg" alt="Michigan" height="120" width="120">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face" height="120" width="120">
   </a>
 </p>
   <h1 align="center">Python for Everybody</h1>
 </div>
-<br>
  
-### This repository contains the projects and assignments developed during the Python for Everybody Specialization available on Coursera.
+This repository contains the projects and assignments developed during the Python for Everybody Specialization available on Coursera.
 
 ### About the Specialization:
 
